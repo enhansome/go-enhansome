@@ -261,7 +261,7 @@
             "last_commit": "2025-10-07T01:08:59Z",
             "owner": "chai2010",
             "repo": "advanced-go-programming-book",
-            "stars": 20087
+            "stars": 20088
           }
         },
         {
@@ -1029,7 +1029,7 @@
             "last_commit": "2026-08-24T13:50:49Z",
             "owner": "1Panel-dev",
             "repo": "1Panel",
-            "stars": 36633
+            "stars": 36634
           }
         },
         {
@@ -3376,7 +3376,7 @@
                 "last_commit": "2026-08-23T06:31:44Z",
                 "owner": "XIU2",
                 "repo": "CloudflareSpeedTest",
-                "stars": 28714
+                "stars": 28715
               }
             },
             {
@@ -3436,7 +3436,7 @@
                 "last_commit": "2026-08-24T19:44:36Z",
                 "owner": "drakkan",
                 "repo": "sftpgo",
-                "stars": 12443
+                "stars": 12444
               }
             },
             {
@@ -4285,7 +4285,7 @@
                     "last_commit": "2026-08-25T02:10:57Z",
                     "owner": "pomerium",
                     "repo": "pomerium",
-                    "stars": 4972
+                    "stars": 4973
                   }
                 },
                 {
@@ -5672,7 +5672,7 @@
                 "last_commit": "2025-08-06T08:54:04Z",
                 "owner": "IceWhaleTech",
                 "repo": "CasaOS",
-                "stars": 37124
+                "stars": 37125
               }
             },
             {
@@ -7176,7 +7176,7 @@
                 "last_commit": "2026-08-18T18:04:17Z",
                 "owner": "swaggo",
                 "repo": "swag",
-                "stars": 12990
+                "stars": 12991
               }
             },
             {
@@ -8095,7 +8095,7 @@
                     "archived": false,
                     "id": 333303663,
                     "language": "Go",
-                    "last_commit": "2026-08-25T05:22:34Z",
+                    "last_commit": "2026-08-25T05:40:43Z",
                     "owner": "bytebase",
                     "repo": "bytebase",
                     "stars": 14408
@@ -10116,7 +10116,7 @@
                 "last_commit": "2026-08-21T06:16:05Z",
                 "owner": "langhuihui",
                 "repo": "monibuca",
-                "stars": 2404
+                "stars": 2405
               }
             },
             {
@@ -13656,7 +13656,7 @@
                 "last_commit": "2026-08-24T19:07:37Z",
                 "owner": "podman-container-tools",
                 "repo": "podman",
-                "stars": 32681
+                "stars": 32682
               }
             },
             {
@@ -15178,7 +15178,7 @@
                 "archived": false,
                 "id": 74175805,
                 "language": "Go",
-                "last_commit": "2026-08-25T03:37:17Z",
+                "last_commit": "2026-08-25T05:44:16Z",
                 "owner": "istio",
                 "repo": "istio",
                 "stars": 38357
@@ -15193,7 +15193,7 @@
                 "archived": false,
                 "id": 14125254,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:29:49Z",
+                "last_commit": "2026-08-25T05:43:04Z",
                 "owner": "hashicorp",
                 "repo": "consul",
                 "stars": 30040
@@ -15238,7 +15238,7 @@
                 "archived": false,
                 "id": 29217054,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:37:25Z",
+                "last_commit": "2026-08-25T05:41:34Z",
                 "owner": "micro",
                 "repo": "go-micro",
                 "stars": 23040
@@ -17383,7 +17383,7 @@
                 "archived": false,
                 "id": 10721619,
                 "language": "Go",
-                "last_commit": "2026-08-25T05:15:23Z",
+                "last_commit": "2026-08-25T05:40:09Z",
                 "owner": "hajimehoshi",
                 "repo": "ebiten",
                 "stars": 13418
@@ -19805,7 +19805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:38:25.398Z",
+    "last_updated": "2026-08-25T05:47:29.589Z",
     "original_repository": "shockerli/go-awesome",
     "original_repository_id": 218233431,
     "original_repository_sha": "1b9a10e2f77b0c4979b451edde1487bff39b98de",
