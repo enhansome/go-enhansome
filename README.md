@@ -16,11 +16,11 @@
 >
 > 国内官网镜像(访问快): <https://golang.google.cn>
 >
-> GitHub: <https://github.com/golang/go> ⭐ 139,420 | 🐛 10,368 | 🌐 Go | 📅 2026-10-20
+> GitHub: <https://github.com/golang/go> ⭐ 139,376 | 🐛 10,387 | 🌐 Go | 📅 2026-10-20
 >
 > 开发者平台: <https://go.dev>
 >
-> Wiki: <https://github.com/golang/go/wiki> ⭐ 139,420 | 🐛 10,368 | 🌐 Go | 📅 2026-10-20
+> Wiki: <https://github.com/golang/go/wiki> ⭐ 139,376 | 🐛 10,387 | 🌐 Go | 📅 2026-10-20
 >
 > 官方博客: <https://blog.golang.org>
 
@@ -42,9 +42,9 @@
 
 ## Awesome
 
-* [**Awesome Go**](https://github.com/avelino/awesome-go) ⭐ 189,313 | 🐛 84 | 🌐 Go | 📅 2026-10-19
-* [Go Patterns](https://github.com/tmrts/go-patterns) ⭐ 28,285 | 🐛 65 | 🌐 Go | 📅 2024-05-14 - Go 版本的设计模式
-* [Go 开发者路线图](https://github.com/Alikhll/golang-developer-roadmap) ⭐ 18,416 | 🐛 25 | 📅 2023-02-13
+* [**Awesome Go**](https://github.com/avelino/awesome-go) ⭐ 189,500 | 🐛 83 | 🌐 Go | 📅 2026-10-19
+* [Go Patterns](https://github.com/tmrts/go-patterns) ⭐ 28,286 | 🐛 65 | 🌐 Go | 📅 2024-05-14 - Go 版本的设计模式
+* [Go 开发者路线图](https://github.com/Alikhll/golang-developer-roadmap) ⭐ 18,414 | 🐛 25 | 📅 2023-02-13
 * [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) ⭐ 15,463 | 🐛 28 | 🌐 Go | 📅 2026-05-30 - 算法模板
 * [golang-open-source-projects](https://github.com/hackstoic/golang-open-source-projects) ⭐ 11,566 | 🐛 30 | 🌐 Go | 📅 2026-05-31 - 含描述的中文版 Awesome Go
 * [Go 学习之路](https://github.com/talkgo/read) ⭐ 6,181 | 🐛 1 | 🌐 Go | 📅 2023-03-26 - Go 学习资料汇集
@@ -86,12 +86,12 @@
 
 ## 文档
 
-* [Go Web 应用开发](https://github.com/astaxie/build-web-application-with-golang) ⭐ 43,873 | 🐛 139 | 🌐 Go | 📅 2024-05-12
-* [《The Way to Go》中文版](https://github.com/Unknwon/the-way-to-go_ZH_CN) ⭐ 35,003 | 🐛 46 | 🌐 Go | 📅 2024-08-14
-* [leetcode-cookbook](https://github.com/halfrost/LeetCode-Go) ⭐ 33,810 | 🐛 4 | 🌐 Go | 📅 2026-10-12 - LeetCode in Go
-* [Learn Go with Tests](https://github.com/quii/learn-go-with-tests) ⭐ 23,912 | 🐛 6 | 🌐 Go | 📅 2026-09-30
-* [learngo](https://github.com/inancgumus/learngo) ⭐ 20,167 | 🐛 44 | 🌐 Go | 📅 2025-06-24 - 1000+ Go 示例、练习和测试
-* [Go 语言高级编程](https://github.com/chai2010/advanced-go-programming-book) ⭐ 20,085 | 🐛 61 | 🌐 Go | 📅 2025-10-07
+* [Go Web 应用开发](https://github.com/astaxie/build-web-application-with-golang) ⭐ 43,874 | 🐛 139 | 🌐 Go | 📅 2024-05-12
+* [《The Way to Go》中文版](https://github.com/Unknwon/the-way-to-go_ZH_CN) ⭐ 35,002 | 🐛 46 | 🌐 Go | 📅 2024-08-14
+* [leetcode-cookbook](https://github.com/halfrost/LeetCode-Go) ⭐ 33,811 | 🐛 4 | 🌐 Go | 📅 2026-10-12 - LeetCode in Go
+* [Learn Go with Tests](https://github.com/quii/learn-go-with-tests) ⭐ 23,913 | 🐛 6 | 🌐 Go | 📅 2026-09-30
+* [learngo](https://github.com/inancgumus/learngo) ⭐ 20,170 | 🐛 44 | 🌐 Go | 📅 2025-06-24 - 1000+ Go 示例、练习和测试
+* [Go 语言高级编程](https://github.com/chai2010/advanced-go-programming-book) ⭐ 20,086 | 🐛 61 | 🌐 Go | 📅 2025-10-07
 * [7天用Go从零实现系列](https://github.com/geektutu/7days-golang) ⭐ 17,029 | 🐛 51 | 🌐 Go | 📅 2026-09-05
 * [Ultimate Go](https://github.com/hoanhan101/ultimate-go) ⭐ 14,902 | 🐛 0 | 🌐 Go | 📅 2025-06-15 - 终极 Go 学习指南，包含大量文档化的代码和程序分析
 * [Go 语言标准库](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) ⭐ 9,527 | 🐛 33 | 🌐 Go | 📅 2023-04-25 *[`在线阅读`](https://books.studygolang.com/The-Golang-Standard-Library-by-Example/)*
@@ -100,8 +100,8 @@
 * [**Go 101**](https://github.com/go101/go101) ⭐ 6,051 | 🐛 12 | 🌐 HTML | 📅 2026-10-16 [（中文版）](https://github.com/golang101/golang101) ⭐ 5,036 | 🐛 9 | 🌐 HTML | 📅 2026-10-16
 * [Golang - 100天从新手到大师](https://github.com/rubyhan1314/Golang-100-Days) ⭐ 6,047 | 🐛 27 | 🌐 Smarty | 📅 2022-08-15 - 某培训机构的部分教程内容
 * [Go语法树入门](https://github.com/chai2010/go-ast-book) ⭐ 5,504 | 🐛 8 | 🌐 Go | 📅 2024-09-26
-* [Go 语言圣经（中文版）](https://github.com/gopl-zh/gopl-zh.github.com) ⭐ 4,993 | 🐛 2 | 🌐 Go | 📅 2026-07-03
-* [over-golang](https://github.com/overnote/over-golang) ⭐ 4,474 | 🐛 0 | 🌐 Go | 📅 2026-10-20 - Go 学习笔记
+* [Go 语言圣经（中文版）](https://github.com/gopl-zh/gopl-zh.github.com) ⭐ 4,992 | 🐛 2 | 🌐 Go | 📅 2026-07-03
+* [over-golang](https://github.com/overnote/over-golang) ⭐ 4,475 | 🐛 0 | 🌐 Go | 📅 2026-10-20 - Go 学习笔记
 * [**Go 语言原本**](https://github.com/changkun/go-under-the-hood) ⭐ 4,355 | 🐛 0 | 🌐 HTML | 📅 2026-09-01
 * [golang-notes](https://github.com/cch123/golang-notes) ⭐ 4,023 | 🐛 16 | 🌐 HTML | 📅 2022-07-18 - Go 源码阅读笔记
 * [Golang修养之路](https://github.com/aceld/golang) ⭐ 3,949 | 🐛 8 | 📅 2026-05-04
@@ -141,13 +141,13 @@
 
 ## 指南
 
-* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 139,420 | 🐛 10,368 | 🌐 Go | 📅 2026-10-20
+* [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments) ⭐ 139,376 | 🐛 10,387 | 🌐 Go | 📅 2026-10-20
 * [Uber Go Style Guide](https://github.com/uber-go/guide) ⭐ 17,746 | 🐛 39 | 🌐 Makefile | 📅 2026-04-15
-* [Go 安全指南](https://github.com/Tencent/secguide/blob/main/Go安全指南.md) ⭐ 13,441 | 🐛 40 | 📅 2023-03-20 - 腾讯发布的《代码安全指南》Go 语言篇
+* [Go 安全指南](https://github.com/Tencent/secguide/blob/main/Go安全指南.md) ⭐ 13,442 | 🐛 40 | 📅 2023-03-20 - 腾讯发布的《代码安全指南》Go 语言篇
 * [go-perfbook](https://github.com/dgryski/go-perfbook) ⭐ 10,889 | 🐛 9 | 📅 2022-01-05 - 编写和优化Go代码
-* [Go Recipes](https://github.com/nikolaydubina/go-recipes) ⭐ 4,796 | 🐛 23 | 🌐 Go | 📅 2026-10-16 - 一些技巧
+* [Go Recipes](https://github.com/nikolaydubina/go-recipes) ⭐ 4,795 | 🐛 23 | 🌐 Go | 📅 2026-10-16 - 一些技巧
 * [go-advices](https://github.com/cristaloleg/go-advices) ⭐ 3,290 | 🐛 4 | 🌐 Go | 📅 2025-08-09
-* [Go Concurrency Guide](https://github.com/luk4z7/go-concurrency-guide) ⭐ 2,894 | 🐛 1 | 🌐 Go | 📅 2023-04-25
+* [Go Concurrency Guide](https://github.com/luk4z7/go-concurrency-guide) ⭐ 2,895 | 🐛 1 | 🌐 Go | 📅 2023-04-25
 * [Go Code Convention](https://github.com/unknwon/go-code-convention) ⭐ 347 | 🐛 0 | 📅 2021-05-19
 * [The Go Programming Language Specification](https://golang.org/ref/spec) [（中文老版）](http://docscn.studygolang.com/ref/spec.old)
 * [实效 Go 编程](http://docscn.studygolang.com/doc/effective_go.html)
@@ -180,24 +180,24 @@
 
 ## 成品项目
 
-* [memos](https://github.com/usememos/memos) ⭐ 63,933 | 🐛 90 | 🌐 Go | 📅 2026-10-19 - 笔记服务，具有移动客户端、浏览器扩展等生态
-* [mkcert](https://github.com/FiloSottile/mkcert) ⭐ 59,751 | 🐛 177 | 🌐 Go | 📅 2024-08-13 - 生成本地 HTTPS 加密证书的工具
-* [1Panel](https://github.com/1Panel-dev/1Panel) ⭐ 37,213 | 🐛 374 | 🌐 Go | 📅 2026-10-20 - Linux 服务器运维管理面板
-* [listmonk](https://github.com/knadh/listmonk) ⭐ 23,869 | 🐛 62 | 🌐 Go | 📅 2026-10-20 - 资讯、邮件列表管理工具（Web）
-* [Answer](https://github.com/answerdev/answer) ⭐ 15,701 | 🐛 132 | 🌐 Go | 📅 2026-10-15 - 问答社区
+* [memos](https://github.com/usememos/memos) ⭐ 63,961 | 🐛 90 | 🌐 Go | 📅 2026-10-20 - 笔记服务，具有移动客户端、浏览器扩展等生态
+* [mkcert](https://github.com/FiloSottile/mkcert) ⭐ 59,759 | 🐛 177 | 🌐 Go | 📅 2024-08-13 - 生成本地 HTTPS 加密证书的工具
+* [1Panel](https://github.com/1Panel-dev/1Panel) ⭐ 37,220 | 🐛 354 | 🌐 Go | 📅 2026-10-21 - Linux 服务器运维管理面板
+* [listmonk](https://github.com/knadh/listmonk) ⭐ 23,889 | 🐛 57 | 🌐 Go | 📅 2026-10-21 - 资讯、邮件列表管理工具（Web）
+* [Answer](https://github.com/answerdev/answer) ⭐ 15,701 | 🐛 136 | 🌐 Go | 📅 2026-10-20 - 问答社区
 * [pan-light](https://github.com/peterq/pan-light) ⭐ 12,117 | 🐛 87 | 🌐 Go | 📅 2023-09-17 - 不限速的百度网盘客户端, 基于 Go + Qt5 开发
-* [Shiori](https://github.com/go-shiori/shiori) ⭐ 11,672 | 🐛 120 | 🌐 Go | 📅 2026-10-17 - 书签管理
-* [miniflux](https://github.com/miniflux/miniflux) ⭐ 9,811 | 🐛 286 | 🌐 Go | 📅 2026-10-20 - Feed 阅读器
-* [cfssl](https://github.com/cloudflare/cfssl) ⭐ 9,489 | 🐛 343 | 🌐 Go | 📅 2026-10-06 - Cloudflare 开源的 PKI 和 TLS 工具集
-* [Rainbond](https://github.com/goodrain/rainbond) ⭐ 6,275 | 🐛 56 | 🌐 Go | 📅 2026-10-20 - 基于Docker、Kubernetes等容器技术的开源PaaS
-* [BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) ⭐ 5,782 | 🐛 241 | 🌐 Go | 📅 2026-09-09 - 百度网盘客户端（命令行）
-* [bbs-go](https://github.com/mlogclub/bbs-go) ⭐ 3,487 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-13 - 开源社区
+* [Shiori](https://github.com/go-shiori/shiori) ⭐ 11,676 | 🐛 117 | 🌐 Go | 📅 2026-10-20 - 书签管理
+* [miniflux](https://github.com/miniflux/miniflux) ⭐ 9,810 | 🐛 279 | 🌐 Go | 📅 2026-10-21 - Feed 阅读器
+* [cfssl](https://github.com/cloudflare/cfssl) ⭐ 9,490 | 🐛 345 | 🌐 Go | 📅 2026-10-06 - Cloudflare 开源的 PKI 和 TLS 工具集
+* [Rainbond](https://github.com/goodrain/rainbond) ⭐ 6,276 | 🐛 59 | 🌐 Go | 📅 2026-10-21 - 基于Docker、Kubernetes等容器技术的开源PaaS
+* [BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go) ⭐ 5,790 | 🐛 241 | 🌐 Go | 📅 2026-09-09 - 百度网盘客户端（命令行）
+* [bbs-go](https://github.com/mlogclub/bbs-go) ⭐ 3,488 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-13 - 开源社区
 * [studygolang](https://github.com/studygolang/studygolang) ⭐ 2,726 | 🐛 67 | 🌐 Go | 📅 2026-10-19 - Go 语言中文网
-* [Artalk](https://github.com/ArtalkJS/Artalk) ⭐ 2,348 | 🐛 105 | 🌐 Go | 📅 2026-10-11 - 自托管评论系统
-* [wayback](https://github.com/wabarc/wayback) ⭐ 2,241 | 🐛 63 | 🌐 Go | 📅 2026-10-17 - 网页快照备份
-* [OpenSCRM](https://github.com/openscrm/api-server) ⭐ 1,656 | 🐛 19 | 🌐 Go | 📅 2025-10-30 - 基于Go和React的企业微信私域流量管理系统
+* [Artalk](https://github.com/ArtalkJS/Artalk) ⭐ 2,349 | 🐛 105 | 🌐 Go | 📅 2026-10-11 - 自托管评论系统
+* [wayback](https://github.com/wabarc/wayback) ⭐ 2,241 | 🐛 65 | 🌐 Go | 📅 2026-10-21 - 网页快照备份
+* [OpenSCRM](https://github.com/openscrm/api-server) ⭐ 1,655 | 🐛 19 | 🌐 Go | 📅 2025-10-30 - 基于Go和React的企业微信私域流量管理系统
 * [**NYADB2**](https://github.com/qw4990/NYADB2) ⭐ 811 | 🐛 5 | 🌐 Go | 📅 2018-06-29 - Go 实现的关系型数据库, 值得用于学习
-* [EiBlog](https://github.com/eiblog/eiblog) ⭐ 691 | 🐛 2 | 🌐 Go | 📅 2026-08-14 - 博客
+* [EiBlog](https://github.com/eiblog/eiblog) ⭐ 691 | 🐛 3 | 🌐 Go | 📅 2026-10-21 - 博客
 * [pipe](https://github.com/88250/pipe) ⭐ 453 | 🐛 4 | 🌐 Go | 📅 2026-10-16 - 博客平台
 * [mdr](https://github.com/MichaelMure/mdr) ⭐ 440 | 🐛 12 | 🌐 Go | 📅 2022-12-29 - 命令行下的 Markdown 阅读工具
 * [链滴笔记](https://github.com/88250/liandi) ⚠️ Archived - 桌面端笔记应用
@@ -206,9 +206,9 @@
 
 ### 静态网站生成器
 
-* [Hugo](https://github.com/gohugoio/hugo) ⭐ 90,174 | 🐛 211 | 🌐 Go | 📅 2026-10-19
+* [Hugo](https://github.com/gohugoio/hugo) ⭐ 90,183 | 🐛 215 | 🌐 Go | 📅 2026-10-20
 * [ink](https://github.com/InkProject/ink) ⭐ 1,089 | 🐛 11 | 🌐 Go | 📅 2026-08-17
-* [plenti](https://github.com/plentico/plenti) ⭐ 1,078 | 🐛 88 | 🌐 JavaScript | 📅 2026-10-20
+* [plenti](https://github.com/plentico/plenti) ⭐ 1,078 | 🐛 89 | 🌐 JavaScript | 📅 2026-10-21
 * [verless](https://github.com/verless/verless) ⚠️ Archived
 * [moul](https://github.com/moulco/moul) ⭐ 250 | 🐛 17 | 🌐 JavaScript | 📅 2024-01-09 - 生成照片站点
 * [zas](https://github.com/imdario/zas) ⭐ 216 | 🐛 4 | 🌐 Go | 📅 2026-10-18
@@ -225,12 +225,12 @@
 
 ### Web 框架
 
-* [Gin](https://github.com/gin-gonic/gin) ⭐ 89,386 | 🐛 800 | 🌐 Go | 📅 2026-10-10 - 轻量 Web 框架
-* [fiber](https://github.com/gofiber/fiber) ⭐ 40,224 | 🐛 22 | 🌐 Go | 📅 2026-10-20 - 一种 Express 风格的、基于 fasthttp 的 HTTP Web 框架
-* [go-zero](https://github.com/tal-tech/go-zero) ⭐ 33,388 | 🐛 255 | 🌐 Go | 📅 2026-10-19 - 好未来开源的 Web 框架
-* [echo](https://github.com/labstack/echo) ⭐ 32,775 | 🐛 75 | 🌐 Go | 📅 2026-10-12
-* [Iris](https://github.com/kataras/iris) ⭐ 25,555 | 🐛 150 | 🌐 Go | 📅 2026-07-27 - Web 开发框架
-* [GoFrame](https://github.com/gogf/gf) ⭐ 13,288 | 🐛 146 | 🌐 Go | 📅 2026-10-19 - `国产`
+* [Gin](https://github.com/gin-gonic/gin) ⭐ 89,395 | 🐛 806 | 🌐 Go | 📅 2026-10-10 - 轻量 Web 框架
+* [fiber](https://github.com/gofiber/fiber) ⭐ 40,227 | 🐛 21 | 🌐 Go | 📅 2026-10-21 - 一种 Express 风格的、基于 fasthttp 的 HTTP Web 框架
+* [go-zero](https://github.com/tal-tech/go-zero) ⭐ 33,393 | 🐛 255 | 🌐 Go | 📅 2026-10-19 - 好未来开源的 Web 框架
+* [echo](https://github.com/labstack/echo) ⭐ 32,775 | 🐛 76 | 🌐 Go | 📅 2026-10-12
+* [Iris](https://github.com/kataras/iris) ⭐ 25,556 | 🐛 150 | 🌐 Go | 📅 2026-07-27 - Web 开发框架
+* [GoFrame](https://github.com/gogf/gf) ⭐ 13,288 | 🐛 148 | 🌐 Go | 📅 2026-10-20 - `国产`
 * [Revel](https://github.com/revel/revel) ⭐ 13,208 | 🐛 94 | 🌐 Go | 📅 2023-10-28
 * [Buffalo](https://github.com/gobuffalo/buffalo) ⭐ 8,422 | 🐛 21 | 🌐 Go | 📅 2026-03-21 - 快速生成 Web 项目的开发工具
 * [Ponzu](https://github.com/ponzu-cms/ponzu) ⭐ 5,759 | 🐛 36 | 🌐 Go | 📅 2025-11-17
@@ -253,11 +253,11 @@
 
 ### 业务框架
 
-* [PocketBase](https://github.com/pocketbase/pocketbase) ⭐ 61,503 | 🐛 19 | 🌐 Go | 📅 2026-10-14 - 带有后台管理面板、文件和权限管理、集成 SQLite 数据库的单一文件后端服务开发框架，支持 Dart 和 JS SDK 快速开发 APP
-* [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) ⭐ 25,081 | 🐛 41 | 🌐 Go | 📅 2026-10-14 - 基于 Gin + Vue 实现的后台框架
-* [wenjianzhang/go-admin](https://github.com/go-admin-team/go-admin) ⭐ 12,806 | 🐛 23 | 🌐 Go | 📅 2026-10-08 - 基于 Gin + Vue 实现的后台框架
-* [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin) ⭐ 9,010 | 🐛 246 | 🌐 Go | 📅 2025-06-24 - 后台管理快速开发框架，与 laravel-admin 类似
-* [YAO](https://github.com/YaoApp/yao) ⭐ 8,149 | 🐛 11 | 🌐 Go | 📅 2026-10-19 - 使用 JSON 即可创建数据库模型、编写 API 接口、描述管理后台界面的应用引擎
+* [PocketBase](https://github.com/pocketbase/pocketbase) ⭐ 61,517 | 🐛 19 | 🌐 Go | 📅 2026-10-14 - 带有后台管理面板、文件和权限管理、集成 SQLite 数据库的单一文件后端服务开发框架，支持 Dart 和 JS SDK 快速开发 APP
+* [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) ⭐ 25,083 | 🐛 41 | 🌐 Go | 📅 2026-10-14 - 基于 Gin + Vue 实现的后台框架
+* [wenjianzhang/go-admin](https://github.com/go-admin-team/go-admin) ⭐ 12,805 | 🐛 23 | 🌐 Go | 📅 2026-10-08 - 基于 Gin + Vue 实现的后台框架
+* [GoAdminGroup/go-admin](https://github.com/GoAdminGroup/go-admin) ⭐ 9,009 | 🐛 246 | 🌐 Go | 📅 2025-06-24 - 后台管理快速开发框架，与 laravel-admin 类似
+* [YAO](https://github.com/YaoApp/yao) ⭐ 8,158 | 🐛 11 | 🌐 Go | 📅 2026-10-19 - 使用 JSON 即可创建数据库模型、编写 API 接口、描述管理后台界面的应用引擎
 * [goxygen](https://github.com/Shpota/goxygen) ⭐ 3,590 | 🐛 16 | 🌐 Go | 📅 2024-12-18 - 基于 Go, React, MongoDB 技术实现的全栈应用生成器
 * [snake](https://github.com/1024casts/snake) ⭐ 2,427 | 🐛 30 | 🌐 Go | 📅 2026-04-22 - 业务API框架
 * [nging](https://github.com/admpub/nging) ⭐ 1,595 | 🐛 13 | 🌐 Go | 📅 2026-10-10 - Go语言通用后台管理框架
@@ -265,10 +265,10 @@
 
 ### 项目骨架
 
-* [Standard Go Project Layout](https://github.com/golang-standards/project-layout) ⭐ 56,697 | 🐛 93 | 🌐 Makefile | 📅 2026-04-28 - Go 项目目录结构示例
-* [go-clean-arch](https://github.com/bxcodec/go-clean-arch) ⭐ 10,175 | 🐛 37 | 🌐 Go | 📅 2024-04-24
+* [Standard Go Project Layout](https://github.com/golang-standards/project-layout) ⭐ 56,702 | 🐛 93 | 🌐 Makefile | 📅 2026-04-28 - Go 项目目录结构示例
+* [go-clean-arch](https://github.com/bxcodec/go-clean-arch) ⭐ 10,176 | 🐛 37 | 🌐 Go | 📅 2024-04-24
 * [Create Go App CLI](https://github.com/create-go-app/cli) ⭐ 2,770 | 🐛 13 | 🌐 Go | 📅 2026-02-10 - 通过命令行创建前后端项目的开发骨架
-* [go-rest-api](https://github.com/qiangxue/go-rest-api) ⭐ 1,706 | 🐛 12 | 🌐 Go | 📅 2022-02-07 - Go RESTful API Starter Kit
+* [go-rest-api](https://github.com/qiangxue/go-rest-api) ⭐ 1,707 | 🐛 12 | 🌐 Go | 📅 2022-02-07 - Go RESTful API Starter Kit
 * [clean-gin](https://github.com/dipeshdulal/clean-gin) ⭐ 536 | 🐛 6 | 🌐 Go | 📅 2023-05-24 - 基于 Gin 构建的整洁架构项目骨架
 * [golang-repo-template](https://github.com/moul/golang-repo-template) ⭐ 322 | 🐛 16 | 🌐 Go | 📅 2026-09-19 - 一个包含了很多实践的项目模板
 * [go-starter](https://github.com/adobe/go-starter) ⚠️ Archived - Adobe 的 Go 工程模板
@@ -276,14 +276,14 @@
 ### DDD 框架
 
 * [Wild Workouts](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) ⭐ 6,479 | 🐛 29 | 🌐 Go | 📅 2026-08-27 - DDD、整洁架构、CQRS的示例项目
-* [freedom](https://github.com/8treenet/freedom) ⭐ 2,267 | 🐛 13 | 🌐 Go | 📅 2026-09-01 - 基于六边形架构的框架
+* [freedom](https://github.com/8treenet/freedom) ⭐ 2,267 | 🐛 14 | 🌐 Go | 📅 2026-10-21 - 基于六边形架构的框架
 * [Clean Architecture in Go](https://github.com/eminetto/clean-architecture-go-v2) ⚠️ Archived - 整洁架构示例
 * [go-cleanarch](https://github.com/roblaszczak/go-cleanarch) ⭐ 983 | 🐛 5 | 🌐 Go | 📅 2021-11-08 - Go 整洁架构规则校验工具
 * [esim](https://github.com/jukylin/esim) ⭐ 101 | 🐛 5 | 🌐 Go | 📅 2021-12-23 - 基于六边形架构的微服务框架
 
 ### TCP 框架
 
-* [zinx](https://github.com/aceld/zinx) ⭐ 7,756 | 🐛 96 | 🌐 Go | 📅 2026-06-06 - TCP并发服务器框架
+* [zinx](https://github.com/aceld/zinx) ⭐ 7,757 | 🐛 96 | 🌐 Go | 📅 2026-06-06 - TCP并发服务器框架
 
 ### 中间件
 
@@ -300,10 +300,10 @@
 
 #### 参数解析
 
-* [**Cobra**](https://github.com/spf13/cobra) ⭐ 44,708 | 🐛 478 | 🌐 Go | 📅 2026-07-11 - 命令行构建包
-* [urfave/cli](https://github.com/urfave/cli) ⭐ 24,295 | 🐛 32 | 🌐 Go | 📅 2026-10-19 - 命令行程序构建工具
-* [kong](https://github.com/alecthomas/kong) ⭐ 3,190 | 🐛 61 | 🌐 Go | 📅 2026-10-14 - 命令行解析
-* [pflag](https://github.com/spf13/pflag) ⭐ 2,780 | 🐛 139 | 🌐 Go | 📅 2026-10-19 - 命令行参数处理
+* [**Cobra**](https://github.com/spf13/cobra) ⭐ 44,711 | 🐛 480 | 🌐 Go | 📅 2026-07-11 - 命令行构建包
+* [urfave/cli](https://github.com/urfave/cli) ⭐ 24,296 | 🐛 31 | 🌐 Go | 📅 2026-10-21 - 命令行程序构建工具
+* [kong](https://github.com/alecthomas/kong) ⭐ 3,190 | 🐛 61 | 🌐 Go | 📅 2026-10-20 - 命令行解析
+* [pflag](https://github.com/spf13/pflag) ⭐ 2,780 | 🐛 138 | 🌐 Go | 📅 2026-10-20 - 命令行参数处理
 * [go-flags](https://github.com/jessevdk/go-flags) ⭐ 2,694 | 🐛 54 | 🌐 Go | 📅 2026-10-10 - 命令行参数解析
 * [go-arg](https://github.com/alexflint/go-arg) ⭐ 2,287 | 🐛 39 | 🌐 Go | 📅 2026-10-19 - 基于结构体Tag解析命令行参数
 * [flaggy](https://github.com/integrii/flaggy) ⭐ 954 | 🐛 5 | 🌐 Go | 📅 2026-07-29 - 命令参数解析
@@ -312,65 +312,65 @@
 
 #### 输出展示
 
-* [bubbletea](https://github.com/charmbracelet/bubbletea) ⭐ 45,462 | 🐛 267 | 🌐 Go | 📅 2026-10-08 - TUI 框架
-* [glow](https://github.com/charmbracelet/glow) ⭐ 27,743 | 🐛 256 | 🌐 Go | 📅 2026-10-05 - 终端渲染展示 Markdown
-* [gum](https://github.com/charmbracelet/gum) ⭐ 24,519 | 🐛 219 | 🌐 Go | 📅 2026-09-24
+* [bubbletea](https://github.com/charmbracelet/bubbletea) ⭐ 45,474 | 🐛 272 | 🌐 Go | 📅 2026-10-08 - TUI 框架
+* [glow](https://github.com/charmbracelet/glow) ⭐ 27,751 | 🐛 258 | 🌐 Go | 📅 2026-10-05 - 终端渲染展示 Markdown
+* [gum](https://github.com/charmbracelet/gum) ⭐ 24,520 | 🐛 220 | 🌐 Go | 📅 2026-09-24
 * [WTF](https://github.com/wtfutil/wtf) ⭐ 17,124 | 🐛 102 | 🌐 Go | 📅 2026-09-30 - 一个命令行的信息仪表盘，可以定制显示内容
-* [tview](https://github.com/rivo/tview) ⭐ 14,138 | 🐛 105 | 🌐 Go | 📅 2026-08-11 - Terminal UI
+* [tview](https://github.com/rivo/tview) ⭐ 14,141 | 🐛 105 | 🌐 Go | 📅 2026-08-11 - Terminal UI
 * [termui](https://github.com/gizak/termui) ⭐ 13,586 | 🐛 106 | 🌐 Go | 📅 2025-07-10 - 终端仪表盘
-* [Lip Gloss](https://github.com/charmbracelet/lipgloss) ⭐ 11,937 | 🐛 162 | 🌐 Go | 📅 2026-10-11 - 终端布局、样式
+* [Lip Gloss](https://github.com/charmbracelet/lipgloss) ⭐ 11,939 | 🐛 163 | 🌐 Go | 📅 2026-10-11 - 终端布局、样式
 * [Slides](https://github.com/maaslalani/slides) ⭐ 11,691 | 🐛 79 | 🌐 Go | 📅 2026-07-08 - 终端渲染展示 Markdown
-* [bubbles](https://github.com/charmbracelet/bubbles) ⭐ 8,999 | 🐛 248 | 🌐 Go | 📅 2026-10-04 - TUI 组件
+* [bubbles](https://github.com/charmbracelet/bubbles) ⭐ 9,001 | 🐛 248 | 🌐 Go | 📅 2026-10-04 - TUI 组件
 * [Color](https://github.com/fatih/color) ⭐ 8,003 | 🐛 38 | 🌐 Go | 📅 2026-10-12 - 命令行文字颜色
-* [PTerm](https://github.com/pterm/pterm) ⭐ 5,554 | 🐛 66 | 🌐 Go | 📅 2026-10-12 - 支持图表、表格、进度条、树等终端输出展示
+* [PTerm](https://github.com/pterm/pterm) ⭐ 5,554 | 🐛 68 | 🌐 Go | 📅 2026-10-12 - 支持图表、表格、进度条、树等终端输出展示
 * [tcell](https://github.com/gdamore/tcell) ⭐ 5,232 | 🐛 11 | 🌐 Go | 📅 2026-10-19
 * [tablewriter](https://github.com/olekukonko/tablewriter) ⭐ 4,820 | 🐛 8 | 🌐 Go | 📅 2026-10-11 - 终端中输出表格内容
-* [progressbar](https://github.com/schollz/progressbar) ⭐ 4,708 | 🐛 22 | 🌐 Go | 📅 2026-09-19 - 在终端上输出进度条
+* [progressbar](https://github.com/schollz/progressbar) ⭐ 4,707 | 🐛 22 | 🌐 Go | 📅 2026-09-19 - 在终端上输出进度条
 * [cheggaaa/pb](https://github.com/cheggaaa/pb) ⭐ 3,728 | 🐛 30 | 🌐 Go | 📅 2026-10-12 - 终端进度条
-* [go-pretty](https://github.com/jedib0t/go-pretty) ⭐ 3,554 | 🐛 12 | 🌐 Go | 📅 2026-10-19 - 终端渲染表格、列表、进度条等
-* [asciigraph](https://github.com/guptarohit/asciigraph) ⭐ 3,101 | 🐛 8 | 🌐 Go | 📅 2026-10-17 - 在终端中绘制 ASCII 字符的图表
+* [go-pretty](https://github.com/jedib0t/go-pretty) ⭐ 3,555 | 🐛 12 | 🌐 Go | 📅 2026-10-19 - 终端渲染表格、列表、进度条等
+* [asciigraph](https://github.com/guptarohit/asciigraph) ⭐ 3,100 | 🐛 8 | 🌐 Go | 📅 2026-10-17 - 在终端中绘制 ASCII 字符的图表
 * [termdash](https://github.com/mum4k/termdash) ⭐ 3,044 | 🐛 49 | 🌐 Go | 📅 2026-09-14 - 基于 Go Terminal 的仪表板系统
 * [spinner](https://github.com/briandowns/spinner) ⭐ 2,531 | 🐛 23 | 🌐 Go | 📅 2026-10-10 - 涵盖70多种符号或进度条的控制器
-* [mpb](https://github.com/vbauerster/mpb) ⭐ 2,511 | 🐛 12 | 🌐 Go | 📅 2026-09-26 - 支持多个进度条
+* [mpb](https://github.com/vbauerster/mpb) ⭐ 2,512 | 🐛 12 | 🌐 Go | 📅 2026-10-21 - 支持多个进度条
 * [tui](https://github.com/marcusolsson/tui-go) ⚠️ Archived - 终端 UI
 * [termenv](https://github.com/muesli/termenv) ⭐ 2,032 | 🐛 62 | 🌐 Go | 📅 2025-11-21 - 终端应用程序的高级 ANSI 样式和颜色支持
 * [gookit/color](https://github.com/gookit/color) ⭐ 1,607 | 🐛 2 | 🌐 Go | 📅 2026-10-19 - 命令行色彩使用库
-* [PIXterm](https://github.com/eliukblau/pixterm) ⭐ 1,020 | 🐛 0 | 🌐 Go | 📅 2026-08-01 - 在命令行终端中绘图
+* [PIXterm](https://github.com/eliukblau/pixterm) ⭐ 1,021 | 🐛 0 | 🌐 Go | 📅 2026-08-01 - 在命令行终端中绘图
 * [ASCIIPlayer](https://github.com/qeesung/asciiplayer) ⭐ 239 | 🐛 12 | 🌐 Go | 📅 2020-04-08 - 在终端中通过 ASCII 输出图片或视频，支持 png、jpeg、gif、mp4、avi 等格式
 
 #### 其他
 
-* [fzf](https://github.com/junegunn/fzf) ⭐ 83,685 | 🐛 333 | 🌐 Go | 📅 2026-10-17 - 终端模糊查询神器，支持多平台
+* [fzf](https://github.com/junegunn/fzf) ⭐ 83,707 | 🐛 333 | 🌐 Go | 📅 2026-10-21 - 终端模糊查询神器，支持多平台
 * [peco](https://github.com/peco/peco) ⭐ 7,914 | 🐛 6 | 🌐 Go | 📅 2026-10-17 - 交互式过滤工具
 * [gotop](https://github.com/cjbassi/gotop) ⚠️ Archived - 类 top 系统监控显示
 * [go-prompt](https://github.com/c-bata/go-prompt) ⭐ 5,501 | 🐛 115 | 🌐 Go | 📅 2025-08-12 - 命令行交互式输入
-* [gosu](https://github.com/tianon/gosu) ⭐ 5,013 | 🐛 8 | 🌐 Shell | 📅 2026-06-06 - 以指定的用户权限来运行脚本
+* [gosu](https://github.com/tianon/gosu) ⭐ 5,012 | 🐛 8 | 🌐 Shell | 📅 2026-06-06 - 以指定的用户权限来运行脚本
 * [Survey](https://github.com/AlecAivazis/survey) ⚠️ Archived - 交互式输入
 * [go-daemon](https://github.com/sevlyar/go-daemon) ⭐ 2,310 | 🐛 23 | 🌐 Go | 📅 2026-07-19 - daemon 进程包
-* [pty](https://github.com/creack/pty) ⭐ 2,099 | 🐛 16 | 🌐 Go | 📅 2026-06-01 - PTY for Go
+* [pty](https://github.com/creack/pty) ⭐ 2,102 | 🐛 16 | 🌐 Go | 📅 2026-06-01 - PTY for Go
 * [go-isatty](https://github.com/mattn/go-isatty) ⭐ 927 | 🐛 1 | 🌐 Go | 📅 2026-07-23 - TTY 环境判断
 * [go-colorable](https://github.com/mattn/go-colorable) ⭐ 817 | 🐛 7 | 🌐 Go | 📅 2026-10-06 - Colorable writer for Windows
 * [vtclean](https://github.com/lunixbochs/vtclean) ⭐ 114 | 🐛 3 | 🌐 Go | 📅 2021-08-30 - 从终端输出字符串中解析出纯文本
 
 ### 终端工具
 
-* [vhs](https://github.com/charmbracelet/vhs) ⭐ 21,154 | 🐛 177 | 🌐 Go | 📅 2026-10-01 - 终端录像工具，提供了在终端中录制和回放终端会话的功能，类似于将终端会话记录为视频的方式
-* [GoTTY](https://github.com/yudai/gotty) ⭐ 19,555 | 🐛 159 | 🌐 Go | 📅 2024-08-01 - 基于Web的命令行实时共享
-* [duf](https://github.com/muesli/duf) ⭐ 15,349 | 🐛 84 | 🌐 Go | 📅 2026-01-13 - 比 `df` 更好用的磁盘使用率工具
-* [miller](https://github.com/johnkerl/miller) ⭐ 10,045 | 🐛 72 | 🌐 Go | 📅 2026-10-19 - 一个类似 sed、awk、cut、join 和 sort 的工具，用来处理基于命名索引的数据
-* [viddy](https://github.com/sachaos/viddy) ⭐ 5,429 | 🐛 38 | 🌐 Rust | 📅 2026-08-16 - 增强版 `watch` 命令
+* [vhs](https://github.com/charmbracelet/vhs) ⭐ 21,160 | 🐛 177 | 🌐 Go | 📅 2026-10-01 - 终端录像工具，提供了在终端中录制和回放终端会话的功能，类似于将终端会话记录为视频的方式
+* [GoTTY](https://github.com/yudai/gotty) ⭐ 19,556 | 🐛 159 | 🌐 Go | 📅 2024-08-01 - 基于Web的命令行实时共享
+* [duf](https://github.com/muesli/duf) ⭐ 15,351 | 🐛 84 | 🌐 Go | 📅 2026-01-13 - 比 `df` 更好用的磁盘使用率工具
+* [miller](https://github.com/johnkerl/miller) ⭐ 10,049 | 🐛 72 | 🌐 Go | 📅 2026-10-19 - 一个类似 sed、awk、cut、join 和 sort 的工具，用来处理基于命名索引的数据
+* [viddy](https://github.com/sachaos/viddy) ⭐ 5,431 | 🐛 38 | 🌐 Rust | 📅 2026-08-16 - 增强版 `watch` 命令
 * [assh](https://github.com/moul/assh) ⭐ 3,227 | 🐛 101 | 🌐 Go | 📅 2026-10-16 - SSH 增强工具
 * [trdsql](https://github.com/noborus/trdsql) ⭐ 2,176 | 🐛 14 | 🌐 Go | 📅 2026-10-18 - 可对 CSV/LTSV/JSON/TBLN 等文件执行 SQL 查询和导出
-* [ov](https://github.com/noborus/ov) ⭐ 2,040 | 🐛 29 | 🌐 Go | 📅 2026-10-19 - 终端文本阅读器，可替代 `less`、`more`、`tail -f` 等
+* [ov](https://github.com/noborus/ov) ⭐ 2,041 | 🐛 29 | 🌐 Go | 📅 2026-10-19 - 终端文本阅读器，可替代 `less`、`more`、`tail -f` 等
 * [Jump](https://github.com/gsamokovarov/jump) ⭐ 1,950 | 🐛 3 | 🌐 Go | 📅 2026-10-13 - 根据习惯快速跳转目录
 * [GoFish](https://github.com/fishworks/gofish) ⚠️ Archived - 一个受 [Homebrew](https://brew.sh) 启发的跨平台软件管理工具，支持 Linux 和 Windows
 * [vgrep](https://github.com/vrothberg/vgrep) ⭐ 707 | 🐛 0 | 🌐 Go | 📅 2026-10-16 - 支持滚动分页的 `grep`
 
 ### 路由
 
-* [chi](https://github.com/go-chi/chi) ⭐ 22,967 | 🐛 131 | 🌐 Go | 📅 2026-10-18
-* [mux](https://github.com/gorilla/mux) ⭐ 21,833 | 🐛 48 | 🌐 Go | 📅 2024-08-15 - URL 路由和调度器
-* [HttpRouter](https://github.com/julienschmidt/httprouter) ⭐ 17,131 | 🐛 87 | 🌐 Go | 📅 2024-07-22
+* [chi](https://github.com/go-chi/chi) ⭐ 22,973 | 🐛 131 | 🌐 Go | 📅 2026-10-18
+* [mux](https://github.com/gorilla/mux) ⭐ 21,834 | 🐛 48 | 🌐 Go | 📅 2024-08-15 - URL 路由和调度器
+* [HttpRouter](https://github.com/julienschmidt/httprouter) ⭐ 17,132 | 🐛 87 | 🌐 Go | 📅 2024-07-22
 * [go-querystring](https://github.com/google/go-querystring) ⭐ 2,144 | 🐛 27 | 🌐 Go | 📅 2026-08-20 - 转换结构体为URL请求参数
 * [gocraft/web](https://github.com/gocraft/web) ⭐ 1,525 | 🐛 24 | 🌐 Go | 📅 2020-10-01
 * [gorilla/schema](https://github.com/gorilla/schema) ⭐ 1,516 | 🐛 35 | 🌐 Go | 📅 2024-08-19 - converts structs to and from form values
@@ -380,37 +380,37 @@
 
 ### 网络
 
-* [croc](https://github.com/schollz/croc) ⭐ 40,674 | 🐛 4 | 🌐 Go | 📅 2026-10-19 - 两台电脑之间传输文件
-* [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ⭐ 29,501 | 🐛 38 | 🌐 Go | 📅 2026-09-15 - 测试 Cloudflare CDN 延迟和速度，获取最快 IP
-* [GoReplay](https://github.com/buger/goreplay) ⭐ 19,321 | 🐛 340 | 🌐 Go | 📅 2026-01-27 - 流量收集&回放
-* [SubFinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,624 | 🐛 1 | 🌐 Go | 📅 2026-10-19 - 子域名发现工具
-* [CoreDNS](https://github.com/coredns/coredns) ⭐ 14,388 | 🐛 294 | 🌐 Go | 📅 2026-10-20 - DNS 服务器
-* [SFTPGo](https://github.com/drakkan/sftpgo) ⭐ 12,673 | 🐛 182 | 🌐 Go | 📅 2026-10-03 - 功能齐全且可高度配置的SFTP服务器，可选择支持HTTP/S、FTP/S和WebDAV。支持的存储后端包括：本地文件系统、加密的本地文件系统、S3（兼容）对象存储、Google Cloud Storage、Azure Blob Storage以及其他SFTP服务器。
-* [FrankenPHP](https://github.com/dunglas/frankenphp) ⭐ 11,405 | 🐛 124 | 🌐 Go | 📅 2026-10-18 - PHP 应用服务器
+* [croc](https://github.com/schollz/croc) ⭐ 40,695 | 🐛 2 | 🌐 Go | 📅 2026-10-20 - 两台电脑之间传输文件
+* [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) ⭐ 29,521 | 🐛 38 | 🌐 Go | 📅 2026-09-15 - 测试 Cloudflare CDN 延迟和速度，获取最快 IP
+* [GoReplay](https://github.com/buger/goreplay) ⭐ 19,322 | 🐛 340 | 🌐 Go | 📅 2026-01-27 - 流量收集&回放
+* [SubFinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,631 | 🐛 6 | 🌐 Go | 📅 2026-10-21 - 子域名发现工具
+* [CoreDNS](https://github.com/coredns/coredns) ⭐ 14,388 | 🐛 289 | 🌐 Go | 📅 2026-10-21 - DNS 服务器
+* [SFTPGo](https://github.com/drakkan/sftpgo) ⭐ 12,675 | 🐛 182 | 🌐 Go | 📅 2026-10-03 - 功能齐全且可高度配置的SFTP服务器，可选择支持HTTP/S、FTP/S和WebDAV。支持的存储后端包括：本地文件系统、加密的本地文件系统、S3（兼容）对象存储、Google Cloud Storage、Azure Blob Storage以及其他SFTP服务器。
+* [FrankenPHP](https://github.com/dunglas/frankenphp) ⭐ 11,407 | 🐛 124 | 🌐 Go | 📅 2026-10-21 - PHP 应用服务器
 * [gnet](https://github.com/panjf2000/gnet) ⭐ 11,250 | 🐛 6 | 🌐 Go | 📅 2026-07-09 - 事件驱动 Go 网络框架
 * [DNS](https://github.com/miekg/dns) ⭐ 8,783 | 🐛 3 | 🌐 Go | 📅 2026-10-01 - DNS 库
-* [RoadRunner](https://github.com/spiral/roadrunner) ⭐ 8,515 | 🐛 33 | 🌐 Go | 📅 2026-10-19 - PHP 应用服务器、进程管理器、负载均衡，用于替代 `Nginx + FPM`
-* [NextTrace](https://github.com/sjlleo/nexttrace-core) ⭐ 8,226 | 🐛 0 | 🌐 Go | 📅 2026-10-15 - 可视化路由追踪工具
+* [RoadRunner](https://github.com/spiral/roadrunner) ⭐ 8,517 | 🐛 43 | 🌐 Go | 📅 2026-10-19 - PHP 应用服务器、进程管理器、负载均衡，用于替代 `Nginx + FPM`
+* [NextTrace](https://github.com/sjlleo/nexttrace-core) ⭐ 8,228 | 🐛 0 | 🌐 Go | 📅 2026-10-15 - 可视化路由追踪工具
 * [httpstat](https://github.com/davecheney/httpstat) ⭐ 7,193 | 🐛 14 | 🌐 Go | 📅 2026-09-24
-* [blocky](https://github.com/0xERR0R/blocky) ⭐ 7,042 | 🐛 61 | 🌐 Go | 📅 2026-10-19 - 作为局域网 DNS 代理拦截广告
-* [go-libp2p](https://github.com/libp2p/go-libp2p) ⭐ 6,891 | 🐛 306 | 🌐 Go | 📅 2026-10-05 - P2P
+* [blocky](https://github.com/0xERR0R/blocky) ⭐ 7,048 | 🐛 62 | 🌐 Go | 📅 2026-10-19 - 作为局域网 DNS 代理拦截广告
+* [go-libp2p](https://github.com/libp2p/go-libp2p) ⭐ 6,892 | 🐛 308 | 🌐 Go | 📅 2026-10-05 - P2P
 * [GoPacket](https://github.com/google/gopacket) ⭐ 6,796 | 🐛 371 | 🌐 Go | 📅 2025-03-19 - 网络捕获抓包
-* [torrent](https://github.com/anacrolix/torrent) ⭐ 6,126 | 🐛 92 | 🌐 Go | 📅 2026-10-19 - BitTorrent 相关工具库
+* [torrent](https://github.com/anacrolix/torrent) ⭐ 6,127 | 🐛 92 | 🌐 Go | 📅 2026-10-19 - BitTorrent 相关工具库
 * [evio](https://github.com/tidwall/evio) ⭐ 6,037 | 🐛 26 | 🌐 Go | 📅 2026-05-19 - 事件驱动网络框架（reactor 模式）
 * [FIND3](https://github.com/schollz/find3) ⭐ 4,807 | 🐛 78 | 🌐 Go | 📅 2022-12-30 - WiFi 设备发现
 * [netpoll](https://github.com/cloudwego/netpoll) ⭐ 4,607 | 🐛 9 | 🌐 Go | 📅 2026-08-06 - 专注于 RPC 场景的 Non-blocking I/O 网络库
-* [kcp-go](https://github.com/xtaci/kcp-go) ⭐ 4,554 | 🐛 73 | 🌐 Go | 📅 2026-10-20 - 可靠的 UDP 通讯包
-* [echoip](https://github.com/mpolden/echoip) ⭐ 4,354 | 🐛 13 | 🌐 Go | 📅 2026-09-05 - IP 地址查找服务
-* [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ⭐ 4,182 | 🐛 66 | 🌐 Go | 📅 2025-01-27 - 像 `net/http` 一样轻松搭建 SSH 服务器
+* [kcp-go](https://github.com/xtaci/kcp-go) ⭐ 4,554 | 🐛 71 | 🌐 Go | 📅 2026-10-21 - 可靠的 UDP 通讯包
+* [echoip](https://github.com/mpolden/echoip) ⭐ 4,355 | 🐛 13 | 🌐 Go | 📅 2026-09-05 - IP 地址查找服务
+* [gliderlabs/ssh](https://github.com/gliderlabs/ssh) ⭐ 4,181 | 🐛 66 | 🌐 Go | 📅 2025-01-27 - 像 `net/http` 一样轻松搭建 SSH 服务器
 * [httplab](https://github.com/gchaincl/httplab) ⭐ 4,142 | 🐛 13 | 🌐 Go | 📅 2024-02-05 - The interactive web server
 * [p2pspider](https://github.com/fanpei91/p2pspider) ⚠️ Archived - 种子嗅探器
 * [dns.toys](https://github.com/knadh/dns.toys) ⭐ 2,831 | 🐛 10 | 🌐 Go | 📅 2026-02-26 - DNS 服务器
 * [cmux](https://github.com/soheilhy/cmux) ⭐ 2,770 | 🐛 37 | 🌐 Go | 📅 2026-06-08 - 监听同一个端口，启动多种协议服务
 * [yamux](https://github.com/hashicorp/yamux) ⭐ 2,698 | 🐛 35 | 🌐 Go | 📅 2026-10-12 - Multiplexer
 * [Sharingan](https://github.com/didi/sharingan) ⚠️ Archived - 滴滴开源的流量录制回放工具
-* [GeoIP2 Reader for Go](https://github.com/oschwald/geoip2-golang) ⭐ 2,340 | 🐛 3 | 🌐 Go | 📅 2026-10-19 - 解析&读取 MaxMind GeoLite2 和 GeoIP2 数据库
-* [go-getter](https://github.com/hashicorp/go-getter) ⭐ 1,827 | 🐛 170 | 🌐 Go | 📅 2026-10-19 - 可使用 URL 作为输入的主要形式从各种来源下载文件或目录
-* [sftp](https://github.com/pkg/sftp) ⭐ 1,663 | 🐛 73 | 🌐 Go | 📅 2026-10-19 - SFTP support for the `go.crypto/ssh` package
+* [GeoIP2 Reader for Go](https://github.com/oschwald/geoip2-golang) ⭐ 2,341 | 🐛 3 | 🌐 Go | 📅 2026-10-19 - 解析&读取 MaxMind GeoLite2 和 GeoIP2 数据库
+* [go-getter](https://github.com/hashicorp/go-getter) ⭐ 1,826 | 🐛 170 | 🌐 Go | 📅 2026-10-19 - 可使用 URL 作为输入的主要形式从各种来源下载文件或目录
+* [sftp](https://github.com/pkg/sftp) ⭐ 1,663 | 🐛 74 | 🌐 Go | 📅 2026-10-19 - SFTP support for the `go.crypto/ssh` package
 * [sx](https://github.com/v-byte-cpu/sx) ⭐ 1,563 | 🐛 12 | 🌐 Go | 📅 2026-08-12 - 网络扫描命令工具
 * [grab](https://github.com/cavaliercoder/grab) ⭐ 1,486 | 🐛 29 | 🌐 Go | 📅 2026-08-23 - 文件下载
 * [goftp](https://github.com/jlaffaye/ftp) ⭐ 1,403 | 🐛 28 | 🌐 Go | 📅 2026-08-22 - FTP 客户端
@@ -432,24 +432,24 @@
 
 #### LDAP
 
-* [GLAuth](https://github.com/glauth/glauth) ⭐ 2,858 | 🐛 52 | 🌐 Go | 📅 2026-09-27 - LDAP Server
-* [go-ldap](https://github.com/go-ldap/ldap) ⭐ 2,461 | 🐛 64 | 🌐 Go | 📅 2026-10-07
+* [GLAuth](https://github.com/glauth/glauth) ⭐ 2,858 | 🐛 51 | 🌐 Go | 📅 2026-09-27 - LDAP Server
+* [go-ldap](https://github.com/go-ldap/ldap) ⭐ 2,461 | 🐛 65 | 🌐 Go | 📅 2026-10-07
 * [gldap](https://github.com/jimlambrt/gldap) ⭐ 122 | 🐛 5 | 🌐 Go | 📅 2026-06-23 - LDAP Service
 
 #### 网络代理
 
-* [frp](https://github.com/fatedier/frp) ⭐ 110,009 | 🐛 35 | 🌐 Go | 📅 2026-10-20 - 可用于内网穿透的高性能的反向代理应用
-* [**Caddy**](https://github.com/mholt/caddy) ⭐ 78,174 | 🐛 295 | 🌐 Go | 📅 2026-10-19 - 类似 Nginx 的 Web 服务器
-* [Traefik](https://github.com/containous/traefik) ⭐ 65,289 | 🐛 949 | 🌐 Go | 📅 2026-10-19 - 反向代理&负载均衡
-* [V2Ray](https://github.com/v2ray/v2ray-core) ⭐ 46,920 | 🐛 15 | 🌐 Go | 📅 2026-08-31
-* [Tailscale](https://github.com/tailscale/tailscale) ⭐ 37,790 | 🐛 4,747 | 🌐 Go | 📅 2026-10-19 - WireGuard 解决方案
-* [V2Fly](https://github.com/v2fly/v2ray-core) ⭐ 34,690 | 🐛 43 | 🌐 Go | 📅 2026-10-09 - V2Ray 的社区版本
-* [nps](https://github.com/cnlh/nps) ⭐ 34,249 | 🐛 526 | 🌐 Go | 📅 2024-05-30 - 一款轻量级、高性能、功能强大的内网穿透代理服务器
-* [snail007/goproxy](https://github.com/snail007/goproxy) ⭐ 17,136 | 🐛 143 | 🌐 Go | 📅 2026-08-17 - golang 实现的高性能代理服务器
-* [elazarl/goproxy](https://github.com/elazarl/goproxy) ⭐ 6,764 | 🐛 86 | 🌐 Go | 📅 2026-09-27 - HTTP 代理
-* [Pomerium](https://github.com/pomerium/pomerium) ⭐ 5,056 | 🐛 173 | 🌐 Go | 📅 2026-10-20 - 基于身份的反向代理
-* [pgrok](https://github.com/pgrok/pgrok) ⭐ 3,647 | 🐛 4 | 🌐 Go | 📅 2026-06-02 - 提供给穷人的内网穿透
-* [oxy](https://github.com/vulcand/oxy) ⭐ 2,104 | 🐛 31 | 🌐 Go | 📅 2026-10-08 - Go middlewares for HTTP servers & proxies
+* [frp](https://github.com/fatedier/frp) ⭐ 110,031 | 🐛 34 | 🌐 Go | 📅 2026-10-20 - 可用于内网穿透的高性能的反向代理应用
+* [**Caddy**](https://github.com/mholt/caddy) ⭐ 78,208 | 🐛 293 | 🌐 Go | 📅 2026-10-20 - 类似 Nginx 的 Web 服务器
+* [Traefik](https://github.com/containous/traefik) ⭐ 65,296 | 🐛 951 | 🌐 Go | 📅 2026-10-20 - 反向代理&负载均衡
+* [V2Ray](https://github.com/v2ray/v2ray-core) ⭐ 46,917 | 🐛 15 | 🌐 Go | 📅 2026-08-31
+* [Tailscale](https://github.com/tailscale/tailscale) ⭐ 37,845 | 🐛 4,756 | 🌐 Go | 📅 2026-10-21 - WireGuard 解决方案
+* [V2Fly](https://github.com/v2fly/v2ray-core) ⭐ 34,692 | 🐛 33 | 🌐 Go | 📅 2026-10-20 - V2Ray 的社区版本
+* [nps](https://github.com/cnlh/nps) ⭐ 34,250 | 🐛 526 | 🌐 Go | 📅 2024-05-30 - 一款轻量级、高性能、功能强大的内网穿透代理服务器
+* [snail007/goproxy](https://github.com/snail007/goproxy) ⭐ 17,140 | 🐛 143 | 🌐 Go | 📅 2026-08-17 - golang 实现的高性能代理服务器
+* [elazarl/goproxy](https://github.com/elazarl/goproxy) ⭐ 6,764 | 🐛 87 | 🌐 Go | 📅 2026-09-27 - HTTP 代理
+* [Pomerium](https://github.com/pomerium/pomerium) ⭐ 5,058 | 🐛 168 | 🌐 Go | 📅 2026-10-21 - 基于身份的反向代理
+* [pgrok](https://github.com/pgrok/pgrok) ⭐ 3,646 | 🐛 4 | 🌐 Go | 📅 2026-06-02 - 提供给穷人的内网穿透
+* [oxy](https://github.com/vulcand/oxy) ⭐ 2,104 | 🐛 31 | 🌐 Go | 📅 2026-10-20 - Go middlewares for HTTP servers & proxies
 * [ProxyPool](https://github.com/henson/proxypool) ⭐ 1,701 | 🐛 40 | 🌐 Go | 📅 2023-09-04 - 采集免费的代理资源为爬虫提供有效的IP代理
 * [ouqiang/goproxy](https://github.com/ouqiang/goproxy) ⭐ 322 | 🐛 14 | 🌐 Go | 📅 2022-04-25 - Go HTTP(S)代理库, 支持中间人代理解密HTTPS
 * [Clash](https://github.com/Dreamacro/clash) - 支持多种协议的多平台代理客户端
@@ -457,7 +457,7 @@
 ### HTTP压测
 
 * [Vegeta](https://github.com/tsenart/vegeta) ⭐ 25,227 | 🐛 125 | 🌐 Go | 📅 2026-09-24 - HTTP 负载压测工具
-* [hey](https://github.com/rakyll/hey) ⭐ 20,713 | 🐛 192 | 🌐 Go | 📅 2026-01-10 - Web 压测工具
+* [hey](https://github.com/rakyll/hey) ⭐ 20,716 | 🐛 192 | 🌐 Go | 📅 2026-01-10 - Web 压测工具
 * [Ddosify](https://github.com/ddosify/ddosify) ⭐ 8,516 | 🐛 19 | 🌐 Go | 📅 2026-03-04
 * [bombardier](https://github.com/codesenberg/bombardier) ⭐ 6,843 | 🐛 30 | 🌐 Go | 📅 2026-10-10 - Web 压测工具
 * [plow](https://github.com/six-ddc/plow) ⭐ 4,514 | 🐛 20 | 🌐 Go | 📅 2026-10-17
@@ -465,146 +465,146 @@
 
 ### HTTP
 
-* [fasthttp](https://github.com/valyala/fasthttp) ⭐ 23,486 | 🐛 65 | 🌐 Go | 📅 2026-10-20 - 比 `net/http` 快 10 倍的 HTTP 工具包
-* [Resty](https://github.com/go-resty/resty) ⭐ 11,816 | 🐛 23 | 🌐 Go | 📅 2026-10-19 - HTTP & REST 客户端包
+* [fasthttp](https://github.com/valyala/fasthttp) ⭐ 23,486 | 🐛 66 | 🌐 Go | 📅 2026-10-21 - 比 `net/http` 快 10 倍的 HTTP 工具包
+* [Resty](https://github.com/go-resty/resty) ⭐ 11,815 | 🐛 25 | 🌐 Go | 📅 2026-10-19 - HTTP & REST 客户端包
 * [CertMagic](https://github.com/caddyserver/certmagic) ⭐ 5,611 | 🐛 33 | 🌐 Go | 📅 2026-10-01 - 为任意 Go 程序自动加上 HTTPS，TLS 证书签发、更新全自动
-* [Req](https://github.com/imroc/req) ⭐ 4,867 | 🐛 30 | 🌐 Go | 📅 2026-09-11 - HTTP 客户端
-* [cors](https://github.com/rs/cors) ⭐ 2,896 | 🐛 28 | 🌐 Go | 📅 2026-10-08 - CORS Handler
+* [Req](https://github.com/imroc/req) ⭐ 4,866 | 🐛 31 | 🌐 Go | 📅 2026-09-11 - HTTP 客户端
+* [cors](https://github.com/rs/cors) ⭐ 2,897 | 🐛 28 | 🌐 Go | 📅 2026-10-08 - CORS Handler
 * [gout](https://github.com/guonaihong/gout) ⭐ 1,327 | 🐛 31 | 🌐 Go | 📅 2025-11-16 - HTTP 客户端
 * [gentleman](https://github.com/h2non/gentleman) ⭐ 1,137 | 🐛 32 | 🌐 Go | 📅 2023-12-17 - HTTP 客户端
 * [UserAgent](https://github.com/mssola/user_agent) ⚠️ Archived - 解析 HTTP User Agent
-* [purell](https://github.com/PuerkitoBio/purell) ⭐ 484 | 🐛 4 | 🌐 Go | 📅 2026-05-18 - URL 规范工具包
+* [purell](https://github.com/PuerkitoBio/purell) ⭐ 485 | 🐛 5 | 🌐 Go | 📅 2026-05-18 - URL 规范工具包
 * [goz](https://github.com/idoubi/goz) ⭐ 261 | 🐛 7 | 🌐 Go | 📅 2023-10-13
 * [go-autorest](https://github.com/Azure/go-autorest) ⚠️ Archived - HTTP 管道请求方式的客户端
 
 ### WebSocket
 
-* [gorilla/websocket](https://github.com/gorilla/websocket) ⭐ 24,876 | 🐛 84 | 🌐 Go | 📅 2025-03-19
+* [gorilla/websocket](https://github.com/gorilla/websocket) ⭐ 24,878 | 🐛 84 | 🌐 Go | 📅 2025-03-19
 * [websocketd](https://github.com/joewalnes/websocketd) ⭐ 17,459 | 🐛 1 | 🌐 Go | 📅 2026-09-07 - Go 开发的一键搭建 WebSocket 服务器命令行工具
 * [ws](https://github.com/gobwas/ws) ⭐ 6,469 | 🐛 31 | 🌐 Go | 📅 2026-02-12 - WebSocket 开发包
-* [nhooyr/websocket](https://github.com/nhooyr/websocket) ⭐ 5,528 | 🐛 77 | 🌐 Go | 📅 2026-06-15 - 官方推荐的包
+* [nhooyr/websocket](https://github.com/nhooyr/websocket) ⭐ 5,531 | 🐛 77 | 🌐 Go | 📅 2026-06-15 - 官方推荐的包
 * [melody](https://github.com/olahol/melody) ⭐ 4,080 | 🐛 14 | 🌐 Go | 📅 2025-10-28 - WebSocket 服务框架
 * [neffos](https://github.com/kataras/neffos) ⭐ 629 | 🐛 29 | 🌐 Go | 📅 2026-10-06 - 一个快速且可扩展的 WebSocket 框架
 * [fastws](https://github.com/dgrr/fastws) ⭐ 89 | 🐛 3 | 🌐 Go | 📅 2021-06-10
 
 ### 即时通信
 
-* [WebRTC](https://github.com/pion/webrtc) ⭐ 16,849 | 🐛 106 | 🌐 Go | 📅 2026-10-20 - WebRTC 实现
-* [OpenIM](https://github.com/openimsdk/open-im-server) ⭐ 16,705 | 🐛 129 | 🌐 Go | 📅 2026-10-16
-* [gotify](https://github.com/gotify/server) ⭐ 16,101 | 🐛 88 | 🌐 Go | 📅 2026-10-19 - 基于 WebSocket 的 PUSH 通知服务
-* [nakama](https://github.com/heroiclabs/nakama) ⭐ 13,534 | 🐛 120 | 🌐 Go | 📅 2026-10-16 - 用于社交/实时游戏/实时应用的分布式服务端程序，自带面板、用户、聊天、存储、社交等功能
+* [WebRTC](https://github.com/pion/webrtc) ⭐ 16,851 | 🐛 105 | 🌐 Go | 📅 2026-10-21 - WebRTC 实现
+* [OpenIM](https://github.com/openimsdk/open-im-server) ⭐ 16,714 | 🐛 131 | 🌐 Go | 📅 2026-10-16
+* [gotify](https://github.com/gotify/server) ⭐ 16,103 | 🐛 88 | 🌐 Go | 📅 2026-10-19 - 基于 WebSocket 的 PUSH 通知服务
+* [nakama](https://github.com/heroiclabs/nakama) ⭐ 13,544 | 🐛 122 | 🌐 Go | 📅 2026-10-20 - 用于社交/实时游戏/实时应用的分布式服务端程序，自带面板、用户、聊天、存储、社交等功能
 * [Tinode](https://github.com/tinode/chat) ⭐ 13,530 | 🐛 41 | 🌐 Go | 📅 2026-10-19 - 即时消息服务器，通过 websocket/JSON 或 gRPC/TCP 等协议传输
-* [Centrifugo](https://github.com/centrifugal/centrifugo) ⭐ 10,890 | 🐛 25 | 🌐 Go | 📅 2026-10-20 - 实时消息服务器，可以与任何语言编写的应用程序后端结合使用
-* [Berty](https://github.com/berty/berty) ⭐ 9,333 | 🐛 98 | 🌐 TypeScript | 📅 2026-10-16 - 安全的点对点通讯软件
-* [Keybase](https://github.com/keybase/client) ⭐ 9,259 | 🐛 4,269 | 🌐 Go | 📅 2026-10-19 - 即时通讯工具 Keybase 全平台客户端
+* [Centrifugo](https://github.com/centrifugal/centrifugo) ⭐ 10,895 | 🐛 25 | 🌐 Go | 📅 2026-10-20 - 实时消息服务器，可以与任何语言编写的应用程序后端结合使用
+* [Berty](https://github.com/berty/berty) ⭐ 9,333 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-21 - 安全的点对点通讯软件
+* [Keybase](https://github.com/keybase/client) ⭐ 9,259 | 🐛 4,268 | 🌐 Go | 📅 2026-10-20 - 即时通讯工具 Keybase 全平台客户端
 * [goim](https://github.com/Terry-Mao/goim) ⭐ 7,371 | 🐛 64 | 🌐 Go | 📅 2023-05-05 - 支持集群的 im 及实时推送服务
 
 ### 网关
 
-* [Tpk](https://github.com/TykTechnologies/tyk) ⭐ 10,867 | 🐛 507 | 🌐 Go | 📅 2026-10-19
-* [BFE](https://github.com/bfenetworks/bfe) ⭐ 6,269 | 🐛 35 | 🌐 Go | 📅 2026-10-20 - 基于百度统一接入前端开源的七层流量接入系统
+* [Tpk](https://github.com/TykTechnologies/tyk) ⭐ 10,868 | 🐛 512 | 🌐 Go | 📅 2026-10-20
+* [BFE](https://github.com/bfenetworks/bfe) ⭐ 6,269 | 🐛 42 | 🌐 Go | 📅 2026-10-20 - 基于百度统一接入前端开源的七层流量接入系统
 * [Easegress](https://github.com/megaease/easegress) ⭐ 5,870 | 🐛 11 | 🌐 Go | 📅 2026-10-13
 * [Manba](https://github.com/fagongzi/manba) ⭐ 3,306 | 🐛 21 | 🌐 Go | 📅 2023-07-12
 * [GoKu API Gateway CE](https://github.com/eolinker/GoKu-API-Gateway) ⭐ 3,126 | 🐛 22 | 🌐 Go | 📅 2023-04-12 - eoLinker 开源的 API 网关
 
 ### 序列化
 
-* [Buf](https://github.com/bufbuild/buf) ⭐ 11,492 | 🐛 53 | 🌐 Go | 📅 2026-10-19 - protoc 替代品
+* [Buf](https://github.com/bufbuild/buf) ⭐ 11,495 | 🐛 54 | 🌐 Go | 📅 2026-10-20 - protoc 替代品
 * [golang/protobuf](https://github.com/golang/protobuf) ⭐ 10,077 | 🐛 114 | 🌐 Go | 📅 2026-09-15 - Go 版本的 Protocol Buffers
 * [gogo/protobuf](https://github.com/gogo/protobuf) ⭐ 5,655 | 🐛 233 | 🌐 Go | 📅 2023-07-27 - `golang/protobuf` 的扩展替代品
-* [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) ⭐ 2,843 | 🐛 130 | 🌐 Go | 📅 2026-07-21 - Google Protocol Buffers 文档生成插件，支持 HTML、JSON、DocBook、Markdown 和自定义模板
-* [vmihailenco/msgpack](https://github.com/vmihailenco/msgpack) ⭐ 2,676 | 🐛 61 | 🌐 Go | 📅 2024-06-04 - 支持 msgpack
+* [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) ⭐ 2,844 | 🐛 130 | 🌐 Go | 📅 2026-07-21 - Google Protocol Buffers 文档生成插件，支持 HTML、JSON、DocBook、Markdown 和自定义模板
+* [vmihailenco/msgpack](https://github.com/vmihailenco/msgpack) ⭐ 2,675 | 🐛 61 | 🌐 Go | 📅 2024-06-04 - 支持 msgpack
 * [go/codec](https://github.com/ugorji/go) ⭐ 1,967 | 🐛 8 | 🌐 Go | 📅 2026-09-02 - 支持 msgpack/binc/cbor/json
 * [msgp](https://github.com/tinylib/msgp) ⭐ 1,951 | 🐛 26 | 🌐 Go | 📅 2026-10-19 - MessagePack 代码生成器
-* [Objx](https://github.com/stretchr/objx) ⭐ 873 | 🐛 2 | 🌐 Go | 📅 2026-10-15 - 操作 map, slice, JSON 等数据的包
+* [Objx](https://github.com/stretchr/objx) ⭐ 873 | 🐛 1 | 🌐 Go | 📅 2026-10-20 - 操作 map, slice, JSON 等数据的包
 
 ### 解压缩
 
-* [compress](https://github.com/klauspost/compress) ⭐ 5,686 | 🐛 3 | 🌐 Go | 📅 2026-10-19 - Optimized compression packages
+* [compress](https://github.com/klauspost/compress) ⭐ 5,688 | 🐛 3 | 🌐 Go | 📅 2026-10-19 - Optimized compression packages
 * [archiver](https://github.com/mholt/archiver) ⚠️ Archived - 多格式支持的解压缩包
-* [snappy](https://github.com/golang/snappy) ⭐ 1,575 | 🐛 18 | 🌐 Go | 📅 2026-07-16 - Go 语言版本的 Snappy
+* [snappy](https://github.com/golang/snappy) ⭐ 1,574 | 🐛 18 | 🌐 Go | 📅 2026-07-16 - Go 语言版本的 Snappy
 * [Brotli](https://github.com/andybalholm/brotli) ⭐ 740 | 🐛 5 | 🌐 Go | 📅 2026-10-16
-* [xz](https://github.com/ulikunitz/xz) ⭐ 560 | 🐛 22 | 🌐 Go | 📅 2026-10-10 - `xz` 压缩格式读写包
+* [xz](https://github.com/ulikunitz/xz) ⭐ 561 | 🐛 22 | 🌐 Go | 📅 2026-10-10 - `xz` 压缩格式读写包
 * [cae](https://github.com/Unknwon/cae) ⭐ 37 | 🐛 0 | 🌐 Go | 📅 2023-11-05 - 实现 ZIP/TAR.GZ 解压缩
 
 ### RPC
 
-* [gRPC-Go](https://github.com/grpc/grpc-go) ⭐ 23,092 | 🐛 176 | 🌐 Go | 📅 2026-10-19 - gRPC 官方包
-* [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway) ⭐ 20,007 | 🐛 143 | 🌐 Go | 📅 2026-10-19 - 读取 gRPC 服务定义并生成一个反向代理服务器，同时提供 gRPC 和 RESTful 风格的 API
+* [gRPC-Go](https://github.com/grpc/grpc-go) ⭐ 23,094 | 🐛 181 | 🌐 Go | 📅 2026-10-19 - gRPC 官方包
+* [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway) ⭐ 20,008 | 🐛 147 | 🌐 Go | 📅 2026-10-21 - 读取 gRPC 服务定义并生成一个反向代理服务器，同时提供 gRPC 和 RESTful 风格的 API
 * [gRPCurl](https://github.com/fullstorydev/grpcurl) ⭐ 12,861 | 🐛 120 | 🌐 Go | 📅 2026-10-13 - 像 cURL 一样通过命令行访问 gRPC 服务
 * [rpcx](https://github.com/smallnest/rpcx) ⭐ 8,320 | 🐛 4 | 🌐 Go | 📅 2026-09-03
-* [Kitex](https://github.com/cloudwego/kitex) ⭐ 8,056 | 🐛 80 | 🌐 Go | 📅 2026-10-19
+* [Kitex](https://github.com/cloudwego/kitex) ⭐ 8,056 | 🐛 82 | 🌐 Go | 📅 2026-10-19
 * [Twirp](https://github.com/twitchtv/twirp) ⭐ 7,526 | 🐛 13 | 🌐 Go | 📅 2026-10-08 - 基于 Protobuf 的 RPC 框架，与 gRPC 类似
 * [Go gRPC Middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) ⭐ 6,759 | 🐛 82 | 🌐 Go | 📅 2026-10-06 - gRPC 常用中间件
-* [dubbo-go](https://github.com/apache/dubbo-go) ⭐ 4,965 | 🐛 73 | 🌐 Go | 📅 2026-10-16 - Dubbo Go 版本
-* [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) ⭐ 2,843 | 🐛 130 | 🌐 Go | 📅 2026-07-21 - 文档生成插件
-* [Lile](https://github.com/lileio/lile) ⭐ 1,495 | 🐛 6 | 🌐 Go | 📅 2023-07-19 - gRPC 服务构建包
+* [dubbo-go](https://github.com/apache/dubbo-go) ⭐ 4,965 | 🐛 74 | 🌐 Go | 📅 2026-10-16 - Dubbo Go 版本
+* [protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc) ⭐ 2,844 | 🐛 130 | 🌐 Go | 📅 2026-07-21 - 文档生成插件
+* [Lile](https://github.com/lileio/lile) ⭐ 1,496 | 🐛 6 | 🌐 Go | 📅 2023-07-19 - gRPC 服务构建包
 * [gorpc](https://github.com/valyala/gorpc) ⭐ 710 | 🐛 14 | 🌐 Go | 📅 2022-10-07
 * [gorilla/rpc](https://github.com/gorilla/rpc) ⭐ 632 | 🐛 28 | 🌐 Go | 📅 2024-07-19 - 构建基于 HTTP 的 RPC 服务，比如 JSON-RPC
 
 ### 邮件
 
 * [MailHog](https://github.com/mailhog/MailHog) ⭐ 16,189 | 🐛 255 | 🌐 Go | 📅 2024-02-13 - 基于Web和API的SMTP测试工具
-* [Maddy](https://github.com/foxcpp/maddy) ⭐ 6,110 | 🐛 134 | 🌐 Go | 📅 2026-10-20 - 邮件服务器
-* [Mox](https://github.com/mjl-/mox) ⭐ 5,908 | 🐛 219 | 🌐 Go | 📅 2026-10-09 - 邮件服务器
+* [Maddy](https://github.com/foxcpp/maddy) ⭐ 6,111 | 🐛 136 | 🌐 Go | 📅 2026-10-20 - 邮件服务器
+* [Mox](https://github.com/mjl-/mox) ⭐ 5,908 | 🐛 220 | 🌐 Go | 📅 2026-10-09 - 邮件服务器
 * [gomail](https://github.com/go-gomail/gomail) ⭐ 4,731 | 🐛 110 | 🌐 Go | 📅 2023-03-31 - 邮件发送包
 * [Hermes](https://github.com/matcornic/hermes) ⭐ 3,037 | 🐛 22 | 🌐 Go | 📅 2025-04-04 - Go 版本的 mailgen 引擎，根据配置生成 HTML 格式的邮件
-* [Go-Guerrilla](https://github.com/flashmob/go-guerrilla) ⭐ 2,966 | 🐛 53 | 🌐 Go | 📅 2024-06-04 - SMTP 邮件服务器
-* [Pop](https://github.com/charmbracelet/pop) ⭐ 2,923 | 🐛 31 | 🌐 Go | 📅 2026-10-01 - 邮件发送工具，支持交互式和参数式
+* [Go-Guerrilla](https://github.com/flashmob/go-guerrilla) ⭐ 2,965 | 🐛 53 | 🌐 Go | 📅 2024-06-04 - SMTP 邮件服务器
+* [Pop](https://github.com/charmbracelet/pop) ⭐ 2,924 | 🐛 31 | 🌐 Go | 📅 2026-10-01 - 邮件发送工具，支持交互式和参数式
 * [jordan-wright/email](https://github.com/jordan-wright/email) ⭐ 2,791 | 🐛 59 | 🌐 Go | 📅 2024-02-21
-* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,645 | 🐛 27 | 🌐 Go | 📅 2026-10-13 - 邮箱校验，无需发送邮件
+* [email-verifier](https://github.com/AfterShip/email-verifier) ⭐ 1,646 | 🐛 27 | 🌐 Go | 📅 2026-10-13 - 邮箱校验，无需发送邮件
 * [scorredoira/email](https://github.com/scorredoira/email) ⚠️ Archived
 
 ### 消息队列
 
-* [NSQ](https://github.com/nsqio/nsq) ⭐ 25,769 | 🐛 80 | 🌐 Go | 📅 2026-08-11 - 实时分布式消息平台
-* [NATS](https://github.com/nats-io/nats-server) ⭐ 20,899 | 🐛 495 | 🌐 Go | 📅 2026-10-20 - 云原生消息中间件
-* [sarama](https://github.com/Shopify/sarama) ⭐ 12,524 | 🐛 59 | 🌐 Go | 📅 2026-10-16 - Kafka 客户端
-* [amqp](https://github.com/rabbitmq/amqp091-go) ⭐ 2,040 | 🐛 12 | 🌐 Go | 📅 2026-10-19 - AMQP 0.9.1 客户端
+* [NSQ](https://github.com/nsqio/nsq) ⭐ 25,771 | 🐛 80 | 🌐 Go | 📅 2026-08-11 - 实时分布式消息平台
+* [NATS](https://github.com/nats-io/nats-server) ⭐ 20,906 | 🐛 497 | 🌐 Go | 📅 2026-10-20 - 云原生消息中间件
+* [sarama](https://github.com/Shopify/sarama) ⭐ 12,524 | 🐛 63 | 🌐 Go | 📅 2026-10-20 - Kafka 客户端
+* [amqp](https://github.com/rabbitmq/amqp091-go) ⭐ 2,040 | 🐛 13 | 🌐 Go | 📅 2026-10-21 - AMQP 0.9.1 客户端
 
 ### 文件/存储
 
-* [Syncthing](https://github.com/syncthing/syncthing) ⭐ 89,544 | 🐛 389 | 🌐 Go | 📅 2026-10-20 - 文件同步
+* [Syncthing](https://github.com/syncthing/syncthing) ⭐ 89,573 | 🐛 390 | 🌐 Go | 📅 2026-10-21 - 文件同步
 * [MinIO](https://github.com/minio/minio) ⚠️ Archived - 对象存储服务器
-* [rclone](https://github.com/rclone/rclone) ⭐ 60,424 | 🐛 1,232 | 🌐 Go | 📅 2026-10-19 - 不同云存储之间同步文件
-* [AList](https://github.com/alist-org/alist) ⭐ 50,328 | 🐛 558 | 🌐 Go | 📅 2026-10-13 - 支持多存储的文件列表程序
-* [CasaOS](https://github.com/IceWhaleTech/CasaOS) ⭐ 37,335 | 🐛 838 | 🌐 Go | 📅 2026-09-28 - 家庭云系统
-* [restic](https://github.com/restic/restic) ⭐ 36,675 | 🐛 623 | 🌐 Go | 📅 2026-10-18 - 备份工具，使用现代的加密方法对数据进行安全的备份，支持
+* [rclone](https://github.com/rclone/rclone) ⭐ 60,447 | 🐛 1,238 | 🌐 Go | 📅 2026-10-20 - 不同云存储之间同步文件
+* [AList](https://github.com/alist-org/alist) ⭐ 50,334 | 🐛 561 | 🌐 Go | 📅 2026-10-21 - 支持多存储的文件列表程序
+* [CasaOS](https://github.com/IceWhaleTech/CasaOS) ⭐ 37,342 | 🐛 837 | 🌐 Go | 📅 2026-09-28 - 家庭云系统
+* [restic](https://github.com/restic/restic) ⭐ 36,694 | 🐛 627 | 🌐 Go | 📅 2026-10-18 - 备份工具，使用现代的加密方法对数据进行安全的备份，支持
 * [filebrowser](https://github.com/filebrowser/filebrowser) ⚠️ Archived - Web File Browser
-* [Excelize](https://github.com/360EntSecGroup-Skylar/excelize) ⭐ 21,006 | 🐛 143 | 🌐 Go | 📅 2026-10-20 - 360 开源的 Excel 工具包
-* [fsnotify](https://github.com/fsnotify/fsnotify) ⭐ 10,801 | 🐛 62 | 🌐 Go | 📅 2026-05-11 - 文件系统监控工具
+* [Excelize](https://github.com/360EntSecGroup-Skylar/excelize) ⭐ 21,008 | 🐛 143 | 🌐 Go | 📅 2026-10-20 - 360 开源的 Excel 工具包
+* [fsnotify](https://github.com/fsnotify/fsnotify) ⭐ 10,801 | 🐛 63 | 🌐 Go | 📅 2026-05-11 - 文件系统监控工具
 * [Afero](https://github.com/spf13/afero) ⭐ 6,714 | 🐛 155 | 🌐 Go | 📅 2026-10-14 - 文件操作包
 * [XLSX](https://github.com/tealeg/xlsx) ⚠️ Archived - Excel 读写包
-* [Duplicacy](https://github.com/gilbertchen/duplicacy) ⭐ 5,699 | 🐛 338 | 🌐 Go | 📅 2026-10-13 - 无锁云备份工具，支持几乎所有存储方式
-* [lakeFS](https://github.com/treeverse/lakeFS) ⭐ 5,560 | 🐛 451 | 🌐 Go | 📅 2026-10-07 - 类 Git 文件对象存储
+* [Duplicacy](https://github.com/gilbertchen/duplicacy) ⭐ 5,699 | 🐛 338 | 🌐 Go | 📅 2026-10-20 - 无锁云备份工具，支持几乎所有存储方式
+* [lakeFS](https://github.com/treeverse/lakeFS) ⭐ 5,562 | 🐛 452 | 🌐 Go | 📅 2026-10-07 - 类 Git 文件对象存储
 * [gocryptfs](https://github.com/rfjakob/gocryptfs) ⭐ 4,635 | 🐛 67 | 🌐 Go | 📅 2026-10-01 - 加密 overlay 文件系统
 * [go-fastdfs](https://github.com/sjqzhang/go-fastdfs) ⭐ 4,140 | 🐛 4 | 🌐 Go | 📅 2026-07-11 - 分布式文件存储服务
 * [reflex](https://github.com/cespare/reflex) ⭐ 3,553 | 🐛 29 | 🌐 Go | 📅 2026-02-26 - 监听文件变更并执行命令
-* [Dragonfly](https://github.com/dragonflyoss/Dragonfly) ⭐ 3,352 | 🐛 36 | 🌐 Go | 📅 2026-10-20 - 基于 P2P 的分布式文件系统
-* [UniPDF](https://github.com/unidoc/unipdf) ⭐ 3,128 | 🐛 5 | 🌐 Go | 📅 2026-09-10 - PDF 读写处理
+* [Dragonfly](https://github.com/dragonflyoss/Dragonfly) ⭐ 3,353 | 🐛 36 | 🌐 Go | 📅 2026-10-20 - 基于 P2P 的分布式文件系统
+* [UniPDF](https://github.com/unidoc/unipdf) ⭐ 3,129 | 🐛 4 | 🌐 Go | 📅 2026-10-20 - PDF 读写处理
 * [gopdf](https://github.com/signintech/gopdf) ⭐ 2,939 | 🐛 123 | 🌐 Go | 📅 2026-10-13 - PDF 生成
-* [gohttpserver](https://github.com/codeskyblue/gohttpserver) ⭐ 2,843 | 🐛 113 | 🌐 JavaScript | 📅 2026-07-03 - HTTP 静态文件服务器
+* [gohttpserver](https://github.com/codeskyblue/gohttpserver) ⭐ 2,841 | 🐛 113 | 🌐 JavaScript | 📅 2026-07-03 - HTTP 静态文件服务器
 * [filetype](https://github.com/h2non/filetype) ⭐ 2,302 | 🐛 58 | 🌐 Go | 📅 2026-07-01 - 检测文件类型
 * [filetype](https://github.com/h2non/filetype) ⭐ 2,302 | 🐛 58 | 🌐 Go | 📅 2026-07-01 - 文件类型与 MIME 检测
-* [mimetype](https://github.com/gabriel-vasile/mimetype) ⭐ 2,023 | 🐛 30 | 🌐 Go | 📅 2026-10-19 - MIME 类型与文件扩展检测
+* [mimetype](https://github.com/gabriel-vasile/mimetype) ⭐ 2,024 | 🐛 30 | 🌐 Go | 📅 2026-10-19 - MIME 类型与文件扩展检测
 * [copy](https://github.com/otiai10/copy) ⭐ 772 | 🐛 24 | 🌐 Go | 📅 2025-01-05 - 拷贝文件夹
 * [rsc/pdf](https://github.com/rsc/pdf) ⚠️ Archived - PDF reader
 * [Bigfile](https://github.com/bigfile/bigfile) ⚠️ Archived - 文件传输管理系统
 * [go-app-paths](https://github.com/muesli/go-app-paths) ⭐ 228 | 🐛 4 | 🌐 Go | 📅 2022-05-30 - 跨平台检索目录文件
 * [fsync](https://github.com/spf13/fsync) ⭐ 68 | 🐛 1 | 🌐 Go | 📅 2026-09-25 - 文件/目录同步
-* [SeaweedFS](https://github.com/chrislusf/seaweedfs) ⭐ 43 | 🐛 1 | 🌐 Go | 📅 2026-10-20 - 分布式文件系统
+* [SeaweedFS](https://github.com/chrislusf/seaweedfs) ⭐ 43 | 🐛 1 | 🌐 Go | 📅 2026-10-21 - 分布式文件系统
 
 ### 模板引擎
 
-* [Sprig](https://github.com/Masterminds/sprig) ⭐ 4,750 | 🐛 193 | 🌐 Go | 📅 2025-07-18 - 常用模板方法
-* [quicktemplate](https://github.com/valyala/quicktemplate) ⭐ 3,324 | 🐛 43 | 🌐 Go | 📅 2024-07-21
-* [pongo2](https://github.com/flosch/pongo2) ⭐ 3,082 | 🐛 76 | 🌐 Go | 📅 2026-05-02 - Django 语法风格的模板引擎
+* [Sprig](https://github.com/Masterminds/sprig) ⭐ 4,751 | 🐛 193 | 🌐 Go | 📅 2025-07-18 - 常用模板方法
+* [quicktemplate](https://github.com/valyala/quicktemplate) ⭐ 3,324 | 🐛 44 | 🌐 Go | 📅 2026-10-20
+* [pongo2](https://github.com/flosch/pongo2) ⭐ 3,081 | 🐛 76 | 🌐 Go | 📅 2026-05-02 - Django 语法风格的模板引擎
 * [Jet](https://github.com/CloudyKit/jet) ⭐ 1,409 | 🐛 21 | 🌐 Go | 📅 2026-09-24 - 速度很快
 * [mustache](https://github.com/hoisie/mustache) ⭐ 1,118 | 🐛 34 | 🌐 Go | 📅 2024-04-28
-* [plush](https://github.com/gobuffalo/plush) ⭐ 1,023 | 🐛 0 | 🌐 Go | 📅 2026-09-09
+* [plush](https://github.com/gobuffalo/plush) ⭐ 1,024 | 🐛 0 | 🌐 Go | 📅 2026-09-09
 * [amber](https://github.com/eknkc/amber) ⭐ 919 | 🐛 24 | 🌐 Go | 📅 2020-10-13 - HTML 模板引擎
 * [fasttemplate](https://github.com/valyala/fasttemplate) ⭐ 915 | 🐛 14 | 🌐 Go | 📅 2023-08-28 - Simple and fast template engine for Go
-* [Ace](https://github.com/yosssi/ace) ⭐ 837 | 🐛 29 | 🌐 Go | 📅 2018-06-17
+* [Ace](https://github.com/yosssi/ace) ⭐ 836 | 🐛 29 | 🌐 Go | 📅 2018-06-17
 * [goTemplateBenchmark](https://github.com/SlinSo/goTemplateBenchmark) ⭐ 276 | 🐛 1 | 🌐 Go | 📅 2026-02-16 - 给各 Go 模板引擎做性能测试，当然也就包含了最全的模板引擎包
 
 ### 代码生成
@@ -616,9 +616,9 @@
 #### Markdown
 
 * [Blackfriday](https://github.com/russross/blackfriday) ⭐ 5,593 | 🐛 226 | 🌐 Go | 📅 2024-01-29 - Markdown 解析器
-* [goldmark](https://github.com/yuin/goldmark) ⭐ 5,068 | 🐛 28 | 🌐 Go | 📅 2026-10-01 - Markdown 解析器
+* [goldmark](https://github.com/yuin/goldmark) ⭐ 5,070 | 🐛 24 | 🌐 Go | 📅 2026-10-21 - Markdown 解析器
 * [html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) ⭐ 3,835 | 🐛 29 | 🌐 Go | 📅 2026-08-03 - 转换 HTML 为 Markdown
-* [glamour](https://github.com/charmbracelet/glamour) ⭐ 3,737 | 🐛 180 | 🌐 Go | 📅 2026-10-18 - 命令行下渲染 Markdown
+* [glamour](https://github.com/charmbracelet/glamour) ⭐ 3,738 | 🐛 181 | 🌐 Go | 📅 2026-10-18 - 命令行下渲染 Markdown
 * [gomarkdown/markdown](https://github.com/gomarkdown/markdown) ⭐ 1,738 | 🐛 0 | 🌐 Go | 📅 2026-10-11
 * [Lute](https://github.com/88250/lute) ⭐ 1,678 | 🐛 0 | 🌐 Go | 📅 2026-10-20 - 结构化的 Markdown 引擎
 * [docx2md](https://github.com/mattn/docx2md) ⭐ 766 | 🐛 0 | 🌐 Go | 📅 2026-07-10 - 转换 Word 为 Markdown
@@ -626,35 +626,35 @@
 
 #### HTML/CSS
 
-* [goquery](https://github.com/PuerkitoBio/goquery) ⭐ 14,990 | 🐛 6 | 🌐 Go | 📅 2026-10-19 - jQuery 语法查询 HTML
+* [goquery](https://github.com/PuerkitoBio/goquery) ⭐ 14,991 | 🐛 6 | 🌐 Go | 📅 2026-10-19 - jQuery 语法查询 HTML
 * [bluemonday](https://github.com/microcosm-cc/bluemonday) ⭐ 3,727 | 🐛 38 | 🌐 Go | 📅 2025-04-04 - XSS 探测
 * [gomponents](https://github.com/maragudk/gomponents) ⭐ 1,914 | 🐛 11 | 🌐 Go | 📅 2026-10-06 - 声明式视图组件，可以渲染成 HTML5
 * [go-readability](https://github.com/go-shiori/go-readability) ⚠️ Archived - 让 HTML 可读性更高
 * [htmlquery](https://github.com/antchfx/htmlquery) ⭐ 783 | 🐛 6 | 🌐 Go | 📅 2026-10-19 - XPath 语法查询 HTML
 * [cascadia](https://github.com/andybalholm/cascadia) ⭐ 760 | 🐛 0 | 🌐 Go | 📅 2026-10-19 - CSS 选择器
-* [xpath](https://github.com/antchfx/xpath) ⭐ 742 | 🐛 24 | 🌐 Go | 📅 2026-10-16 - XPath 语法
+* [xpath](https://github.com/antchfx/xpath) ⭐ 742 | 🐛 19 | 🌐 Go | 📅 2026-10-21 - XPath 语法
 * [html2text](https://github.com/jaytaylor/html2text) ⭐ 589 | 🐛 23 | 🌐 Go | 📅 2026-03-03 - HTML 转 text
 * [xmlquery](https://github.com/antchfx/xmlquery) ⭐ 488 | 🐛 16 | 🌐 Go | 📅 2026-10-14 - XPath 语法查询 XML
 * [obelisk](https://github.com/go-shiori/obelisk) ⭐ 322 | 🐛 10 | 🌐 Go | 📅 2026-02-01 - 保存 Web 网页为 HTML 单页面
 * [daz](https://github.com/stevelacy/daz) ⭐ 199 | 🐛 0 | 🌐 Go | 📅 2023-04-19 - HTML 组件组合，渲染 HTML
 * [html-strip-tags-go](https://github.com/grokify/html-strip-tags-go) ⭐ 147 | 🐛 3 | 🌐 Go | 📅 2025-09-01 - 去除 HTML 标签
 * [css](https://github.com/ericchiang/css) ⭐ 137 | 🐛 4 | 🌐 Go | 📅 2024-08-17 - CSS 选择器
-* [DOM](https://github.com/go-shiori/dom) ⭐ 43 | 🐛 2 | 🌐 Go | 📅 2023-10-11 - HTML DOM 节点操作
+* [DOM](https://github.com/go-shiori/dom) ⭐ 44 | 🐛 2 | 🌐 Go | 📅 2023-10-11 - HTML DOM 节点操作
 
 #### 其他
 
-* [bleve](https://github.com/blevesearch/bleve) ⭐ 11,238 | 🐛 302 | 🌐 Go | 📅 2026-10-14 - modern text indexing
-* [Chroma](https://github.com/alecthomas/chroma) ⭐ 5,058 | 🐛 18 | 🌐 Go | 📅 2026-10-18 - 代码语法高亮
-* [minify](https://github.com/tdewolff/minify) ⭐ 4,147 | 🐛 38 | 🌐 Go | 📅 2026-10-18 - Web 静态资源压缩(HTML/JS/CSS/JSON/XML/SVG)
-* [yarr](https://github.com/nkanaev/yarr) ⭐ 4,066 | 🐛 8 | 🌐 Go | 📅 2026-10-19 - RSS 阅读软件
+* [bleve](https://github.com/blevesearch/bleve) ⭐ 11,239 | 🐛 302 | 🌐 Go | 📅 2026-10-14 - modern text indexing
+* [Chroma](https://github.com/alecthomas/chroma) ⭐ 5,060 | 🐛 18 | 🌐 Go | 📅 2026-10-21 - 代码语法高亮
+* [minify](https://github.com/tdewolff/minify) ⭐ 4,147 | 🐛 39 | 🌐 Go | 📅 2026-10-18 - Web 静态资源压缩(HTML/JS/CSS/JSON/XML/SVG)
+* [yarr](https://github.com/nkanaev/yarr) ⭐ 4,066 | 🐛 8 | 🌐 Go | 📅 2026-10-20 - RSS 阅读软件
 * [prose](https://github.com/jdkato/prose) ⭐ 3,091 | 🐛 20 | 🌐 Go | 📅 2026-07-29 - natural language processing library
 * [gofeed](https://github.com/mmcdole/gofeed) ⭐ 2,878 | 🐛 29 | 🌐 Go | 📅 2026-10-13 - RSS & Atom feeds 内容解析
-* [sergi/go-diff](https://github.com/sergi/go-diff) ⭐ 2,088 | 🐛 46 | 🌐 Go | 📅 2025-06-05 - Go 版本的 diff 工具包
-* [Zoekt](https://github.com/sourcegraph/zoekt) ⭐ 1,978 | 🐛 23 | 🌐 Go | 📅 2026-10-16 - 文本搜索引擎
-* [go-pinyin](https://github.com/mozillazg/go-pinyin) ⭐ 1,797 | 🐛 22 | 🌐 Go | 📅 2026-03-08 - 汉语拼音转换工具 Go 版
+* [sergi/go-diff](https://github.com/sergi/go-diff) ⭐ 2,087 | 🐛 46 | 🌐 Go | 📅 2025-06-05 - Go 版本的 diff 工具包
+* [Zoekt](https://github.com/sourcegraph/zoekt) ⭐ 1,986 | 🐛 24 | 🌐 Go | 📅 2026-10-20 - 文本搜索引擎
+* [go-pinyin](https://github.com/mozillazg/go-pinyin) ⭐ 1,796 | 🐛 22 | 🌐 Go | 📅 2026-03-08 - 汉语拼音转换工具 Go 版
 * [etree](https://github.com/beevik/etree) ⭐ 1,670 | 🐛 4 | 🌐 Go | 📅 2026-09-23 - XML 解析&生成
-* [fuzzy](https://github.com/sahilm/fuzzy) ⭐ 1,449 | 🐛 1 | 🌐 Go | 📅 2026-06-24 - 字符串模糊匹配
-* [go-hashids](https://github.com/speps/go-hashids) ⭐ 1,376 | 🐛 9 | 🌐 Go | 📅 2022-06-24 - hashids 的 Go 版本
+* [fuzzy](https://github.com/sahilm/fuzzy) ⭐ 1,450 | 🐛 1 | 🌐 Go | 📅 2026-06-24 - 字符串模糊匹配
+* [go-hashids](https://github.com/speps/go-hashids) ⭐ 1,375 | 🐛 9 | 🌐 Go | 📅 2022-06-24 - hashids 的 Go 版本
 * [xurls](https://github.com/mvdan/xurls) ⭐ 1,266 | 🐛 3 | 🌐 Go | 📅 2026-10-11 - 从文本中提取 URL
 * [hostctl](https://github.com/guumaster/hostctl) ⭐ 1,244 | 🐛 19 | 🌐 Go | 📅 2024-01-26 - `hosts` 命令行管理工具
 * [regexp2](https://github.com/dlclark/regexp2) ⭐ 1,192 | 🐛 6 | 🌐 Go | 📅 2026-10-19 - 全功能正则表达式引擎。如果标准库的 regexp 满足不了你，可以尝试使用 regexp2
@@ -663,15 +663,15 @@
 * [golang/freetype](https://github.com/golang/freetype) ⚠️ Archived - Freetype font rasterizer
 * [feeds](https://github.com/gorilla/feeds) ⭐ 818 | 🐛 15 | 🌐 Go | 📅 2024-06-17 - RSS 内容生成
 * [kyokomi/emoji](https://github.com/kyokomi/emoji) ⭐ 814 | 🐛 0 | 🌐 Go | 📅 2026-09-21
-* [go-runewidth](https://github.com/mattn/go-runewidth) ⭐ 723 | 🐛 2 | 🌐 Go | 📅 2026-10-08 - 字符长度计算
+* [go-runewidth](https://github.com/mattn/go-runewidth) ⭐ 725 | 🐛 2 | 🌐 Go | 📅 2026-10-08 - 字符长度计算
 * [whatlanggo](https://github.com/abadojack/whatlanggo) ⭐ 695 | 🐛 16 | 🌐 Go | 📅 2023-03-28 - 自然语言探测
-* [go-enry](https://github.com/go-enry/go-enry) ⭐ 632 | 🐛 24 | 🌐 Go | 📅 2026-06-24 - 检测编程语言
+* [go-enry](https://github.com/go-enry/go-enry) ⭐ 632 | 🐛 25 | 🌐 Go | 📅 2026-06-24 - 检测编程语言
 * [go-password-validator](https://github.com/lane-c-wagner/go-password-validator) ⭐ 592 | 🐛 6 | 🌐 Go | 📅 2022-09-22 - 密码强度校验器
 * [go-shellwords](https://github.com/mattn/go-shellwords) ⭐ 578 | 🐛 8 | 🌐 Go | 📅 2026-10-01 - 解析命令行中字段
 * [Inflection](https://github.com/jinzhu/inflection) ⭐ 527 | 🐛 15 | 🌐 Go | 📅 2023-10-16 - Pluralizes and singularizes English nouns
 * [woke](https://github.com/get-woke/woke) ⭐ 517 | 🐛 48 | 🌐 Go | 📅 2024-05-07 - 检查文本文件中是否存在歧视词汇
 * [gogrep](https://github.com/mvdan/gogrep) ⚠️ Archived - 通过语法树搜索 Go 源码
-* [sourcegraph/go-diff](https://github.com/sourcegraph/go-diff) ⭐ 467 | 🐛 3 | 🌐 Go | 📅 2026-09-14 - Go 版本的 diff 工具包
+* [sourcegraph/go-diff](https://github.com/sourcegraph/go-diff) ⭐ 467 | 🐛 3 | 🌐 Go | 📅 2026-10-20 - Go 版本的 diff 工具包
 * [enescakir/emoji](https://github.com/enescakir/emoji) ⭐ 454 | 🐛 5 | 🌐 Go | 📅 2024-06-24
 * [go-xml](https://github.com/droyo/go-xml) ⭐ 323 | 🐛 52 | 🌐 Go | 📅 2024-05-22
 * [syntaxhighlight](https://github.com/sourcegraph/syntaxhighlight) ⭐ 271 | 🐛 3 | 🌐 Go | 📅 2023-05-11 - 代码高亮
@@ -685,22 +685,22 @@
 
 ### 文档
 
-* [swag](https://github.com/swaggo/swag) ⭐ 13,051 | 🐛 476 | 🌐 Go | 📅 2026-09-30 - Swagger for Go
+* [swag](https://github.com/swaggo/swag) ⭐ 13,041 | 🐛 478 | 🌐 Go | 📅 2026-09-30 - Swagger for Go
 * [go-swagger](https://github.com/go-swagger/go-swagger) ⭐ 10,006 | 🐛 303 | 🌐 Go | 📅 2026-10-19 - Swagger 2.0 implementation for go
-* [gin-swagger](https://github.com/swaggo/gin-swagger) ⭐ 4,234 | 🐛 111 | 🌐 Go | 📅 2026-07-10 - Swagger for Gin
+* [gin-swagger](https://github.com/swaggo/gin-swagger) ⭐ 4,235 | 🐛 112 | 🌐 Go | 📅 2026-07-10 - Swagger for Gin
 
 ### 数学计算
 
-* [decimal](https://github.com/shopspring/decimal) ⭐ 7,495 | 🐛 51 | 🌐 Go | 📅 2026-10-18 - 解决浮点数计算精度问题
+* [decimal](https://github.com/shopspring/decimal) ⭐ 7,496 | 🐛 51 | 🌐 Go | 📅 2026-10-18 - 解决浮点数计算精度问题
 * [accounting](https://github.com/leekchan/accounting) ⭐ 907 | 🐛 10 | 🌐 Go | 📅 2026-09-27 - 货币格式化
-* [apd](https://github.com/cockroachdb/apd) ⭐ 811 | 🐛 24 | 🌐 Go | 📅 2026-03-23 - decimal 包
+* [apd](https://github.com/cockroachdb/apd) ⭐ 811 | 🐛 23 | 🌐 Go | 📅 2026-10-20 - decimal 包
 * [fixed](https://github.com/robaho/fixed) ⭐ 353 | 🐛 4 | 🌐 Go | 📅 2025-12-01
 * [q](https://github.com/itsubaki/q) ⭐ 284 | 🐛 2 | 🌐 Go | 📅 2026-10-17 - 量子计算模拟器
 * [mathfmt](https://github.com/mmcloughlin/mathfmt) ⭐ 206 | 🐛 4 | 🌐 Go | 📅 2024-02-09 - 将 LaTeX 语法的注释转换为数学公式格式
 
 ### 日期时间
 
-* [now](https://github.com/jinzhu/now) ⭐ 4,708 | 🐛 24 | 🌐 Go | 📅 2026-02-02
+* [now](https://github.com/jinzhu/now) ⭐ 4,707 | 🐛 24 | 🌐 Go | 📅 2026-02-02
 * [dateparse](https://github.com/araddon/dateparse) ⭐ 2,142 | 🐛 66 | 🌐 Go | 📅 2023-12-30 - 解析任意未知格式的时间字符串
 * [when](https://github.com/olebedev/when) ⭐ 1,465 | 🐛 16 | 🌐 Go | 📅 2026-10-14 - 自然日期时间解析
 * [Carbon](https://github.com/uniplaces/carbon) ⭐ 780 | 🐛 1 | 🌐 Go | 📅 2024-01-17 - Carbon 时间处理库的 Go 语言实现
@@ -708,17 +708,17 @@
 
 ### 配置
 
-* [Viper](https://github.com/spf13/viper) ⭐ 30,491 | 🐛 164 | 🌐 Go | 📅 2026-01-12 - 支持 `JSON`, `TOML`, `YAML`, `HCL`, `Java` 等配置文件
+* [Viper](https://github.com/spf13/viper) ⭐ 30,485 | 🐛 164 | 🌐 Go | 📅 2026-01-12 - 支持 `JSON`, `TOML`, `YAML`, `HCL`, `Java` 等配置文件
 * [GoDotEnv](https://github.com/joho/godotenv) ⭐ 10,663 | 🐛 87 | 🌐 Go | 📅 2026-08-04 - `.env` 配置文件解析
-* [confd](https://github.com/kelseyhightower/confd) ⭐ 8,422 | 🐛 178 | 🌐 Go | 📅 2024-07-16 - 配置管理工具
+* [confd](https://github.com/kelseyhightower/confd) ⭐ 8,421 | 🐛 178 | 🌐 Go | 📅 2024-07-16 - 配置管理工具
 * [go-yaml/yaml](https://github.com/go-yaml/yaml) ⚠️ Archived
-* [env](https://github.com/caarlos0/env) ⭐ 6,340 | 🐛 43 | 🌐 Go | 📅 2026-10-07 - 解析 ENV 环境变量到结构体中
-* [HCL](https://github.com/hashicorp/hcl) ⭐ 5,822 | 🐛 227 | 🌐 Go | 📅 2026-10-19 - configuration language
+* [env](https://github.com/caarlos0/env) ⭐ 6,341 | 🐛 43 | 🌐 Go | 📅 2026-10-07 - 解析 ENV 环境变量到结构体中
+* [HCL](https://github.com/hashicorp/hcl) ⭐ 5,822 | 🐛 226 | 🌐 Go | 📅 2026-10-20 - configuration language
 * [envconfig](https://github.com/kelseyhightower/envconfig) ⭐ 5,468 | 🐛 64 | 🌐 Go | 📅 2025-06-28
-* [toml](https://github.com/BurntSushi/toml) ⭐ 5,027 | 🐛 29 | 🌐 Go | 📅 2026-08-18 - `TOML` 解析&编码包
-* [koanf](https://github.com/knadh/koanf) ⭐ 4,218 | 🐛 4 | 🌐 Go | 📅 2026-10-18
+* [toml](https://github.com/BurntSushi/toml) ⭐ 5,028 | 🐛 29 | 🌐 Go | 📅 2026-08-18 - `TOML` 解析&编码包
+* [koanf](https://github.com/knadh/koanf) ⭐ 4,219 | 🐛 5 | 🌐 Go | 📅 2026-10-21
 * [INI](https://github.com/go-ini/ini) ⭐ 3,542 | 🐛 102 | 🌐 Go | 📅 2026-09-05 - `INI` 配置文件解析
-* [go-toml](https://github.com/pelletier/go-toml) ⭐ 1,997 | 🐛 41 | 🌐 Go | 📅 2026-08-03 - TOML
+* [go-toml](https://github.com/pelletier/go-toml) ⭐ 1,997 | 🐛 42 | 🌐 Go | 📅 2026-08-03 - TOML
 * [configor](https://github.com/jinzhu/configor) ⭐ 1,786 | 🐛 34 | 🌐 Go | 📅 2024-04-27
 * [configor](https://github.com/jinzhu/configor) ⭐ 1,786 | 🐛 34 | 🌐 Go | 📅 2024-04-27
 * [ghodss/yaml](https://github.com/ghodss/yaml) ⭐ 1,064 | 🐛 34 | 🌐 Go | 📅 2023-05-26
@@ -730,15 +730,15 @@
 ### 爬虫
 
 * [Colly](https://github.com/gocolly/colly) ⭐ 25,559 | 🐛 194 | 🌐 Go | 📅 2026-10-16 - 网络爬虫框架
-* [katana](https://github.com/projectdiscovery/katana) ⭐ 17,695 | 🐛 25 | 🌐 Go | 📅 2026-10-19 - 爬虫&蜘蛛框架
-* [Crawlab](https://github.com/crawlab-team/crawlab) ⭐ 12,280 | 🐛 166 | 🌐 Go | 📅 2026-02-10 - 基于Golang的分布式爬虫管理平台，支持Python、NodeJS、Go、Java、PHP等多种编程语言以及多种爬虫框架
+* [katana](https://github.com/projectdiscovery/katana) ⭐ 17,698 | 🐛 23 | 🌐 Go | 📅 2026-10-20 - 爬虫&蜘蛛框架
+* [Crawlab](https://github.com/crawlab-team/crawlab) ⭐ 12,281 | 🐛 166 | 🌐 Go | 📅 2026-02-10 - 基于Golang的分布式爬虫管理平台，支持Python、NodeJS、Go、Java、PHP等多种编程语言以及多种爬虫框架
 * [Pholcus](https://github.com/henrylee2cn/pholcus) ⭐ 7,583 | 🐛 4 | 🌐 Go | 📅 2026-08-24 - 支持分布式的高并发、重量级爬虫软件
 * [ferret](https://github.com/MontFerret/ferret) ⭐ 6,011 | 🐛 12 | 🌐 Go | 📅 2026-10-16 - 声明式 Web 数据抓取
 * [Geziyor](https://github.com/geziyor/geziyor) ⭐ 2,782 | 🐛 31 | 🌐 Go | 📅 2026-07-02 - 支持 JS 渲染的快速爬虫框架
 * [Muffet](https://github.com/raviqqe/muffet) ⭐ 2,616 | 🐛 26 | 🌐 Go | 📅 2026-10-19 - 网站链接检查器
 * [gocrawl](https://github.com/PuerkitoBio/gocrawl) ⭐ 2,052 | 🐛 6 | 🌐 Go | 📅 2021-05-19
 * [go\_spider](https://github.com/hu17889/go_spider) ⭐ 1,817 | 🐛 22 | 🌐 Go | 📅 2017-11-16
-* [Apollo](https://github.com/amirgamil/apollo) ⭐ 1,382 | 🐛 8 | 🌐 Go | 📅 2023-10-27 - 一个爬虫工具
+* [Apollo](https://github.com/amirgamil/apollo) ⭐ 1,383 | 🐛 8 | 🌐 Go | 📅 2023-10-27 - 一个爬虫工具
 * [Creeper](https://github.com/wspl/creeper) ⭐ 778 | 🐛 5 | 🌐 Go | 📅 2017-05-16
 * [Antch](https://github.com/antchfx/antch) ⭐ 265 | 🐛 5 | 🌐 Go | 📅 2020-05-31
 
@@ -749,42 +749,42 @@
 * [sqlparser](https://github.com/xwb1989/sqlparser) ⭐ 1,584 | 🐛 44 | 🌐 Go | 📅 2022-09-27 - SQL 解析
 * [pingcap/parser](https://github.com/pingcap/parser) ⭐ 1,440 | 🐛 60 | 🌐 Go | 📅 2023-12-07 - 兼容 MySQL 的 SQL 解析
 * [vitess-sqlparser](https://github.com/blastrain/vitess-sqlparser) ⭐ 495 | 🐛 20 | 🌐 Go | 📅 2022-11-14 - SQL 解析
-* [dbml-go](https://github.com/duythinht/dbml-go) ⭐ 137 | 🐛 4 | 🌐 Go | 📅 2023-06-11 - [DBML](https://github.com/holistics/dbml) ⭐ 3,716 | 🐛 95 | 🌐 JavaScript | 📅 2026-10-20 解析
+* [dbml-go](https://github.com/duythinht/dbml-go) ⭐ 137 | 🐛 4 | 🌐 Go | 📅 2023-06-11 - [DBML](https://github.com/holistics/dbml) ⭐ 3,717 | 🐛 97 | 🌐 JavaScript | 📅 2026-10-21 解析
 * [xsqlparser](https://github.com/akito0107/xsqlparser) ⭐ 51 | 🐛 7 | 🌐 Go | 📅 2022-06-10 - SQL 解析
 
 #### 分布式事务
 
-* [DTM](https://github.com/yedf/dtm) ⭐ 10,920 | 🐛 88 | 🌐 Go | 📅 2026-01-03 - 跨语言的分布式事务管理服务，支持TCC、Saga、XA等
+* [DTM](https://github.com/yedf/dtm) ⭐ 10,922 | 🐛 88 | 🌐 Go | 📅 2026-01-03 - 跨语言的分布式事务管理服务，支持TCC、Saga、XA等
 * [go-saga](https://github.com/lysu/go-saga) - Saga 分布式事务实现
 
 #### 数据库相关
 
-* [GORM](https://github.com/go-gorm/gorm) ⭐ 39,975 | 🐛 554 | 🌐 Go | 📅 2026-09-14 - GORM V2
+* [GORM](https://github.com/go-gorm/gorm) ⭐ 39,979 | 🐛 554 | 🌐 Go | 📅 2026-09-14 - GORM V2
   * [GORM V1](https://github.com/jinzhu/gorm) ⭐ 657 | 🐛 9 | 🌐 Go | 📅 2024-08-07
   * [gorm-sharding](https://github.com/go-gorm/sharding) ⭐ 334 | 🐛 43 | 🌐 Go | 📅 2026-01-31 - 基于 Conn 层做 SQL 拦截、AST 解析、分表路由、自增主键填充，对使用者透明
   * [gorm2sql](https://github.com/liudanking/gorm2sql) ⭐ 122 | 🐛 2 | 🌐 Go | 📅 2022-07-13 - 根据 Model Struct 生成建表语句
-* [Vitess](https://github.com/vitessio/vitess) ⭐ 21,387 | 🐛 1,247 | 🌐 Go | 📅 2026-10-20 - 用于部署、扩展和管理大型MySQL实例集群的数据库解决方案
-* [migrate](https://github.com/golang-migrate/migrate) ⭐ 18,976 | 🐛 493 | 🌐 Go | 📅 2026-09-09 - 数据库迁移工具
-* [sqlx](https://github.com/jmoiron/sqlx) ⭐ 17,738 | 🐛 395 | 🌐 Go | 📅 2024-08-15 - `database/sql` 扩展包
+* [Vitess](https://github.com/vitessio/vitess) ⭐ 21,390 | 🐛 1,248 | 🌐 Go | 📅 2026-10-21 - 用于部署、扩展和管理大型MySQL实例集群的数据库解决方案
+* [migrate](https://github.com/golang-migrate/migrate) ⭐ 18,979 | 🐛 492 | 🌐 Go | 📅 2026-09-09 - 数据库迁移工具
+* [sqlx](https://github.com/jmoiron/sqlx) ⭐ 17,737 | 🐛 395 | 🌐 Go | 📅 2024-08-15 - `database/sql` 扩展包
 * [ent](https://github.com/facebook/ent) ⭐ 17,208 | 🐛 631 | 🌐 Go | 📅 2026-10-14 - An Entity Framework For Go
-* [Bytebase](https://github.com/bytebase/bytebase) ⭐ 14,615 | 🐛 171 | 🌐 Go | 📅 2026-10-20 - 基于网络、零配置、无依赖的数据库 Schema 变更和版本控制管理工具
+* [Bytebase](https://github.com/bytebase/bytebase) ⭐ 14,616 | 🐛 170 | 🌐 Go | 📅 2026-10-21 - 基于网络、零配置、无依赖的数据库 Schema 变更和版本控制管理工具
 * [gh-ost](https://github.com/github/gh-ost) ⭐ 13,605 | 🐛 346 | 🌐 Go | 📅 2026-10-19 - GitHub 开源的在线更改 MySQL 表结构的工具
-* [goose](https://github.com/pressly/goose) ⭐ 11,600 | 🐛 145 | 🌐 Go | 📅 2026-10-17 - 数据库迁移工具
-* [usql](https://github.com/xo/usql) ⭐ 10,154 | 🐛 61 | 🌐 Go | 📅 2026-10-19 - 几乎支持全部 SQL 与 NoSQL 数据库的命令行工具
+* [goose](https://github.com/pressly/goose) ⭐ 11,604 | 🐛 145 | 🌐 Go | 📅 2026-10-17 - 数据库迁移工具
+* [usql](https://github.com/xo/usql) ⭐ 10,156 | 🐛 61 | 🌐 Go | 📅 2026-10-19 - 几乎支持全部 SQL 与 NoSQL 数据库的命令行工具
 * [SOAR](https://github.com/XiaoMi/soar) ⭐ 8,752 | 🐛 76 | 🌐 Go | 📅 2023-12-15 - 对SQL进行优化和改写的自动化工具
 * [Squirrel](https://github.com/Masterminds/squirrel) ⭐ 7,986 | 🐛 100 | 🌐 Go | 📅 2024-04-24 - Fluent SQL Builder
-* [dbmate](https://github.com/amacneil/dbmate) ⭐ 7,467 | 🐛 31 | 🌐 Go | 📅 2026-10-18 - 数据库迁移工具
+* [dbmate](https://github.com/amacneil/dbmate) ⭐ 7,472 | 🐛 31 | 🌐 Go | 📅 2026-10-18 - 数据库迁移工具
 * [kingshard](https://github.com/flike/kingshard) ⭐ 6,395 | 🐛 160 | 🌐 Go | 📅 2026-06-05 - MySQL Proxy
 * [OctoSQL](https://github.com/cube2222/octosql) ⭐ 5,268 | 🐛 46 | 🌐 Go | 📅 2024-05-26 - 支持多数据库的 SQL 查询工具
-* [Bun](https://github.com/uptrace/bun) ⭐ 4,995 | 🐛 45 | 🌐 Go | 📅 2026-10-03 - SQL 优先的 ORM，写 SQL 的方式写 Go 代码，支持 PostgreSQL、MySQL、MSSQL、SQLite
-* [go-mysql](https://github.com/siddontang/go-mysql) ⭐ 4,969 | 🐛 168 | 🌐 Go | 📅 2026-10-11 - MySQL 工具集
+* [Bun](https://github.com/uptrace/bun) ⭐ 4,997 | 🐛 45 | 🌐 Go | 📅 2026-10-03 - SQL 优先的 ORM，写 SQL 的方式写 Go 代码，支持 PostgreSQL、MySQL、MSSQL、SQLite
+* [go-mysql](https://github.com/siddontang/go-mysql) ⭐ 4,969 | 🐛 169 | 🌐 Go | 📅 2026-10-21 - MySQL 工具集
 * [Gaea](https://github.com/XiaoMi/Gaea) ⭐ 2,764 | 🐛 67 | 🌐 Go | 📅 2026-03-18 - 小米开源的基于 MySQL 协议的数据库中间件
 * [Bifrost](https://github.com/brokercap/Bifrost) ⭐ 2,089 | 🐛 90 | 🌐 Go | 📅 2026-06-20 - MySQL 同步到 Redis、ClickHouse 等服务的异构中间件
 * [SQLer](https://github.com/alash3al/sqler) ⭐ 2,068 | 🐛 2 | 🌐 Go | 📅 2024-12-28 - write APIs using direct SQL queries with no hassle, let's rethink about SQL
 * [gocraft/dbr](https://github.com/gocraft/dbr) ⭐ 1,845 | 🐛 12 | 🌐 Go | 📅 2024-10-04
 * [gendry](https://github.com/didi/gendry) ⚠️ Archived - 滴滴开源的SQL Builder
 * [XormPlus](https://github.com/xormplus/xorm) ⭐ 1,552 | 🐛 33 | 🌐 Go | 📅 2022-06-06 - Xorm 的定制增强版本
-* [POP](https://github.com/gobuffalo/pop) ⭐ 1,526 | 🐛 93 | 🌐 Go | 📅 2026-10-18 - 基于 [sqlx](https://github.com/jmoiron/sqlx) ⭐ 17,738 | 🐛 395 | 🌐 Go | 📅 2024-08-15 封装的数据库 ORM 工具
+* [POP](https://github.com/gobuffalo/pop) ⭐ 1,526 | 🐛 93 | 🌐 Go | 📅 2026-10-18 - 基于 [sqlx](https://github.com/jmoiron/sqlx) ⭐ 17,737 | 🐛 395 | 🌐 Go | 📅 2024-08-15 封装的数据库 ORM 工具
 * [SQLE](https://github.com/actiontech/sqle) ⭐ 1,502 | 🐛 198 | 🌐 Go | 📅 2026-09-30 - SQL 审核工具
 * [elasticsql](https://github.com/cch123/elasticsql) ⭐ 1,189 | 🐛 13 | 🌐 Go | 📅 2023-08-06 - 转换 SQL 成 Elasticsearch DSL
 * [GoRose](https://github.com/gohouse/gorose) ⭐ 1,161 | 🐛 2 | 🌐 Go | 📅 2024-12-04
@@ -803,52 +803,52 @@
 
 #### 数据库客户端
 
-* [go-redis](https://github.com/redis/go-redis) ⭐ 22,270 | 🐛 117 | 🌐 Go | 📅 2026-10-20 - Redis 客户端
-* [Go-MySQL-Driver](https://github.com/go-sql-driver/mysql) ⭐ 15,277 | 🐛 57 | 🌐 Go | 📅 2026-10-16 - MySQL 驱动
-* [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) ⭐ 13,134 | 🐛 178 | 🌐 Vue | 📅 2026-07-12 - Redis 桌面客户端
+* [go-redis](https://github.com/redis/go-redis) ⭐ 22,270 | 🐛 113 | 🌐 Go | 📅 2026-10-20 - Redis 客户端
+* [Go-MySQL-Driver](https://github.com/go-sql-driver/mysql) ⭐ 15,277 | 🐛 56 | 🌐 Go | 📅 2026-10-16 - MySQL 驱动
+* [Tiny RDM](https://github.com/tiny-craft/tiny-rdm) ⭐ 13,133 | 🐛 178 | 🌐 Vue | 📅 2026-07-12 - Redis 桌面客户端
 * [pq](https://github.com/lib/pq) ⭐ 9,967 | 🐛 52 | 🌐 Go | 📅 2026-08-20 - PostgreSQL 驱动
 * [redigo](https://github.com/gomodule/redigo) ⭐ 9,848 | 🐛 29 | 🌐 Go | 📅 2025-11-02 - Redis 客户端
-* [go-sqlite3](https://github.com/mattn/go-sqlite3) ⭐ 9,259 | 🐛 151 | 🌐 C | 📅 2026-09-28 - SQLite3 驱动
-* [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) ⭐ 8,534 | 🐛 18 | 🌐 Go | 📅 2026-10-19 - MongoDB 官方出品的 Go 语言驱动
-* [redsync](https://github.com/go-redsync/redsync) ⭐ 4,052 | 🐛 4 | 🌐 Go | 📅 2026-10-19 - 基于 Redis 的分布式锁
-* [clickhouse-go](https://github.com/ClickHouse/clickhouse-go) ⭐ 3,352 | 🐛 191 | 🌐 Go | 📅 2026-10-19 - ClickHouse 官方 Go 语言客户端
-* [rueidis](https://github.com/rueian/rueidis) ⭐ 2,990 | 🐛 23 | 🌐 Go | 📅 2026-10-20 - Redis 客户端
+* [go-sqlite3](https://github.com/mattn/go-sqlite3) ⭐ 9,258 | 🐛 150 | 🌐 C | 📅 2026-09-28 - SQLite3 驱动
+* [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) ⭐ 8,534 | 🐛 18 | 🌐 Go | 📅 2026-10-21 - MongoDB 官方出品的 Go 语言驱动
+* [redsync](https://github.com/go-redsync/redsync) ⭐ 4,053 | 🐛 4 | 🌐 Go | 📅 2026-10-19 - 基于 Redis 的分布式锁
+* [clickhouse-go](https://github.com/ClickHouse/clickhouse-go) ⭐ 3,352 | 🐛 191 | 🌐 Go | 📅 2026-10-20 - ClickHouse 官方 Go 语言客户端
+* [rueidis](https://github.com/rueian/rueidis) ⭐ 2,990 | 🐛 22 | 🌐 Go | 📅 2026-10-21 - Redis 客户端
 * [go-mssqldb](https://github.com/denisenkom/go-mssqldb) ⭐ 1,881 | 🐛 177 | 🌐 Go | 📅 2025-04-26 - MSSQL 驱动
 * [redislock](https://github.com/bsm/redislock) ⭐ 1,769 | 🐛 3 | 🌐 Go | 📅 2026-06-27 - 基于 Redis 的分布式锁
 * [qmgo](https://github.com/qiniu/qmgo) ⭐ 1,355 | 🐛 52 | 🌐 Go | 📅 2026-06-20 - MongoDB 客户端
-* [gohbase](https://github.com/tsuna/gohbase) ⭐ 760 | 🐛 49 | 🌐 Go | 📅 2026-10-14 - HBase 客户端
+* [gohbase](https://github.com/tsuna/gohbase) ⭐ 760 | 🐛 49 | 🌐 Go | 📅 2026-10-20 - HBase 客户端
 * [go-clickhouse](https://github.com/uptrace/go-clickhouse) ⭐ 284 | 🐛 21 | 🌐 Go | 📅 2024-02-29 - ClickHouse 客户端
 
 #### 数据库引擎
 
-* [Prometheus](https://github.com/prometheus/prometheus) ⭐ 66,665 | 🐛 1,007 | 🌐 Go | 📅 2026-10-20 - 服务监控系统 & 时间序列数据库
-* [etcd](https://github.com/etcd-io/etcd) ⭐ 52,402 | 🐛 402 | 🌐 Go | 📅 2026-10-19 - KV 分布式存储
-* [Milvus](https://github.com/milvus-io/milvus) ⭐ 46,441 | 🐛 1,413 | 🌐 Go | 📅 2026-10-20 - 向量数据库
-* [TiDB](https://github.com/pingcap/tidb) ⭐ 40,659 | 🐛 7,340 | 🌐 Go | 📅 2026-10-20 - 分布式关系型数据库，兼容 MySQL 协议
-* [CockroachDB](https://github.com/cockroachdb/cockroach) ⭐ 32,574 | 🐛 8,233 | 🌐 Go | 📅 2026-10-15 - 分布式 SQL 数据库
-* [InfluxDB](https://github.com/influxdata/influxdb) ⭐ 31,772 | 🐛 2,179 | 🌐 Rust | 📅 2026-10-15 - 时间序列数据库
-* [Dolt](https://github.com/dolthub/dolt) ⭐ 24,691 | 🐛 595 | 🌐 Go | 📅 2026-10-20 - 像 Git 一样操作数据库
-* [Dgraph](https://github.com/dgraph-io/dgraph) ⭐ 21,812 | 🐛 100 | 🌐 Go | 📅 2026-10-19 - 分布式图数据库
-* [rqlite](https://github.com/rqlite/rqlite) ⭐ 17,808 | 🐛 67 | 🌐 Go | 📅 2026-10-20 - 基于 SQLite 的轻量级分布式关系数据库
-* [BadgerDB](https://github.com/dgraph-io/badger) ⭐ 15,785 | 🐛 76 | 🌐 Go | 📅 2026-10-15 - KV 数据库，支持 ACID 事务
-* [Cayley](https://github.com/cayleygraph/cayley) ⭐ 15,064 | 🐛 93 | 🌐 Go | 📅 2026-08-27 - 图数据库
-* [Thanos](https://github.com/thanos-io/thanos) ⭐ 14,241 | 🐛 930 | 🌐 Go | 📅 2026-10-19 - 支持 Prometheus 简化部署、高可用、分布式存储
-* [FerretDB](https://github.com/FerretDB/FerretDB) ⭐ 11,100 | 🐛 449 | 🌐 Go | 📅 2026-06-05 - MangoDB 替代品
-* [Tile38](https://github.com/tidwall/tile38) ⭐ 9,746 | 🐛 163 | 🌐 Go | 📅 2026-09-02 - GEO 数据库
-* [leveldb](https://github.com/syndtr/goleveldb) ⭐ 6,316 | 🐛 112 | 🌐 Go | 📅 2024-05-14 - LevelDB 的 Go 实现
+* [Prometheus](https://github.com/prometheus/prometheus) ⭐ 66,667 | 🐛 1,021 | 🌐 Go | 📅 2026-10-21 - 服务监控系统 & 时间序列数据库
+* [etcd](https://github.com/etcd-io/etcd) ⭐ 52,408 | 🐛 406 | 🌐 Go | 📅 2026-10-20 - KV 分布式存储
+* [Milvus](https://github.com/milvus-io/milvus) ⭐ 46,452 | 🐛 1,424 | 🌐 Go | 📅 2026-10-21 - 向量数据库
+* [TiDB](https://github.com/pingcap/tidb) ⭐ 40,663 | 🐛 7,341 | 🌐 Go | 📅 2026-10-21 - 分布式关系型数据库，兼容 MySQL 协议
+* [CockroachDB](https://github.com/cockroachdb/cockroach) ⭐ 32,576 | 🐛 8,229 | 🌐 Go | 📅 2026-10-15 - 分布式 SQL 数据库
+* [InfluxDB](https://github.com/influxdata/influxdb) ⭐ 31,773 | 🐛 2,181 | 🌐 Rust | 📅 2026-10-21 - 时间序列数据库
+* [Dolt](https://github.com/dolthub/dolt) ⭐ 24,700 | 🐛 604 | 🌐 Go | 📅 2026-10-21 - 像 Git 一样操作数据库
+* [Dgraph](https://github.com/dgraph-io/dgraph) ⭐ 21,812 | 🐛 100 | 🌐 Go | 📅 2026-10-21 - 分布式图数据库
+* [rqlite](https://github.com/rqlite/rqlite) ⭐ 17,807 | 🐛 66 | 🌐 Go | 📅 2026-10-21 - 基于 SQLite 的轻量级分布式关系数据库
+* [BadgerDB](https://github.com/dgraph-io/badger) ⭐ 15,786 | 🐛 76 | 🌐 Go | 📅 2026-10-20 - KV 数据库，支持 ACID 事务
+* [Cayley](https://github.com/cayleygraph/cayley) ⭐ 15,066 | 🐛 93 | 🌐 Go | 📅 2026-08-27 - 图数据库
+* [Thanos](https://github.com/thanos-io/thanos) ⭐ 14,241 | 🐛 929 | 🌐 Go | 📅 2026-10-20 - 支持 Prometheus 简化部署、高可用、分布式存储
+* [FerretDB](https://github.com/FerretDB/FerretDB) ⭐ 11,102 | 🐛 449 | 🌐 Go | 📅 2026-06-05 - MangoDB 替代品
+* [Tile38](https://github.com/tidwall/tile38) ⭐ 9,746 | 🐛 164 | 🌐 Go | 📅 2026-10-21 - GEO 数据库
+* [leveldb](https://github.com/syndtr/goleveldb) ⭐ 6,315 | 🐛 112 | 🌐 Go | 📅 2024-05-14 - LevelDB 的 Go 实现
 * [rosedb](https://github.com/flower-corp/rosedb) ⭐ 4,883 | 🐛 8 | 🌐 Go | 📅 2026-02-10 - 简洁、高效的 KV 数据库，支持多种数据结构
 * [BuntDB](https://github.com/tidwall/buntdb) ⭐ 4,871 | 🐛 32 | 🌐 Go | 📅 2026-05-19 - 基于内存的KV数据库，支持磁盘持久化、ACID事务
 * [NutsDB](https://github.com/nutsdb/nutsdb) ⭐ 3,583 | 🐛 50 | 🌐 Go | 📅 2026-10-11 - 可持久化、事务的内嵌 KV 数据库
-* [Olric](https://github.com/buraksezer/olric) ⭐ 3,500 | 🐛 20 | 🌐 Go | 📅 2026-08-20
+* [Olric](https://github.com/buraksezer/olric) ⭐ 3,501 | 🐛 20 | 🌐 Go | 📅 2026-08-20
 * [go-memdb](https://github.com/hashicorp/go-memdb) ⭐ 3,476 | 🐛 48 | 🌐 Go | 📅 2026-06-28 - 建立在不可变 Radix 树上的内存数据库
 * [AresDB](https://github.com/uber/aresdb) ⭐ 3,078 | 🐛 30 | 🌐 Go | 📅 2024-07-13 - Uber 开源的 GPU 驱动的实时分析存储&查询引擎
 * [LinDB](https://github.com/lindb/lindb) ⭐ 3,065 | 🐛 11 | 🌐 Go | 📅 2026-07-27 - 分布式时序数据库
-* [go-mysql-server](https://github.com/dolthub/go-mysql-server) ⭐ 2,660 | 🐛 82 | 🌐 Go | 📅 2026-10-20 - 解析 MySQL 协议并优化 SQL 的数据库引擎
+* [go-mysql-server](https://github.com/dolthub/go-mysql-server) ⭐ 2,660 | 🐛 82 | 🌐 Go | 📅 2026-10-21 - 解析 MySQL 协议并优化 SQL 的数据库引擎
 * [Redcon](https://github.com/tidwall/redcon) ⭐ 2,307 | 🐛 14 | 🌐 Go | 📅 2026-07-22 - 兼容 Redis 协议的自定义 Redis 服务，采用 BuntDB 和 Tile38 实现存储
 * [LotusDB](https://github.com/flower-corp/lotusdb) ⭐ 2,256 | 🐛 16 | 🌐 Go | 📅 2026-08-27 - 快速 KV 存储引擎，兼容 LSM 和 B+ 树
 * [**TinySQL**](https://github.com/pingcap-incubator/tinysql) ⭐ 2,052 | 🐛 38 | 🌐 Go | 📅 2023-09-27 - 迷你分布式关系型数据库
 * [RadonDB](https://github.com/radondb/radon) ⭐ 1,794 | 🐛 1 | 🌐 Go | 📅 2022-06-22 - 基于 MySQL 研发的新一代分布式关系型数据库
-* [genji](https://github.com/genjidb/genji) ⭐ 1,708 | 🐛 21 | 🌐 Go | 📅 2026-01-16 - 文档内嵌型数据库
+* [genji](https://github.com/genjidb/genji) ⭐ 1,708 | 🐛 22 | 🌐 Go | 📅 2026-10-20 - 文档内嵌型数据库
 * [tstorage](https://github.com/nakabonne/tstorage) ⭐ 1,254 | 🐛 14 | 🌐 Go | 📅 2026-03-16 - 时间序列数据库
 * [mandodb](https://github.com/chenjiandongx/mandodb) ⭐ 693 | 🐛 7 | 🌐 Go | 📅 2024-08-08 - 一个示例项目，作者介绍如何从零开始实现一个小型的时序数据库
 * [LBADD](https://github.com/tomarrell/lbadd) ⭐ 389 | 🐛 26 | 🌐 Go | 📅 2023-04-04 - 用 Go 实现的分布式 SQL 数据库
@@ -857,12 +857,12 @@
 
 ### 缓存
 
-* [groupcache](https://github.com/golang/groupcache) ⭐ 13,335 | 🐛 46 | 🌐 Go | 📅 2024-11-29 - 分布式缓存
-* [bbolt](https://github.com/etcd-io/bbolt) ⭐ 9,786 | 🐛 31 | 🌐 Go | 📅 2026-10-16 - key/value store
-* [go-cache](https://github.com/patrickmn/go-cache) ⭐ 8,841 | 🐛 82 | 🌐 Go | 📅 2023-11-20 - KV 内存缓存
-* [BigCache](https://github.com/allegro/bigcache) ⭐ 8,172 | 🐛 101 | 🌐 Go | 📅 2026-10-12
-* [ristretto](https://github.com/dgraph-io/ristretto) ⭐ 7,004 | 🐛 21 | 🌐 Go | 📅 2026-09-21
-* [Pebble](https://github.com/cockroachdb/pebble) ⭐ 6,058 | 🐛 163 | 🌐 Go | 📅 2026-10-20 - 被 CockroachDB 使用的 KV 存储
+* [groupcache](https://github.com/golang/groupcache) ⭐ 13,336 | 🐛 46 | 🌐 Go | 📅 2024-11-29 - 分布式缓存
+* [bbolt](https://github.com/etcd-io/bbolt) ⭐ 9,787 | 🐛 32 | 🌐 Go | 📅 2026-10-16 - key/value store
+* [go-cache](https://github.com/patrickmn/go-cache) ⭐ 8,840 | 🐛 82 | 🌐 Go | 📅 2023-11-20 - KV 内存缓存
+* [BigCache](https://github.com/allegro/bigcache) ⭐ 8,173 | 🐛 101 | 🌐 Go | 📅 2026-10-12
+* [ristretto](https://github.com/dgraph-io/ristretto) ⭐ 7,003 | 🐛 21 | 🌐 Go | 📅 2026-09-21
+* [Pebble](https://github.com/cockroachdb/pebble) ⭐ 6,059 | 🐛 162 | 🌐 Go | 📅 2026-10-21 - 被 CockroachDB 使用的 KV 存储
 * [FreeCache](https://github.com/coocood/freecache) ⭐ 5,412 | 🐛 42 | 🌐 Go | 📅 2026-10-06
 * [godis](https://github.com/hdt3213/godis) ⭐ 3,827 | 🐛 20 | 🌐 Go | 📅 2025-09-14 - Go 语言实现的 Redis 服务器和分布式集群
 * [GCache](https://github.com/bluele/gcache) ⭐ 2,729 | 🐛 30 | 🌐 Go | 📅 2024-03-01
@@ -874,34 +874,34 @@
 
 ### 搜索推荐
 
-* [ZincSearch](https://github.com/zinclabs/zinc) ⭐ 17,918 | 🐛 44 | 🌐 Go | 📅 2026-09-16 - 全文搜索引擎
+* [ZincSearch](https://github.com/zinclabs/zinc) ⭐ 17,916 | 🐛 44 | 🌐 Go | 📅 2026-09-16 - 全文搜索引擎
 * [elastic](https://github.com/olivere/elastic) ⭐ 7,437 | 🐛 116 | 🌐 Go | 📅 2024-08-08 - Elasticsearch 客户端
 * [go-elasticsearch](https://github.com/elastic/go-elasticsearch) ⭐ 6,068 | 🐛 32 | 🌐 Go | 📅 2026-10-09 - 官方 ES 客户端
 * [Riot](https://github.com/go-ego/riot) ⭐ 6,055 | 🐛 0 | 🌐 Go | 📅 2026-09-21 - 全文搜索引擎
 * [wukong](https://github.com/huichen/wukong) ⭐ 4,466 | 🐛 36 | 🌐 Go | 📅 2021-08-24 - 全文搜索引擎
 * [go-mysql-elasticsearch](https://github.com/siddontang/go-mysql-elasticsearch) ⭐ 4,139 | 🐛 218 | 🌐 Go | 📅 2023-10-22 - Sync MySQL data into elasticsearch
 * [gse](https://github.com/go-ego/gse) ⭐ 2,843 | 🐛 15 | 🌐 Go | 📅 2026-09-12 - Go 语言分词
-* [gojieba](https://github.com/yanyiwu/gojieba) ⭐ 2,648 | 🐛 0 | 🌐 Go | 📅 2026-07-20 - "结巴"中文分词的 Go 语言版本
+* [gojieba](https://github.com/yanyiwu/gojieba) ⭐ 2,649 | 🐛 0 | 🌐 Go | 📅 2026-07-20 - "结巴"中文分词的 Go 语言版本
 * [Bluge](https://github.com/blugelabs/bluge) ⭐ 2,034 | 🐛 67 | 🌐 Go | 📅 2026-01-25 - 文本分词
 * [sego](https://github.com/huichen/sego) ⭐ 1,820 | 🐛 30 | 🌐 Go | 📅 2022-11-16 - Go 中文分词
 * [gofound](https://github.com/newpanjing/gofound) ⭐ 1,595 | 🐛 37 | 🌐 Go | 📅 2024-05-27 - 全文搜索引擎
-* [Fuzzy Search](https://github.com/lithammer/fuzzysearch) ⭐ 1,323 | 🐛 14 | 🌐 Go | 📅 2026-10-01 - 文本模糊搜索
+* [Fuzzy Search](https://github.com/lithammer/fuzzysearch) ⭐ 1,323 | 🐛 13 | 🌐 Go | 📅 2026-10-20 - 文本模糊搜索
 * [Blast](https://github.com/mosuka/blast) ⚠️ Archived - 全文搜索(`Archived`)
 * [simplefts](https://github.com/akrylysov/simplefts) ⭐ 402 | 🐛 1 | 🌐 Go | 📅 2020-08-08 - 超简单的全文搜索引擎实现
 * [gorse](https://github.com/zhenghaoz/gorse) - 单节点训练和分布式预测推荐系统引擎
 
 ### 表单
 
-* [validator](https://github.com/go-playground/validator) ⭐ 20,206 | 🐛 343 | 🌐 Go | 📅 2026-10-19
+* [validator](https://github.com/go-playground/validator) ⭐ 20,207 | 🐛 343 | 🌐 Go | 📅 2026-10-19
 * [govalidator](https://github.com/asaskevich/govalidator) ⭐ 6,201 | 🐛 176 | 🌐 Go | 📅 2026-10-14
 * [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) ⭐ 4,152 | 🐛 36 | 🌐 Go | 📅 2026-09-03 - 使用代码指定规则，而非Tag
 * [go-tagexpr](https://github.com/bytedance/go-tagexpr) ⚠️ Archived - 字节跳动开源的结构体标签表达式解释器
 
 ### Auth
 
-* [Casbin](https://github.com/casbin/casbin) ⭐ 20,461 | 🐛 40 | 🌐 Go | 📅 2026-10-09 - 权限控制管理
-* [ZITADEL](https://github.com/zitadel/zitadel) ⭐ 15,353 | 🐛 1,295 | 🌐 Go | 📅 2026-10-19 - 身份认证系统，支持各种认证模式
-* [jwt-go](https://github.com/golang-jwt/jwt) ⭐ 9,245 | 🐛 57 | 🌐 Go | 📅 2026-10-16 - JWT for Go
+* [Casbin](https://github.com/casbin/casbin) ⭐ 20,464 | 🐛 39 | 🌐 Go | 📅 2026-10-21 - 权限控制管理
+* [ZITADEL](https://github.com/zitadel/zitadel) ⭐ 15,360 | 🐛 1,307 | 🌐 Go | 📅 2026-10-20 - 身份认证系统，支持各种认证模式
+* [jwt-go](https://github.com/golang-jwt/jwt) ⭐ 9,247 | 🐛 57 | 🌐 Go | 📅 2026-10-16 - JWT for Go
 * [Goth](https://github.com/markbates/goth) ⭐ 6,618 | 🐛 145 | 🌐 Go | 📅 2026-02-11 - Multi-Provider Authentication for Go
 * [Authboss](https://github.com/volatiletech/authboss) ⭐ 4,198 | 🐛 41 | 🌐 Go | 📅 2026-07-10 - Web Auth 系统
 * [sessions](https://github.com/gorilla/sessions) ⭐ 3,149 | 🐛 17 | 🌐 Go | 📅 2024-08-20 - 后端 SESSION 服务
@@ -914,16 +914,16 @@
 
 ### 加密/解密
 
-* [age](https://github.com/FiloSottile/age) ⭐ 23,981 | 🐛 22 | 🌐 Go | 📅 2026-08-29 - 文件加密工具（库）
+* [age](https://github.com/FiloSottile/age) ⭐ 23,995 | 🐛 22 | 🌐 Go | 📅 2026-08-29 - 文件加密工具（库）
 * [2fa](https://github.com/rsc/2fa) ⭐ 1,975 | 🐛 22 | 🌐 Go | 📅 2024-08-17 - Two-factor authentication on the command line
-* [CIRCL](https://github.com/cloudflare/circl) ⭐ 1,730 | 🐛 69 | 🌐 Go | 📅 2026-09-28 - Cloudflare Interoperable, Reusable Cryptographic Library
+* [CIRCL](https://github.com/cloudflare/circl) ⭐ 1,729 | 🐛 69 | 🌐 Go | 📅 2026-09-28 - Cloudflare Interoperable, Reusable Cryptographic Library
 
 ### 视频
 
-* [lux](https://github.com/iawia002/lux) ⭐ 31,786 | 🐛 545 | 🌐 Go | 📅 2026-03-29 - 各大视频网站的视频下载工具
+* [lux](https://github.com/iawia002/lux) ⭐ 31,787 | 🐛 545 | 🌐 Go | 📅 2026-03-29 - 各大视频网站的视频下载工具
 * [screego](https://github.com/screego/server) ⭐ 10,737 | 🐛 18 | 🌐 Go | 📅 2026-09-27 - 通过浏览器共享开发者屏幕
-* [livego](https://github.com/gwuhaolin/livego) ⭐ 10,183 | 🐛 141 | 🌐 Go | 📅 2025-12-05 - 直播服务器
-* [bililive-go](https://github.com/hr3lxphr6j/bililive-go) ⭐ 5,808 | 🐛 308 | 🌐 Go | 📅 2026-10-19 - 直播录制工具
+* [livego](https://github.com/gwuhaolin/livego) ⭐ 10,184 | 🐛 141 | 🌐 Go | 📅 2025-12-05 - 直播服务器
+* [bililive-go](https://github.com/hr3lxphr6j/bililive-go) ⭐ 5,811 | 🐛 309 | 🌐 Go | 📅 2026-10-19 - 直播录制工具
 * [lal](https://github.com/q191201771/lal) ⭐ 3,024 | 🐛 40 | 🌐 Go | 📅 2024-10-23 - 直播流媒体网络传输服务器
 * [Monibuca](https://github.com/langhuihui/monibuca) ⭐ 2,419 | 🐛 22 | 🌐 Go | 📅 2026-09-22 - 流媒体服务器开发框架
 * [goav](https://github.com/giorgisio/goav) ⭐ 2,135 | 🐛 48 | 🌐 Go | 📅 2022-05-19 - FFmpeg 视频处理
@@ -931,24 +931,24 @@
 
 ### 图形处理
 
-* [D2](https://github.com/terrastruct/d2) ⭐ 25,678 | 🐛 537 | 🌐 Go | 📅 2026-10-11 - 一种将文本转换成图形的图表脚本语言
-* [primitive](https://github.com/fogleman/primitive) ⭐ 13,550 | 🐛 55 | 🌐 Go | 📅 2024-07-22 - 用原始几何图形绘制图形
-* [Caire](https://github.com/esimov/caire) ⭐ 10,786 | 🐛 3 | 🌐 Go | 📅 2025-05-02 - 图片操作库
-* [imaginary](https://github.com/h2non/imaginary) ⭐ 6,083 | 🐛 138 | 🌐 Go | 📅 2025-11-08 - 图片处理服务
-* [Imaging](https://github.com/disintegration/imaging) ⭐ 5,766 | 🐛 36 | 🌐 Go | 📅 2023-09-21 - 图片操作库
+* [D2](https://github.com/terrastruct/d2) ⭐ 25,695 | 🐛 537 | 🌐 Go | 📅 2026-10-11 - 一种将文本转换成图形的图表脚本语言
+* [primitive](https://github.com/fogleman/primitive) ⭐ 13,553 | 🐛 55 | 🌐 Go | 📅 2024-07-22 - 用原始几何图形绘制图形
+* [Caire](https://github.com/esimov/caire) ⭐ 10,799 | 🐛 3 | 🌐 Go | 📅 2025-05-02 - 图片操作库
+* [imaginary](https://github.com/h2non/imaginary) ⭐ 6,084 | 🐛 138 | 🌐 Go | 📅 2025-11-08 - 图片处理服务
+* [Imaging](https://github.com/disintegration/imaging) ⭐ 5,765 | 🐛 36 | 🌐 Go | 📅 2023-09-21 - 图片操作库
 * [Go Graphics](https://github.com/fogleman/gg) ⭐ 4,792 | 🐛 97 | 🌐 Go | 📅 2023-12-14 - 2D 图片渲染
-* [imagor](https://github.com/cshum/imagor) ⭐ 4,043 | 🐛 2 | 🌐 Go | 📅 2026-10-19 - 图像处理服务器
-* [Triangula](https://github.com/RH12503/Triangula) ⭐ 3,876 | 🐛 13 | 🌐 Go | 📅 2026-03-21 - 给图片增加三角形纹样风格的滤镜
-* [bimg](https://github.com/h2non/bimg) ⭐ 3,038 | 🐛 178 | 🌐 Go | 📅 2025-01-23 - 图片处理
-* [base64Captcha](https://github.com/mojocn/base64Captcha) ⭐ 2,366 | 🐛 7 | 🌐 Go | 📅 2025-09-29 - 验证码
-* [picfit](https://github.com/thoas/picfit) ⭐ 2,343 | 🐛 11 | 🌐 Go | 📅 2026-10-05 - 图片操作、裁剪、管理服务器
+* [imagor](https://github.com/cshum/imagor) ⭐ 4,045 | 🐛 2 | 🌐 Go | 📅 2026-10-20 - 图像处理服务器
+* [Triangula](https://github.com/RH12503/Triangula) ⭐ 3,877 | 🐛 13 | 🌐 Go | 📅 2026-03-21 - 给图片增加三角形纹样风格的滤镜
+* [bimg](https://github.com/h2non/bimg) ⭐ 3,039 | 🐛 178 | 🌐 Go | 📅 2025-01-23 - 图片处理
+* [base64Captcha](https://github.com/mojocn/base64Captcha) ⭐ 2,367 | 🐛 7 | 🌐 Go | 📅 2025-09-29 - 验证码
+* [picfit](https://github.com/thoas/picfit) ⭐ 2,343 | 🐛 10 | 🌐 Go | 📅 2026-10-20 - 图片操作、裁剪、管理服务器
 * [Invoice](https://github.com/maaslalani/invoice) ⭐ 2,197 | 🐛 25 | 🌐 Go | 📅 2024-06-18 - 发票生成工具，可通过参数和配置文件进行创建和管理各种类型的发票
 * [dchest/captcha](https://github.com/dchest/captcha) ⭐ 2,064 | 🐛 4 | 🌐 Go | 📅 2024-12-11 - 生成和验证图片或音频验证码
 * [smartcrop](https://github.com/muesli/smartcrop) ⭐ 1,858 | 🐛 11 | 🌐 Go | 📅 2023-07-06 - 智能裁剪图片
 * [canvas](https://github.com/tdewolff/canvas) ⭐ 1,845 | 🐛 26 | 🌐 Go | 📅 2026-09-23 - 矢量图绘制
 * [gift](https://github.com/disintegration/gift) ⭐ 1,797 | 🐛 9 | 🌐 Go | 📅 2023-09-20 - 图片滤镜
 * [barcode](https://github.com/boombuler/barcode) ⭐ 1,563 | 🐛 8 | 🌐 Go | 📅 2026-10-18 - 条形码/二维码生成器
-* [besticon](https://github.com/mat/besticon) ⭐ 1,001 | 🐛 9 | 🌐 Go | 📅 2026-09-06 - favicon 服务
+* [besticon](https://github.com/mat/besticon) ⭐ 1,001 | 🐛 10 | 🌐 Go | 📅 2026-10-21 - favicon 服务
 * [orly](https://github.com/nanmu42/orly) ⭐ 809 | 🐛 6 | 🌐 Go | 📅 2024-09-17 - 生成你自己的O'RLY动物书封面
 * [identicon](https://github.com/issue9/identicon) ⭐ 241 | 🐛 1 | 🌐 Go | 📅 2026-03-30 - 根据用户的 IP 、邮箱名等任意数据为用户产生漂亮的随机头像
 * [Germanium](https://github.com/matsuyoshi30/germanium) ⭐ 214 | 🐛 4 | 🌐 Go | 📅 2025-03-20 - 给代码生成图片
@@ -976,15 +976,15 @@
 
 ### 构建编译
 
-* [Air](https://github.com/cosmtrek/air) ⭐ 24,081 | 🐛 14 | 🌐 Go | 📅 2026-08-27 - 热编译工具
-* [Task](https://github.com/go-task/task) ⭐ 16,269 | 🐛 196 | 🌐 Go | 📅 2026-10-20 - 类似于 `Make` 的构建工具
-* [**GoReleaser**](https://github.com/goreleaser/goreleaser) ⭐ 16,104 | 🐛 19 | 🌐 Go | 📅 2026-10-20 - Go 多平台二进制文件打包、并支持发布到 Homebrew 的工具
-* [garble](https://github.com/burrowers/garble) ⭐ 5,783 | 🐛 38 | 🌐 Go | 📅 2026-10-18 - 混淆代码
+* [Air](https://github.com/cosmtrek/air) ⭐ 24,083 | 🐛 14 | 🌐 Go | 📅 2026-08-27 - 热编译工具
+* [Task](https://github.com/go-task/task) ⭐ 16,273 | 🐛 196 | 🌐 Go | 📅 2026-10-21 - 类似于 `Make` 的构建工具
+* [**GoReleaser**](https://github.com/goreleaser/goreleaser) ⭐ 16,107 | 🐛 11 | 🌐 Go | 📅 2026-10-21 - Go 多平台二进制文件打包、并支持发布到 Homebrew 的工具
+* [garble](https://github.com/burrowers/garble) ⭐ 5,785 | 🐛 40 | 🌐 Go | 📅 2026-10-20 - 混淆代码
 * [**Mage**](https://github.com/magefile/mage) ⭐ 4,693 | 🐛 122 | 🌐 Go | 📅 2026-10-01 - 类似于 Makefile 的命令行工具，用于构建和运行 Go 项目
 * [Gox](https://github.com/mitchellh/gox) ⚠️ Archived - Go 跨端编译工具
 * [codegangsta/gin](https://github.com/codegangsta/gin) ⭐ 4,241 | 🐛 79 | 🌐 Go | 📅 2023-02-18 - 热编译工具
 * [Fresh](https://github.com/gravityblast/fresh) ⭐ 3,855 | 🐛 61 | 🌐 Go | 📅 2024-06-21 - 热编译工具
-* [nFPM](https://github.com/goreleaser/nfpm) ⭐ 2,674 | 🐛 17 | 🌐 Go | 📅 2026-10-20 - deb、rpm、apk 等打包工具
+* [nFPM](https://github.com/goreleaser/nfpm) ⭐ 2,675 | 🐛 17 | 🌐 Go | 📅 2026-10-20 - deb、rpm、apk 等打包工具
 * [goxc](https://github.com/laher/goxc) ⚠️ Archived - 跨平台编译工具（因 1.5 版本开始已自带交叉编译，故已不再维护）
 * [gobfuscate](https://github.com/unixpickle/gobfuscate) ⭐ 1,573 | 🐛 24 | 🌐 Go | 📅 2021-12-07 - 混淆代码
 * [go-appimage](https://github.com/probonopd/go-appimage) ⭐ 1,190 | 🐛 137 | 🌐 Go | 📅 2026-09-03 - Go 语言实现 AppImage 打包工具
@@ -994,7 +994,7 @@
 
 #### 静态资源内嵌
 
-* [statik](https://github.com/rakyll/statik) ⭐ 3,822 | 🐛 40 | 🌐 Go | 📅 2026-01-10 - 静态文件嵌入
+* [statik](https://github.com/rakyll/statik) ⭐ 3,824 | 🐛 40 | 🌐 Go | 📅 2026-01-10 - 静态文件嵌入
 * [packr](https://github.com/gobuffalo/packr) ⚠️ Archived
 * [go.rice](https://github.com/GeertJohan/go.rice) ⭐ 2,436 | 🐛 38 | 🌐 Go | 📅 2022-11-16
 * [go-bindata](https://github.com/go-bindata/go-bindata) ⭐ 1,910 | 🐛 35 | 🌐 Go | 📅 2024-07-13 - 将静态文件转换成 Go 代码文件
@@ -1011,21 +1011,21 @@
 
 ### 代码分析
 
-* [**GolangCI-Lint**](https://github.com/golangci/golangci-lint) ⭐ 19,453 | 🐛 115 | 🌐 Go | 📅 2026-10-19 - 代码质量检查分析工具
-* [Pyroscope](https://github.com/pyroscope-io/pyroscope) ⭐ 11,698 | 🐛 419 | 🌐 Go | 📅 2026-10-19 - 可视化程序性能监控工具，支持多种语言
-* [reviewdog](https://github.com/reviewdog/reviewdog) ⭐ 9,678 | 🐛 131 | 🌐 Go | 📅 2026-10-19 - Code Review 机器人
-* [gosec](https://github.com/securego/gosec) ⭐ 8,976 | 🐛 7 | 🌐 Go | 📅 2026-10-19 - 代码安全性检查工具
-* [fieldalignment](https://github.com/golang/tools/tree/master/go/analysis/passes/fieldalignment) ⭐ 8,006 | 🐛 120 | 🌐 Go | 📅 2026-10-19 - 结构体字段内存对齐分析和自动修复工具
-* [Staticcheck](https://github.com/dominikh/go-tools) ⭐ 6,911 | 🐛 625 | 🌐 Go | 📅 2026-10-12 - 一系列的 Go 代码静态分析工具
-* [revive](https://github.com/mgechev/revive) ⭐ 5,554 | 🐛 86 | 🌐 Go | 📅 2026-10-19 - 代码检查分析
+* [**GolangCI-Lint**](https://github.com/golangci/golangci-lint) ⭐ 19,462 | 🐛 115 | 🌐 Go | 📅 2026-10-20 - 代码质量检查分析工具
+* [Pyroscope](https://github.com/pyroscope-io/pyroscope) ⭐ 11,697 | 🐛 432 | 🌐 Go | 📅 2026-10-21 - 可视化程序性能监控工具，支持多种语言
+* [reviewdog](https://github.com/reviewdog/reviewdog) ⭐ 9,682 | 🐛 132 | 🌐 Go | 📅 2026-10-21 - Code Review 机器人
+* [gosec](https://github.com/securego/gosec) ⭐ 8,977 | 🐛 7 | 🌐 Go | 📅 2026-10-20 - 代码安全性检查工具
+* [fieldalignment](https://github.com/golang/tools/tree/master/go/analysis/passes/fieldalignment) ⭐ 8,007 | 🐛 122 | 🌐 Go | 📅 2026-10-21 - 结构体字段内存对齐分析和自动修复工具
+* [Staticcheck](https://github.com/dominikh/go-tools) ⭐ 6,911 | 🐛 627 | 🌐 Go | 📅 2026-10-12 - 一系列的 Go 代码静态分析工具
+* [revive](https://github.com/mgechev/revive) ⭐ 5,554 | 🐛 84 | 🌐 Go | 📅 2026-10-20 - 代码检查分析
 * [conprof](https://github.com/conprof/conprof) ⭐ 4,996 | 🐛 215 | 🌐 TypeScript | 📅 2026-09-29 - 协程分析
 * [gofumpt](https://github.com/mvdan/gofumpt) ⭐ 4,102 | 🐛 13 | 🌐 Go | 📅 2026-10-12 - `gofmt` 增强版代码格式化工具
 * [codesearch](https://github.com/google/codesearch) ⭐ 4,017 | 🐛 39 | 🌐 Go | 📅 2026-08-30 - 代码搜索工具
 * [Golint](https://github.com/golang/lint) ⚠️ Archived - Google 官方出品的代码质量检测工具
-* [GoReporter](https://github.com/360EntSecGroup-Skylar/goreporter) ⭐ 3,122 | 🐛 30 | 🌐 Go | 📅 2018-10-27
+* [GoReporter](https://github.com/360EntSecGroup-Skylar/goreporter) ⭐ 3,123 | 🐛 30 | 🌐 Go | 📅 2018-10-27
 * [fgprof](https://github.com/felixge/fgprof) ⭐ 3,113 | 🐛 7 | 🌐 Go | 📅 2025-05-02 - Go 性能分析工具
-* [Bearer](https://github.com/bearer/bearer) ⭐ 2,766 | 🐛 26 | 🌐 Go | 📅 2026-10-19 - 代码安全扫描工具
-* [errcheck](https://github.com/kisielk/errcheck) ⭐ 2,531 | 🐛 12 | 🌐 Go | 📅 2026-10-10 - 检测未处理的错误(errors)
+* [Bearer](https://github.com/bearer/bearer) ⭐ 2,767 | 🐛 27 | 🌐 Go | 📅 2026-10-20 - 代码安全扫描工具
+* [errcheck](https://github.com/kisielk/errcheck) ⭐ 2,531 | 🐛 11 | 🌐 Go | 📅 2026-10-10 - 检测未处理的错误(errors)
 * [**Go Report Card**](https://github.com/gojp/goreportcard) ⚠️ Archived - Go 项目质量分析报告工具
 * [gokart](https://github.com/praetorian-inc/gokart) ⚠️ Archived - 代码静态分析工具
 * [GoPlantUML](https://github.com/jfeliu007/goplantuml) ⭐ 2,080 | 🐛 39 | 🌐 Go | 📅 2025-10-16 - 为 Go 项目生成 PlantUML 类图
@@ -1044,13 +1044,13 @@
 
 ### 调试
 
-* [**Delve**](https://github.com/go-delve/delve) ⭐ 24,951 | 🐛 84 | 🌐 Go | 📅 2026-10-15 - Debug 工具
-* [pprof](https://github.com/google/pprof) ⭐ 9,309 | 🐛 63 | 🌐 Go | 📅 2026-10-16
-* [gops](https://github.com/google/gops) ⭐ 7,019 | 🐛 38 | 🌐 Go | 📅 2026-07-16 - 谷歌官方出品的 Go 程序监控调试工具
+* [**Delve**](https://github.com/go-delve/delve) ⭐ 24,948 | 🐛 83 | 🌐 Go | 📅 2026-10-20 - Debug 工具
+* [pprof](https://github.com/google/pprof) ⭐ 9,309 | 🐛 64 | 🌐 Go | 📅 2026-10-16
+* [gops](https://github.com/google/gops) ⭐ 7,020 | 🐛 38 | 🌐 Go | 📅 2026-07-16 - 谷歌官方出品的 Go 程序监控调试工具
 * [go-callvis](https://github.com/TrueFurby/go-callvis) ⭐ 6,530 | 🐛 73 | 🌐 Go | 📅 2026-03-30 - 可视化Go程序的调用图
 * [**go-spew**](https://github.com/davecgh/go-spew) ⭐ 6,426 | 🐛 72 | 🌐 Go | 📅 2024-04-06 - 变量打印工具
-* [lensm](https://github.com/loov/lensm) ⭐ 3,691 | 🐛 3 | 🌐 Go | 📅 2026-08-25 - Go 汇编与源码对照查看工具
-* [statsviz](https://github.com/arl/statsviz) ⭐ 3,646 | 🐛 7 | 🌐 Go | 📅 2026-10-18 - 在浏览器中实时查看 Go 应用程序运行时统计信息（GC，MemStats 等）
+* [lensm](https://github.com/loov/lensm) ⭐ 3,690 | 🐛 3 | 🌐 Go | 📅 2026-08-25 - Go 汇编与源码对照查看工具
+* [statsviz](https://github.com/arl/statsviz) ⭐ 3,646 | 🐛 9 | 🌐 Go | 📅 2026-10-21 - 在浏览器中实时查看 Go 应用程序运行时统计信息（GC，MemStats 等）
 * [pp](https://github.com/k0kubun/pp) ⭐ 2,055 | 🐛 7 | 🌐 Go | 📅 2026-10-09 - 彩色变量打印工具
 * [pkg/profile](https://github.com/pkg/profile) ⭐ 2,053 | 🐛 13 | 🌐 Go | 📅 2022-10-20
 * [grmon](https://github.com/bcicen/grmon) ⭐ 1,895 | 🐛 4 | 🌐 Go | 📅 2023-07-18 - 命令行监控显示 goroutines
@@ -1063,29 +1063,29 @@
 * [holmes](https://github.com/mosn/holmes) ⭐ 1,149 | 🐛 25 | 🌐 Go | 📅 2025-04-23 - 基于规则的自动 Go Profile Dumper
 * [gcvis](https://github.com/davecheney/gcvis) ⚠️ Archived - 实时可视化 gctrace
 * [autopprof](https://github.com/rakyll/autopprof) ⭐ 757 | 🐛 3 | 🌐 Go | 📅 2020-10-23 - 自动分析 pprof
-* [debugcharts](https://github.com/mkevac/debugcharts) ⭐ 512 | 🐛 7 | 🌐 Go | 📅 2023-12-19 - Go 内存占用可视化调试工具
+* [debugcharts](https://github.com/mkevac/debugcharts) ⭐ 511 | 🐛 7 | 🌐 Go | 📅 2023-12-19 - Go 内存占用可视化调试工具
 * [stack](https://github.com/go-stack/stack) ⭐ 404 | 🐛 4 | 🌐 Go | 📅 2021-08-18 - 捕获、操作、格式化调用栈信息
 * [ffmt](https://github.com/go-ffmt/ffmt) ⭐ 317 | 🐛 2 | 🌐 Go | 📅 2021-11-19 - 变量打印工具
 * [valast](https://github.com/hexops/valast) ⭐ 311 | 🐛 7 | 🌐 Go | 📅 2025-02-19 - 打印输出变量的 `go/ast` 结构，类似于 PHP 的 `var_export` 函数
 * [Weaver](https://github.com/grantseltzer/weaver) ⚠️ Archived - 跟踪 Go 程序执行链路
 * [gcnotifier](https://github.com/CAFxX/gcnotifier) ⭐ 186 | 🐛 0 | 🌐 Go | 📅 2022-07-05 - 当发生 GC 时通知
-* [repr](https://github.com/alecthomas/repr) ⭐ 181 | 🐛 4 | 🌐 Go | 📅 2026-10-18 - 变量打印工具
+* [repr](https://github.com/alecthomas/repr) ⭐ 181 | 🐛 4 | 🌐 Go | 📅 2026-10-20 - 变量打印工具
 * [mmcloughlin/profile](https://github.com/mmcloughlin/profile) ⭐ 75 | 🐛 0 | 🌐 Go | 📅 2024-02-09
 
 ### 测试
 
-* [k6](https://github.com/k6io/k6) ⭐ 31,986 | 🐛 770 | 🌐 Go | 📅 2026-10-19 - 负载测试工具
-* [Testify](https://github.com/stretchr/testify) ⭐ 26,235 | 🐛 398 | 🌐 Go | 📅 2026-10-19
+* [k6](https://github.com/k6io/k6) ⭐ 31,993 | 🐛 765 | 🌐 Go | 📅 2026-10-21 - 负载测试工具
+* [Testify](https://github.com/stretchr/testify) ⭐ 26,224 | 🐛 398 | 🌐 Go | 📅 2026-10-19
 * [GoMock](https://github.com/golang/mock) ⚠️ Archived - 谷歌出品的Mock测试框架
 * [Ginkgo](https://github.com/onsi/ginkgo) ⭐ 9,065 | 🐛 127 | 🌐 Go | 📅 2026-10-09 - BBD 测试框架
-* [GoConvey](https://github.com/smartystreets/goconvey) ⭐ 8,397 | 🐛 169 | 🌐 Go | 📅 2024-07-30 - 含Web界面的单元测试框架
+* [GoConvey](https://github.com/smartystreets/goconvey) ⭐ 8,398 | 🐛 169 | 🌐 Go | 📅 2024-07-30 - 含Web界面的单元测试框架
 * [Terratest](https://github.com/gruntwork-io/terratest) ⭐ 7,984 | 🐛 4 | 🌐 Go | 📅 2026-10-19 - 基础设施测试，比如 Docker
-* [mockery](https://github.com/vektra/mockery) ⭐ 7,170 | 🐛 48 | 🌐 Go | 📅 2026-10-19 - 自动为接口生成 mock 代码
+* [mockery](https://github.com/vektra/mockery) ⭐ 7,170 | 🐛 51 | 🌐 Go | 📅 2026-10-19 - 自动为接口生成 mock 代码
 * [sqlmock](https://github.com/DATA-DOG/go-sqlmock) ⭐ 6,571 | 🐛 51 | 🌐 Go | 📅 2026-07-10 - SQL 测试
-* [gofakeit](https://github.com/brianvoe/gofakeit) ⭐ 5,402 | 🐛 6 | 🌐 Go | 📅 2026-10-11 - 随机数据生成器
+* [gofakeit](https://github.com/brianvoe/gofakeit) ⭐ 5,404 | 🐛 6 | 🌐 Go | 📅 2026-10-11 - 随机数据生成器
 * [gotests](https://github.com/cweill/gotests) ⭐ 5,336 | 🐛 40 | 🌐 Go | 📅 2025-10-30 - 根据源码自动生成测试文件
-* [go-fuzz](https://github.com/dvyukov/go-fuzz) ⭐ 4,849 | 🐛 58 | 🌐 Go | 📅 2024-09-24 - randomized testing for Go
-* [miniredis](https://github.com/alicebob/miniredis) ⭐ 3,623 | 🐛 6 | 🌐 Go | 📅 2026-10-19 - Redis 数据测试
+* [go-fuzz](https://github.com/dvyukov/go-fuzz) ⭐ 4,848 | 🐛 58 | 🌐 Go | 📅 2024-09-24 - randomized testing for Go
+* [miniredis](https://github.com/alicebob/miniredis) ⭐ 3,624 | 🐛 6 | 🌐 Go | 📅 2026-10-20 - Redis 数据测试
 * [Monkey](https://github.com/bouk/monkey) ⚠️ Archived - (**Archived**) Monkey patching in Go
 * [httpexpect](https://github.com/gavv/httpexpect) ⭐ 2,723 | 🐛 26 | 🌐 Go | 📅 2025-11-20 - 端到端 HTTP & REST 测试框架
 * [godog](https://github.com/cucumber/godog) ⭐ 2,685 | 🐛 92 | 🌐 Go | 📅 2026-10-16 - BDD 测试框架 Cucumber 的 Go 版本
@@ -1118,9 +1118,9 @@
 
 ### 错误处理
 
-* [errors](https://github.com/pkg/errors) ⭐ 8,255 | 🐛 45 | 🌐 Go | 📅 2026-03-27
+* [errors](https://github.com/pkg/errors) ⭐ 8,257 | 🐛 45 | 🌐 Go | 📅 2026-03-27
 * [go-multierror](https://github.com/hashicorp/go-multierror) ⭐ 2,590 | 🐛 26 | 🌐 Go | 📅 2026-10-14 - 支持错误列表
-* [cockroachdb/errors](https://github.com/cockroachdb/errors) ⭐ 2,475 | 🐛 25 | 🌐 Go | 📅 2026-10-19 - 功能强大、可替代 `errors` 和 `github.com/pkg/errors` 的错误处理包
+* [cockroachdb/errors](https://github.com/cockroachdb/errors) ⭐ 2,476 | 🐛 25 | 🌐 Go | 📅 2026-10-19 - 功能强大、可替代 `errors` 和 `github.com/pkg/errors` 的错误处理包
 * [eris](https://github.com/rotisserie/eris) ⭐ 1,796 | 🐛 4 | 🌐 Go | 📅 2025-04-03 - 旨在通过错误包装，堆栈跟踪和输出格式为你提供对错误处理的更多控制
 * [juju/errors](https://github.com/juju/errors) ⭐ 1,381 | 🐛 3 | 🌐 Go | 📅 2023-10-23
 * [errorx](https://github.com/joomcode/errorx) ⭐ 1,269 | 🐛 7 | 🌐 Go | 📅 2024-11-08
@@ -1132,21 +1132,21 @@
 
 ### 安全
 
-* [nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 32,153 | 🐛 143 | 🌐 Go | 📅 2026-10-20 - 基于YAML语法模板的定制化快速漏洞扫描器
-* [Gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 30,146 | 🐛 506 | 🌐 Go | 📅 2026-09-30 - 用于在 Git 存储库中查找敏感信息和密钥的开源工具
-* [Hetty](https://github.com/dstotijn/hetty) ⭐ 12,521 | 🐛 52 | 🌐 Go | 📅 2026-07-21 - 用于安全研究的 HTTP 工具包，具有 Web 接口和代理日志查看器的拦截 HTTP 代理
+* [nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 32,176 | 🐛 145 | 🌐 Go | 📅 2026-10-20 - 基于YAML语法模板的定制化快速漏洞扫描器
+* [Gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 30,178 | 🐛 510 | 🌐 Go | 📅 2026-09-30 - 用于在 Git 存储库中查找敏感信息和密钥的开源工具
+* [Hetty](https://github.com/dstotijn/hetty) ⭐ 12,526 | 🐛 52 | 🌐 Go | 📅 2026-07-21 - 用于安全研究的 HTTP 工具包，具有 Web 接口和代理日志查看器的拦截 HTTP 代理
 * [Fibratus](https://github.com/rabbitstack/fibratus) ⭐ 2,556 | 🐛 44 | 🌐 Go | 📅 2026-10-19 - Windows 内核漏洞利用和跟踪工具
 * [Secure](https://github.com/unrolled/secure) ⭐ 2,357 | 🐛 1 | 🌐 Go | 📅 2026-10-10 - HTTP 安全中间件
 * [Kunpeng](https://github.com/opensec-cn/kunpeng) ⭐ 1,667 | 🐛 23 | 🌐 Go | 📅 2023-02-25 - 开源POC检测框架
-* [nmap](https://github.com/Ullaakut/nmap) ⭐ 1,052 | 🐛 4 | 🌐 Go | 📅 2026-10-16 - 安全审计工具 `nmap` 开发包
+* [nmap](https://github.com/Ullaakut/nmap) ⭐ 1,052 | 🐛 5 | 🌐 Go | 📅 2026-10-20 - 安全审计工具 `nmap` 开发包
 
 ### 系统信息
 
-* [gopsutil](https://github.com/shirou/gopsutil) ⭐ 11,933 | 🐛 217 | 🌐 Go | 📅 2026-10-19 - `ps` 功能包
+* [gopsutil](https://github.com/shirou/gopsutil) ⭐ 11,934 | 🐛 218 | 🌐 Go | 📅 2026-10-19 - `ps` 功能包
 * [ghw](https://github.com/jaypipes/ghw) ⭐ 1,879 | 🐛 60 | 🌐 Go | 📅 2026-09-30 - 硬件信息
 * [go-ps](https://github.com/mitchellh/go-ps) ⚠️ Archived - 系统进程信息
 * [go-hardware](https://github.com/rakyll/go-hardware) ⭐ 1,388 | 🐛 3 | 🌐 Go | 📅 2019-07-31 - 收集了一堆关于硬件信息的包
-* [cpuid](https://github.com/klauspost/cpuid) ⭐ 1,219 | 🐛 6 | 🌐 Go | 📅 2026-10-16 - CPU 信息
+* [cpuid](https://github.com/klauspost/cpuid) ⭐ 1,219 | 🐛 4 | 🌐 Go | 📅 2026-10-20 - CPU 信息
 * [machineid](https://github.com/denisbrodbeck/machineid) ⭐ 1,181 | 🐛 10 | 🌐 Go | 📅 2024-08-20 - 获取机器ID
 * [go-sysinfo](https://github.com/elastic/go-sysinfo) ⭐ 404 | 🐛 20 | 🌐 Go | 📅 2026-07-19 - 系统信息
 * [go-locale](https://github.com/Xuanwo/go-locale) ⭐ 120 | 🐛 2 | 🌐 Go | 📅 2026-07-04 - 跨平台语言检测库
@@ -1154,9 +1154,9 @@
 
 ### UUID
 
-* [google/uuid](https://github.com/google/uuid) ⭐ 6,146 | 🐛 71 | 🌐 Go | 📅 2024-11-14 - Google 开源的 uuid 包
-* [ksuid](https://github.com/segmentio/ksuid) ⭐ 5,272 | 🐛 25 | 🌐 Go | 📅 2026-06-25 - K-Sortable Globally Unique IDs
-* [ulid](https://github.com/oklog/ulid) ⭐ 5,048 | 🐛 9 | 🌐 Go | 📅 2026-07-23 - ULID Go 语言实现
+* [google/uuid](https://github.com/google/uuid) ⭐ 6,145 | 🐛 71 | 🌐 Go | 📅 2024-11-14 - Google 开源的 uuid 包
+* [ksuid](https://github.com/segmentio/ksuid) ⭐ 5,271 | 🐛 25 | 🌐 Go | 📅 2026-06-25 - K-Sortable Globally Unique IDs
+* [ulid](https://github.com/oklog/ulid) ⭐ 5,049 | 🐛 9 | 🌐 Go | 📅 2026-07-23 - ULID Go 语言实现
 * [go.uuid](https://github.com/satori/go.uuid) ⭐ 4,892 | 🐛 44 | 🌐 Go | 📅 2024-08-10 - UUID 库
 * [sonyflake](https://github.com/sony/sonyflake) ⭐ 4,419 | 🐛 8 | 🌐 Go | 📅 2026-02-12 - Sony 版本的 Twitter's Snowflake
 * [xid](https://github.com/rs/xid) ⭐ 4,279 | 🐛 21 | 🌐 Go | 📅 2026-09-12 - 全局唯一 ID 生成器
@@ -1167,9 +1167,9 @@
 
 ### 日志
 
-* [Logrus](https://github.com/sirupsen/logrus) ⭐ 25,761 | 🐛 59 | 🌐 Go | 📅 2026-10-02 - 日志记录包
-* [zap](https://github.com/uber-go/zap) ⭐ 24,670 | 🐛 201 | 🌐 Go | 📅 2026-09-16 - Uber 开发的日志记录包
-* [zerolog](https://github.com/rs/zerolog) ⭐ 12,518 | 🐛 166 | 🌐 Go | 📅 2026-10-14
+* [Logrus](https://github.com/sirupsen/logrus) ⭐ 25,763 | 🐛 59 | 🌐 Go | 📅 2026-10-02 - 日志记录包
+* [zap](https://github.com/uber-go/zap) ⭐ 24,673 | 🐛 201 | 🌐 Go | 📅 2026-09-16 - Uber 开发的日志记录包
+* [zerolog](https://github.com/rs/zerolog) ⭐ 12,517 | 🐛 166 | 🌐 Go | 📅 2026-10-14
 * [lumberjack](https://github.com/natefinch/lumberjack) ⭐ 5,478 | 🐛 103 | 🌐 Go | 📅 2024-08-05 - 日志文件切割
 * [glog](https://github.com/golang/glog) ⭐ 3,599 | 🐛 3 | 🌐 Go | 📅 2025-04-29
 * [Seelog](https://github.com/cihub/seelog) ⭐ 1,632 | 🐛 41 | 🌐 Go | 📅 2019-03-04
@@ -1181,18 +1181,18 @@
 
 ### 监控告警
 
-* [Grafana](https://github.com/grafana/grafana) ⭐ 77,397 | 🐛 3,330 | 🌐 TypeScript | 📅 2026-10-20 - 分析监视平台, 支持 Graphite, Elasticsearch, OpenTSDB, Prometheus, InfluxDB 等数据源
+* [Grafana](https://github.com/grafana/grafana) ⭐ 77,401 | 🐛 3,345 | 🌐 TypeScript | 📅 2026-10-21 - 分析监视平台, 支持 Graphite, Elasticsearch, OpenTSDB, Prometheus, InfluxDB 等数据源
   * [grabana](https://github.com/K-Phoen/grabana) ⭐ 729 | 🐛 35 | 🌐 Go | 📅 2025-05-15 - 用 Go 代码快速创建 grafana dashboards
-* [Prometheus](https://github.com/prometheus/prometheus) ⭐ 66,665 | 🐛 1,007 | 🌐 Go | 📅 2026-10-20 - 服务监控系统 & 时间序列数据库
-* [Jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,317 | 🐛 554 | 🌐 Go | 📅 2026-10-20 - 分布式追踪系统
-* [Nightingale](https://github.com/ccfos/nightingale) ⭐ 13,370 | 🐛 249 | 🌐 Go | 📅 2026-10-20 - 滴滴基于 OpenFalcon 开源的监控系统
+* [Prometheus](https://github.com/prometheus/prometheus) ⭐ 66,667 | 🐛 1,021 | 🌐 Go | 📅 2026-10-21 - 服务监控系统 & 时间序列数据库
+* [Jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,320 | 🐛 557 | 🌐 Go | 📅 2026-10-21 - 分布式追踪系统
+* [Nightingale](https://github.com/ccfos/nightingale) ⭐ 13,373 | 🐛 250 | 🌐 Go | 📅 2026-10-21 - 滴滴基于 OpenFalcon 开源的监控系统
 * [OpenFalcon](https://github.com/open-falcon/falcon-plus) ⚠️ Archived - 小米开源的监控系统
-* [Grafana Tempo](https://github.com/grafana/tempo) ⭐ 5,538 | 🐛 174 | 🌐 Go | 📅 2026-10-19 - 分布式追踪系统
+* [Grafana Tempo](https://github.com/grafana/tempo) ⭐ 5,541 | 🐛 172 | 🌐 Go | 📅 2026-10-20 - 分布式追踪系统
 * [Uptrace](https://github.com/uptrace/uptrace) ⭐ 4,306 | 🐛 57 | 🌐 Go | 📅 2026-10-08 - APM 工具，支持 OpenTelemetry 追踪、指标和日志
-* [supervisord](https://github.com/ochinchina/supervisord) ⭐ 4,275 | 🐛 63 | 🌐 Go | 📅 2026-09-26 - Go 语言实现 Supervisor
-* [EaseProbe](https://github.com/megaease/easeprobe) ⭐ 2,295 | 🐛 22 | 🌐 Go | 📅 2026-09-01 - 服务探活工具并通知
+* [supervisord](https://github.com/ochinchina/supervisord) ⭐ 4,276 | 🐛 63 | 🌐 Go | 📅 2026-09-26 - Go 语言实现 Supervisor
+* [EaseProbe](https://github.com/megaease/easeprobe) ⭐ 2,295 | 🐛 21 | 🌐 Go | 📅 2026-10-21 - 服务探活工具并通知
 * [grafterm](https://github.com/slok/grafterm) ⭐ 1,147 | 🐛 11 | 🌐 Go | 📅 2022-06-10 - Metrics dashboards on terminal
-* [PingMe](https://github.com/kha7iq/pingme) ⭐ 869 | 🐛 4 | 🌐 Go | 📅 2026-07-15 - 支持多消息平台的服务可用性报警命令工具
+* [PingMe](https://github.com/kha7iq/pingme) ⭐ 870 | 🐛 4 | 🌐 Go | 📅 2026-07-15 - 支持多消息平台的服务可用性报警命令工具
 * [go-osstat](https://github.com/mackerelio/go-osstat) ⭐ 421 | 🐛 2 | 🌐 Go | 📅 2026-10-14 - 系统指标统计
 * [mymon](https://github.com/open-falcon/mymon) ⭐ 264 | 🐛 24 | 🌐 Go | 📅 2020-03-27 - MySQL 运行监控
 
@@ -1204,14 +1204,14 @@
 
 ### 容器技术
 
-* [moby](https://github.com/moby/moby) ⭐ 72,208 | 🐛 3,936 | 🌐 Go | 📅 2026-10-19 - Docker
-* [Podman](https://github.com/containers/libpod) ⭐ 33,083 | 🐛 996 | 🌐 Go | 📅 2026-10-19 - 管理和运行任何符合 `OCI` 规范的容器和容器镜像
-* [Rancher](https://github.com/rancher/rancher) ⭐ 25,990 | 🐛 3,397 | 🌐 Go | 📅 2026-10-20 - 全栈化企业级容器管理平台
-* [SlimToolkit](https://github.com/slimtoolkit/slim) ⭐ 23,462 | 🐛 213 | 🌐 Go | 📅 2026-09-19 - 检查、缩小和调试容器
-* [Packer](https://github.com/hashicorp/packer) ⭐ 15,812 | 🐛 316 | 🌐 Go | 📅 2026-10-20 - 轻量级的镜像定义工具
-* [Skopeo](https://github.com/containers/skopeo) ⭐ 11,326 | 🐛 68 | 🌐 Go | 📅 2026-10-16 - 镜像管理工具
-* [Buildah](https://github.com/containers/buildah) ⭐ 9,135 | 🐛 277 | 🌐 Go | 📅 2026-10-19 - 构建 `OCI` 容器镜像的工具
-* [cosign](https://github.com/sigstore/cosign) ⭐ 6,373 | 🐛 159 | 🌐 Go | 📅 2026-10-19 - 容器签名和验证
+* [moby](https://github.com/moby/moby) ⭐ 72,196 | 🐛 3,939 | 🌐 Go | 📅 2026-10-20 - Docker
+* [Podman](https://github.com/containers/libpod) ⭐ 33,088 | 🐛 992 | 🌐 Go | 📅 2026-10-21 - 管理和运行任何符合 `OCI` 规范的容器和容器镜像
+* [Rancher](https://github.com/rancher/rancher) ⭐ 25,993 | 🐛 3,400 | 🌐 Go | 📅 2026-10-21 - 全栈化企业级容器管理平台
+* [SlimToolkit](https://github.com/slimtoolkit/slim) ⭐ 23,467 | 🐛 213 | 🌐 Go | 📅 2026-09-19 - 检查、缩小和调试容器
+* [Packer](https://github.com/hashicorp/packer) ⭐ 15,812 | 🐛 318 | 🌐 Go | 📅 2026-10-20 - 轻量级的镜像定义工具
+* [Skopeo](https://github.com/containers/skopeo) ⭐ 11,328 | 🐛 69 | 🌐 Go | 📅 2026-10-16 - 镜像管理工具
+* [Buildah](https://github.com/containers/buildah) ⭐ 9,137 | 🐛 274 | 🌐 Go | 📅 2026-10-21 - 构建 `OCI` 容器镜像的工具
+* [cosign](https://github.com/sigstore/cosign) ⭐ 6,374 | 🐛 155 | 🌐 Go | 📅 2026-10-20 - 容器签名和验证
 * [docker-ce](https://github.com/docker/docker-ce) ⚠️ Archived
 * [docui](https://github.com/skanehira/docui) ⚠️ Archived - TUI Client for Docker
 * [Gorsair](https://github.com/Ullaakut/Gorsair) ⚠️ Archived
@@ -1219,21 +1219,21 @@
 
 ### 集群管理
 
-* [Nomad](https://github.com/hashicorp/nomad) ⭐ 17,017 | 🐛 1,627 | 🌐 Go | 📅 2026-10-19 - 集群管理器和调度器
-* [OpenShift Origin](https://github.com/openshift/origin) ⭐ 8,695 | 🐛 333 | 🌐 Go | 📅 2026-10-19 - Red Hat 开发的容器化软件解决方案
+* [Nomad](https://github.com/hashicorp/nomad) ⭐ 17,020 | 🐛 1,622 | 🌐 Go | 📅 2026-10-20 - 集群管理器和调度器
+* [OpenShift Origin](https://github.com/openshift/origin) ⭐ 8,695 | 🐛 329 | 🌐 Go | 📅 2026-10-21 - Red Hat 开发的容器化软件解决方案
 
 #### Kubernetes
 
-* [kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 128,487 | 🐛 3,221 | 🌐 Go | 📅 2026-10-20 - 容器调度管理平台
-* [sealos](https://github.com/fanux/sealos) ⭐ 18,373 | 🐛 75 | 🌐 Go | 📅 2026-10-20 - 一条命令部署 Kubernetes 高可用集群
-* [k0s](https://github.com/k0sproject/k0s) ⭐ 6,539 | 🐛 249 | 🌐 Go | 📅 2026-10-20 - 最小体积的 k8s 发行版
+* [kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 128,447 | 🐛 3,225 | 🌐 Go | 📅 2026-10-21 - 容器调度管理平台
+* [sealos](https://github.com/fanux/sealos) ⭐ 18,371 | 🐛 54 | 🌐 Go | 📅 2026-10-21 - 一条命令部署 Kubernetes 高可用集群
+* [k0s](https://github.com/k0sproject/k0s) ⭐ 6,539 | 🐛 250 | 🌐 Go | 📅 2026-10-21 - 最小体积的 k8s 发行版
 * [KubeEye](https://github.com/kubesphere/kubeeye) ⭐ 850 | 🐛 38 | 🌐 Go | 📅 2025-06-25 - 通过配置规则发现 Kubernetes 上的各种问题
 * [endpoints-operator](https://github.com/sealyun/endpoints-operator) ⭐ 97 | 🐛 3 | 🌐 Go | 📅 2024-04-15 - K8S内部服务访问外部服务的具备探活功能的4层LB
 
 ### 机器学习
 
-* [Gobot](https://github.com/hybridgroup/gobot) ⭐ 9,478 | 🐛 100 | 🌐 Go | 📅 2026-01-07 - 机器人和物理计算语言库
-* [GoLearn](https://github.com/sjwhitworth/golearn) ⭐ 9,434 | 🐛 89 | 🌐 Go | 📅 2024-01-15 - 一个 "开箱即用" 的机器学习库
+* [Gobot](https://github.com/hybridgroup/gobot) ⭐ 9,477 | 🐛 100 | 🌐 Go | 📅 2026-01-07 - 机器人和物理计算语言库
+* [GoLearn](https://github.com/sjwhitworth/golearn) ⭐ 9,433 | 🐛 89 | 🌐 Go | 📅 2024-01-15 - 一个 "开箱即用" 的机器学习库
 * [SQLFlow](https://github.com/sql-machine-learning/sqlflow) ⭐ 5,186 | 🐛 250 | 🌐 Go | 📅 2024-04-18 - SQL引擎+AI引擎
 * [Pico](https://github.com/esimov/pigo) ⭐ 4,743 | 🐛 5 | 🌐 Go | 📅 2025-05-03 - 基于像素强度比较的物体检测纸张的纯 Go 脸部检测库
 * [Olivia](https://github.com/olivia-ai/olivia) ⚠️ Archived - 神经网络
@@ -1245,19 +1245,19 @@
 
 ### 人工智能
 
-* [LocalAI](https://github.com/go-skynet/LocalAI) ⭐ 49,748 | 🐛 192 | 🌐 Go | 📅 2026-10-20 - 低成本的硬件上运行模型计算的本地计算框架，支持多种模型，提供兼容 OpenAI 接口协议的 REST API
-* [go-openai](https://github.com/sashabaranov/go-openai) ⭐ 10,786 | 🐛 221 | 🌐 Go | 📅 2026-09-29 - [OpenAI API](https://platform.openai.com) Go 客户端 SDK
+* [LocalAI](https://github.com/go-skynet/LocalAI) ⭐ 49,814 | 🐛 195 | 🌐 Go | 📅 2026-10-21 - 低成本的硬件上运行模型计算的本地计算框架，支持多种模型，提供兼容 OpenAI 接口协议的 REST API
+* [go-openai](https://github.com/sashabaranov/go-openai) ⭐ 10,785 | 🐛 222 | 🌐 Go | 📅 2026-09-29 - [OpenAI API](https://platform.openai.com) Go 客户端 SDK
 
 ### 算法
 
 * [GoDS](https://github.com/emirpasic/gods) ⭐ 17,454 | 🐛 76 | 🌐 Go | 📅 2025-03-12 - Go 实现了多种数据结构
-* [hashicorp/raft](https://github.com/hashicorp/raft) ⭐ 9,149 | 🐛 66 | 🌐 Go | 📅 2026-10-18 - Raft 算法
+* [hashicorp/raft](https://github.com/hashicorp/raft) ⭐ 9,150 | 🐛 70 | 🌐 Go | 📅 2026-10-18 - Raft 算法
 * [Dragonboat](https://github.com/lni/dragonboat) ⭐ 5,329 | 🐛 66 | 🌐 Go | 📅 2025-07-23 - 多组 Raft 共识算法库
-* [golang-lru](https://github.com/hashicorp/golang-lru) ⭐ 5,128 | 🐛 56 | 🌐 Go | 📅 2026-10-12 - LRU 算法实现
-* [memberlist](https://github.com/hashicorp/memberlist) ⭐ 4,121 | 🐛 98 | 🌐 Go | 📅 2026-10-12 - 基于 gossip 协议实现的管理集群成员和成员失败检测的开发包
+* [golang-lru](https://github.com/hashicorp/golang-lru) ⭐ 5,129 | 🐛 56 | 🌐 Go | 📅 2026-10-12 - LRU 算法实现
+* [memberlist](https://github.com/hashicorp/memberlist) ⭐ 4,124 | 🐛 98 | 🌐 Go | 📅 2026-10-12 - 基于 gossip 协议实现的管理集群成员和成员失败检测的开发包
 * [backoff](https://github.com/cenkalti/backoff) ⭐ 4,086 | 🐛 0 | 🌐 Go | 📅 2026-10-19 - 指数退避算法(Exponential Backoff)
-* [FSM](https://github.com/looplab/fsm) ⭐ 3,421 | 🐛 29 | 🌐 Go | 📅 2026-08-27 - 有限状态机
-* [xxhash](https://github.com/cespare/xxhash) ⭐ 2,148 | 🐛 14 | 🌐 Go | 📅 2024-07-03 - xxHash 哈希算法实现
+* [FSM](https://github.com/looplab/fsm) ⭐ 3,420 | 🐛 29 | 🌐 Go | 📅 2026-08-27 - 有限状态机
+* [xxhash](https://github.com/cespare/xxhash) ⭐ 2,146 | 🐛 14 | 🌐 Go | 📅 2024-07-03 - xxHash 哈希算法实现
 * [eliben/raft](https://github.com/eliben/raft) ⭐ 1,434 | 🐛 0 | 🌐 Go | 📅 2026-09-11 - Raft 算法
 * [xorfilter](https://github.com/FastFilter/xorfilter) ⭐ 766 | 🐛 1 | 🌐 Go | 📅 2026-01-26
 * [priyankchheda/algorithms](https://github.com/priyankchheda/algorithms) ⭐ 643 | 🐛 2 | 🌐 C++ | 📅 2023-08-13 - 各种算法的 Go 语言实现
@@ -1272,13 +1272,13 @@
 ### 数据结构
 
 * [go-datastructures](https://github.com/Workiva/go-datastructures) ⭐ 7,964 | 🐛 32 | 🌐 Go | 📅 2026-10-01
-* [golang-set](https://github.com/deckarep/golang-set) ⭐ 4,768 | 🐛 21 | 🌐 Go | 📅 2026-10-02 - The missing set collection
+* [golang-set](https://github.com/deckarep/golang-set) ⭐ 4,769 | 🐛 21 | 🌐 Go | 📅 2026-10-02 - The missing set collection
 * [google/btree](https://github.com/google/btree) ⚠️ Archived - B-Tree
-* [roaring](https://github.com/RoaringBitmap/roaring) ⭐ 2,949 | 🐛 84 | 🌐 Go | 📅 2026-10-19 - 压缩位图
-* [bloom](https://github.com/bits-and-blooms/bloom) ⭐ 2,826 | 🐛 19 | 🌐 Go | 📅 2026-07-10 - Bloom filters
+* [roaring](https://github.com/RoaringBitmap/roaring) ⭐ 2,950 | 🐛 84 | 🌐 Go | 📅 2026-10-19 - 压缩位图
+* [bloom](https://github.com/bits-and-blooms/bloom) ⭐ 2,830 | 🐛 19 | 🌐 Go | 📅 2026-07-10 - Bloom filters
 * [Slim](https://github.com/openacid/slim) ⭐ 1,926 | 🐛 0 | 🌐 Go | 📅 2026-08-24 - 空间高利用率的数据结构
 * [HashMap](https://github.com/cornelk/hashmap) ⭐ 1,875 | 🐛 10 | 🌐 Go | 📅 2025-07-30
-* [bitset](https://github.com/bits-and-blooms/bitset) ⭐ 1,514 | 🐛 3 | 🌐 Go | 📅 2026-10-04 - 位集合及其操作
+* [bitset](https://github.com/bits-and-blooms/bitset) ⭐ 1,514 | 🐛 2 | 🌐 Go | 📅 2026-10-20 - 位集合及其操作
 * [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) ⭐ 1,293 | 🐛 18 | 🌐 Go | 📅 2022-04-02 - 用于数据统计和操作的包
 * [go-immutable-radix](https://github.com/hashicorp/go-immutable-radix) ⭐ 1,106 | 🐛 17 | 🌐 Go | 📅 2026-10-13 - Radix 树
 * [orderedmap](https://github.com/elliotchance/orderedmap) ⭐ 1,028 | 🐛 20 | 🌐 Go | 📅 2026-10-09 - 有序字典
@@ -1286,29 +1286,29 @@
 * [rtreego](https://github.com/dhconnelly/rtreego) ⭐ 654 | 🐛 5 | 🌐 Go | 📅 2024-12-20 - R-tree
 * [Bigslice](https://github.com/grailbio/bigslice) ⭐ 555 | 🐛 24 | 🌐 Go | 📅 2023-05-19
 * [trie](https://github.com/dghubble/trie) ⭐ 506 | 🐛 1 | 🌐 Go | 📅 2024-09-20
-* [rbang](https://github.com/tidwall/rbang) ⭐ 349 | 🐛 2 | 🌐 Go | 📅 2026-08-11 - R!tree 实现
+* [rbang](https://github.com/tidwall/rbang) ⭐ 350 | 🐛 2 | 🌐 Go | 📅 2026-10-20 - R!tree 实现
 * [SipHash](https://github.com/dchest/siphash) ⭐ 297 | 🐛 0 | 🌐 Go | 📅 2022-04-27 - SipHash-2-4
 * [Play-with-Data-Structures](https://github.com/Donng/Play-with-Data-Structures) ⭐ 263 | 🐛 4 | 🌐 Go | 📅 2022-05-18 - 「玩转数据结构」课程的 Go 语言实现版本
 * [tinybtree](https://github.com/tidwall/tinybtree) ⭐ 96 | 🐛 0 | 🌐 Go | 📅 2021-08-29 - B-tree
 
 ### 依赖注入
 
-* [Fx](https://github.com/uber-go/fx) ⭐ 7,706 | 🐛 83 | 🌐 Go | 📅 2025-12-27
-* [dig](https://github.com/uber-go/dig) ⭐ 4,504 | 🐛 37 | 🌐 Go | 📅 2025-05-13
+* [Fx](https://github.com/uber-go/fx) ⭐ 7,707 | 🐛 83 | 🌐 Go | 📅 2025-12-27
+* [dig](https://github.com/uber-go/dig) ⭐ 4,505 | 🐛 37 | 🌐 Go | 📅 2025-05-13
 * [go-autowire](https://github.com/Just-maple/go-autowire) ⚠️ Archived - 使用注解自动生成 [wire](https://github.com/google/wire) ⚠️ Archived - 依赖注入
 
 ### JSON
 
-* [fx](https://github.com/antonmedv/fx) ⭐ 20,691 | 🐛 6 | 🌐 Go | 📅 2026-10-08 - 命令行 JSON 显示
-* [GJSON](https://github.com/tidwall/gjson) ⭐ 15,560 | 🐛 100 | 🌐 Go | 📅 2026-10-05 - JSON 解释器
+* [fx](https://github.com/antonmedv/fx) ⭐ 20,694 | 🐛 6 | 🌐 Go | 📅 2026-10-08 - 命令行 JSON 显示
+* [GJSON](https://github.com/tidwall/gjson) ⭐ 15,562 | 🐛 100 | 🌐 Go | 📅 2026-10-05 - JSON 解释器
 * [json-iterator](https://github.com/json-iterator/go) ⚠️ Archived - 滴滴开源的 JSON 解析器
-* [sonic](https://github.com/bytedance/sonic) ⭐ 9,633 | 🐛 53 | 🌐 Go | 📅 2026-10-16 - 字节跳动开源的 JSON 解析器&修改器
+* [sonic](https://github.com/bytedance/sonic) ⭐ 9,633 | 🐛 56 | 🌐 Go | 📅 2026-10-21 - 字节跳动开源的 JSON 解析器&修改器
 * [jid](https://github.com/simeji/jid) ⭐ 7,207 | 🐛 11 | 🌐 Go | 📅 2026-08-02 - JSON 数据解析读取工具
 * [jsonparser](https://github.com/buger/jsonparser) ⭐ 5,663 | 🐛 4 | 🌐 Go | 📅 2026-10-05
 * [easyjson](https://github.com/mailru/easyjson) ⭐ 4,914 | 🐛 100 | 🌐 Go | 📅 2026-03-14
-* [go-json](https://github.com/goccy/go-json) ⭐ 3,752 | 🐛 20 | 🌐 Go | 📅 2026-10-20
+* [go-json](https://github.com/goccy/go-json) ⭐ 3,753 | 🐛 20 | 🌐 Go | 📅 2026-10-20
 * [ffjson](https://github.com/pquerna/ffjson) ⭐ 2,990 | 🐛 61 | 🌐 Go | 📅 2023-09-21
-* [SJSON](https://github.com/tidwall/sjson) ⭐ 2,737 | 🐛 39 | 🌐 Go | 📅 2026-05-19 - JSON 修改工具
+* [SJSON](https://github.com/tidwall/sjson) ⭐ 2,738 | 🐛 39 | 🌐 Go | 📅 2026-05-19 - JSON 修改工具
 * [fastjson](https://github.com/valyala/fastjson) ⭐ 2,463 | 🐛 81 | 🌐 Go | 📅 2026-02-21 - fast JSON parser and validator for Go
 * [gojsonq](https://github.com/thedevsaddam/gojsonq) ⭐ 2,219 | 🐛 26 | 🌐 Go | 📅 2022-11-28 - JSON/YAML/XML/CSV 等数据查询
 * [hujson](https://github.com/tailscale/hujson) ⭐ 879 | 🐛 13 | 🌐 Go | 📅 2026-07-27 - 支持注释的 JSON 解码
@@ -1322,7 +1322,7 @@
 ### 依赖管理
 
 * [goproxy.cn](https://github.com/goproxy/goproxy.cn) ⭐ 7,083 | 🐛 8 | 🌐 HTML | 📅 2025-08-20 - 更适合国内用户的代理服务
-* [**goproxy.io**](https://github.com/goproxyio/goproxy) ⭐ 5,870 | 🐛 20 | 🌐 Go | 📅 2024-02-04 - `GOPROXY` 代理服务
+* [**goproxy.io**](https://github.com/goproxyio/goproxy) ⭐ 5,869 | 🐛 20 | 🌐 Go | 📅 2024-02-04 - `GOPROXY` 代理服务
 * [govendor](https://github.com/kardianos/govendor) ⚠️ Archived - Vendor 包管理工具
 * [Athens](https://github.com/gomods/athens) ⭐ 4,809 | 🐛 118 | 🌐 Go | 📅 2026-10-15 - `GOPROXY` 代理服务
 * [Gopm](https://github.com/gpmgo/gopm) ⚠️ Archived - Go 包管理工具
@@ -1332,20 +1332,20 @@
 
 ### 微服务
 
-* [Istio](https://github.com/istio/istio) ⭐ 38,456 | 🐛 493 | 🌐 Go | 📅 2026-10-19 \[[中文文档](https://preliminary.istio.io/zh/docs/)] - 大型微服务系统管理工具
-* [Consul](https://github.com/hashicorp/consul) ⭐ 30,088 | 🐛 1,419 | 🌐 Go | 📅 2026-10-20 - 服务发现、配置管理中心服务
-* [Go kit](https://github.com/go-kit/kit) ⭐ 27,417 | 🐛 62 | 🌐 Go | 📅 2024-07-19 - Go 微服务工具集
-* [Kratos](https://github.com/bilibili/kratos) ⭐ 25,978 | 🐛 124 | 🌐 Go | 📅 2026-09-16 - B站开源的微服务框架
-* [Temporal](https://github.com/temporalio/temporal) ⭐ 23,844 | 🐛 1,073 | 🌐 Go | 📅 2026-10-20 - 微服务编排平台
-* [Go Micro](https://github.com/micro/go-micro) ⭐ 23,086 | 🐛 1 | 🌐 Go | 📅 2026-10-19 - 微服务框架
-* [Open Policy Agent](https://github.com/open-policy-agent/opa) ⭐ 12,387 | 🐛 316 | 🌐 Go | 📅 2026-10-20 - 通用策略引擎，CNCF 孵化项目
+* [Istio](https://github.com/istio/istio) ⭐ 38,461 | 🐛 493 | 🌐 Go | 📅 2026-10-21 \[[中文文档](https://preliminary.istio.io/zh/docs/)] - 大型微服务系统管理工具
+* [Consul](https://github.com/hashicorp/consul) ⭐ 30,089 | 🐛 1,419 | 🌐 Go | 📅 2026-10-21 - 服务发现、配置管理中心服务
+* [Go kit](https://github.com/go-kit/kit) ⭐ 27,418 | 🐛 62 | 🌐 Go | 📅 2024-07-19 - Go 微服务工具集
+* [Kratos](https://github.com/bilibili/kratos) ⭐ 25,983 | 🐛 122 | 🌐 Go | 📅 2026-10-21 - B站开源的微服务框架
+* [Temporal](https://github.com/temporalio/temporal) ⭐ 23,871 | 🐛 1,072 | 🌐 Go | 📅 2026-10-21 - 微服务编排平台
+* [Go Micro](https://github.com/micro/go-micro) ⭐ 23,088 | 🐛 5 | 🌐 Go | 📅 2026-10-20 - 微服务框架
+* [Open Policy Agent](https://github.com/open-policy-agent/opa) ⭐ 12,387 | 🐛 298 | 🌐 Go | 📅 2026-10-21 - 通用策略引擎，CNCF 孵化项目
 * [goa](https://github.com/goadesign/goa) ⭐ 6,111 | 🐛 37 | 🌐 Go | 📅 2026-10-19
 * [Serf](https://github.com/hashicorp/serf) ⭐ 6,076 | 🐛 106 | 🌐 Go | 📅 2026-10-15 - 服务编排管理平台
 * [Service Weaver](https://github.com/ServiceWeaver/weaver) ⚠️ Archived
 * [MOSN](https://github.com/mosn/mosn) ⭐ 4,508 | 🐛 298 | 🌐 Go | 📅 2026-07-14 - 用于边缘和服务网格的云原生网络数据平面
 * [gizmo](https://github.com/nytimes/gizmo) ⭐ 3,769 | 🐛 32 | 🌐 Go | 📅 2026-03-18 - 微服务工具集
 * [Kite](https://github.com/koding/kite) ⭐ 3,258 | 🐛 32 | 🌐 Go | 📅 2018-10-28
-* [Erda](https://github.com/erda-project/erda) ⭐ 2,756 | 🐛 3 | 🌐 Go | 📅 2026-10-09 - 为企业提供 DevOps、微服务治理、多云管理的 PaaS
+* [Erda](https://github.com/erda-project/erda) ⭐ 2,757 | 🐛 5 | 🌐 Go | 📅 2026-10-21 - 为企业提供 DevOps、微服务治理、多云管理的 PaaS
 * [go-chassis](https://github.com/go-chassis/go-chassis) ⭐ 2,726 | 🐛 45 | 🌐 Go | 📅 2026-08-24
 * [Traefik Mesh](https://github.com/traefik/mesh) ⭐ 2,100 | 🐛 41 | 🌐 Go | 📅 2026-03-23 - 简单的服务网格
 * [GoKit CLI](https://github.com/kujtimiihoxha/kit) ⭐ 725 | 🐛 26 | 🌐 Go | 📅 2025-12-05 - Go kit 脚手架
@@ -1354,17 +1354,17 @@
 
 ### Serverless
 
-* [OpenFaaS](https://github.com/openfaas/faas) ⭐ 26,252 | 🐛 31 | 🌐 Go | 📅 2026-07-02 - Serverless Functions Made Simple(功能服务化的 FaaS 框架)
-* [Dapr](https://github.com/dapr/dapr) ⭐ 26,157 | 🐛 462 | 🌐 Go | 📅 2026-10-19 - 微软开源的云和边缘计算的微服务构件
-* [pulumi](https://github.com/pulumi/pulumi) ⭐ 25,795 | 🐛 2,495 | 🌐 Go | 📅 2026-10-20
-* [Fission](https://github.com/fission/fission) ⭐ 8,936 | 🐛 49 | 🌐 Go | 📅 2026-10-20 - 基于 Kubernetes 的 Serverless
+* [OpenFaaS](https://github.com/openfaas/faas) ⭐ 26,251 | 🐛 31 | 🌐 Go | 📅 2026-07-02 - Serverless Functions Made Simple(功能服务化的 FaaS 框架)
+* [Dapr](https://github.com/dapr/dapr) ⭐ 26,157 | 🐛 461 | 🌐 Go | 📅 2026-10-20 - 微软开源的云和边缘计算的微服务构件
+* [pulumi](https://github.com/pulumi/pulumi) ⭐ 25,799 | 🐛 2,495 | 🌐 Go | 📅 2026-10-20
+* [Fission](https://github.com/fission/fission) ⭐ 8,937 | 🐛 49 | 🌐 Go | 📅 2026-10-20 - 基于 Kubernetes 的 Serverless
 * [kubeless](https://github.com/kubeless/kubeless) ⚠️ Archived
-* [Knative](https://github.com/knative/serving) ⭐ 6,110 | 🐛 168 | 🌐 Go | 📅 2026-10-19
-* [fn](https://github.com/fnproject/fn) ⭐ 5,949 | 🐛 159 | 🌐 Go | 📅 2026-09-24 - 事件驱动的 FaaS
-* [Nuclio](https://github.com/nuclio/nuclio) ⭐ 5,766 | 🐛 119 | 🌐 Go | 📅 2026-10-20 - 实时事件与数据的 Serverless 框架
+* [Knative](https://github.com/knative/serving) ⭐ 6,112 | 🐛 169 | 🌐 Go | 📅 2026-10-20
+* [fn](https://github.com/fnproject/fn) ⭐ 5,948 | 🐛 159 | 🌐 Go | 📅 2026-09-24 - 事件驱动的 FaaS
+* [Nuclio](https://github.com/nuclio/nuclio) ⭐ 5,766 | 🐛 121 | 🌐 Go | 📅 2026-10-20 - 实时事件与数据的 Serverless 框架
 * [faasd](https://github.com/openfaas/faasd) ⭐ 3,278 | 🐛 5 | 🌐 Go | 📅 2025-11-18 - 轻量级 FaaS 引擎
 * [IronFunctions](https://github.com/iron-io/functions) ⭐ 3,215 | 🐛 94 | 🌐 Go | 📅 2023-09-15
-* [Flogo](https://github.com/tibcosoftware/flogo) ⭐ 2,489 | 🐛 128 | 🌐 CSS | 📅 2024-04-24 - 事件驱动的 Serverless 框架
+* [Flogo](https://github.com/tibcosoftware/flogo) ⭐ 2,488 | 🐛 128 | 🌐 CSS | 📅 2024-04-24 - 事件驱动的 Serverless 框架
 * [fx](https://github.com/metrue/fx) ⭐ 2,228 | 🐛 85 | 🌐 Go | 📅 2023-10-24
 * [Vanus](https://github.com/vanus-labs/vanus) ⭐ 1,697 | 🐛 57 | 🌐 Go | 📅 2024-03-11 - 无服务事件流处理系统
 * [riff](https://github.com/projectriff/riff) ⚠️ Archived - 基于 Kubernetes 的 FaaS
@@ -1372,15 +1372,15 @@
 
 ### devops
 
-* [act](https://github.com/nektos/act) ⭐ 72,383 | 🐛 398 | 🌐 Go | 📅 2026-08-09 - 本地运行 [GitHub Actions](https://developer.github.com/actions/)
+* [act](https://github.com/nektos/act) ⭐ 72,394 | 🐛 398 | 🌐 Go | 📅 2026-08-09 - 本地运行 [GitHub Actions](https://developer.github.com/actions/)
 
 ### 持续集成/部署
 
-* [Drone](https://github.com/drone/drone) ⭐ 38,610 | 🐛 123 | 🌐 Go | 📅 2026-10-19 - 基于 Docker 的持续发布平台
-* [Dagger](https://github.com/dagger/dagger) ⭐ 16,353 | 🐛 225 | 🌐 Go | 📅 2026-10-20 - 基于容器的 CI/CD 工具
-* [Woodpecker](https://github.com/woodpecker-ci/woodpecker) ⭐ 8,022 | 🐛 392 | 🌐 Go | 📅 2026-10-19 - Fork 自 Drone
-* [CDS](https://github.com/ovh/cds) ⭐ 4,847 | 🐛 166 | 🌐 Go | 📅 2026-10-19 - 持续集成服务
-* [tbls](https://github.com/k1LoW/tbls) ⭐ 4,359 | 🐛 56 | 🌐 Go | 📅 2026-10-15 - 用于记录数据库文档的 CI 友好工具
+* [Drone](https://github.com/drone/drone) ⭐ 38,635 | 🐛 123 | 🌐 Go | 📅 2026-10-20 - 基于 Docker 的持续发布平台
+* [Dagger](https://github.com/dagger/dagger) ⭐ 16,354 | 🐛 218 | 🌐 Go | 📅 2026-10-21 - 基于容器的 CI/CD 工具
+* [Woodpecker](https://github.com/woodpecker-ci/woodpecker) ⭐ 8,025 | 🐛 394 | 🌐 Go | 📅 2026-10-21 - Fork 自 Drone
+* [CDS](https://github.com/ovh/cds) ⭐ 4,847 | 🐛 166 | 🌐 Go | 📅 2026-10-20 - 持续集成服务
+* [tbls](https://github.com/k1LoW/tbls) ⭐ 4,360 | 🐛 56 | 🌐 Go | 📅 2026-10-15 - 用于记录数据库文档的 CI 友好工具
 * [syncd](https://github.com/dreamans/syncd) ⭐ 2,227 | 🐛 64 | 🌐 Go | 📅 2023-07-16 - 代码部署工具
 * [gopub](https://github.com/linclin/gopub) ⚠️ Archived
 * [Cyclone](https://github.com/caicloud/cyclone) ⭐ 1,064 | 🐛 44 | 🌐 Go | 📅 2023-10-24 - 持续集成&发布平台
@@ -1388,17 +1388,17 @@
 
 ### Git
 
-* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 83,307 | 🐛 1,046 | 🌐 Go | 📅 2026-10-17 - Git 终端 UI
-* [Gitea](https://github.com/go-gitea/gitea) ⭐ 58,581 | 🐛 2,209 | 🌐 Go | 📅 2026-10-20 - 由 gogs 分叉出的 Git 服务器
-* [gogs](https://github.com/gogs/gogs) ⭐ 47,889 | 🐛 1,012 | 🌐 Go | 📅 2026-09-12 - 类似于 GitLab 的 Git 服务器
-* [hub](https://github.com/github/hub) ⭐ 22,956 | 🐛 294 | 🌐 Go | 📅 2024-02-02 - GitHub 命令行工具
-* [Git LFS](https://github.com/git-lfs/git-lfs) ⭐ 14,556 | 🐛 494 | 🌐 Go | 📅 2026-10-01 - 处理大文件的 Git 扩展
-* [gh-dash](https://github.com/dlvhdr/gh-dash) ⭐ 12,646 | 🐛 111 | 🌐 Go | 📅 2026-10-17 - GitHub CLI（`gh`）漂亮终端面板
-* [go-github](https://github.com/google/go-github) ⭐ 11,325 | 🐛 42 | 🌐 Go | 📅 2026-10-19 - GitHub API 操作库
-* [go-git](https://github.com/go-git/go-git) ⭐ 7,805 | 🐛 265 | 🌐 Go | 📅 2026-10-16 - Go 实现的 Git 操作
-* [Soft Serve](https://github.com/charmbracelet/soft-serve) ⭐ 7,267 | 🐛 87 | 🌐 Go | 📅 2026-10-05 - 命令行式自托管 Git 服务器
+* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 83,334 | 🐛 1,048 | 🌐 Go | 📅 2026-10-21 - Git 终端 UI
+* [Gitea](https://github.com/go-gitea/gitea) ⭐ 58,599 | 🐛 2,203 | 🌐 Go | 📅 2026-10-21 - 由 gogs 分叉出的 Git 服务器
+* [gogs](https://github.com/gogs/gogs) ⭐ 47,890 | 🐛 1,016 | 🌐 Go | 📅 2026-10-21 - 类似于 GitLab 的 Git 服务器
+* [hub](https://github.com/github/hub) ⭐ 22,958 | 🐛 294 | 🌐 Go | 📅 2024-02-02 - GitHub 命令行工具
+* [Git LFS](https://github.com/git-lfs/git-lfs) ⭐ 14,557 | 🐛 497 | 🌐 Go | 📅 2026-10-20 - 处理大文件的 Git 扩展
+* [gh-dash](https://github.com/dlvhdr/gh-dash) ⭐ 12,655 | 🐛 111 | 🌐 Go | 📅 2026-10-17 - GitHub CLI（`gh`）漂亮终端面板
+* [go-github](https://github.com/google/go-github) ⭐ 11,325 | 🐛 44 | 🌐 Go | 📅 2026-10-20 - GitHub API 操作库
+* [go-git](https://github.com/go-git/go-git) ⭐ 7,804 | 🐛 266 | 🌐 Go | 📅 2026-10-16 - Go 实现的 Git 操作
+* [Soft Serve](https://github.com/charmbracelet/soft-serve) ⭐ 7,268 | 🐛 87 | 🌐 Go | 📅 2026-10-05 - 命令行式自托管 Git 服务器
 * [bit](https://github.com/chriswalz/bit) ⭐ 6,101 | 🐛 32 | 🌐 Go | 📅 2023-02-21 - Git 命令增强版，支持文件和分支名称自动完成、命令和标志建议
-* [askgit](https://github.com/augmentable-dev/askgit) ⭐ 3,516 | 🐛 53 | 🌐 Go | 📅 2026-10-13 - 通过 SQL 访问 Git 仓库信息
+* [askgit](https://github.com/augmentable-dev/askgit) ⭐ 3,516 | 🐛 53 | 🌐 Go | 📅 2026-10-20 - 通过 SQL 访问 Git 仓库信息
 * [git-chglog](https://github.com/git-chglog/git-chglog) ⚠️ Archived - `CHANGELOG` 管理工具
 * [gitbase](https://github.com/src-d/gitbase) ⭐ 2,083 | 🐛 18 | 🌐 Go | 📅 2023-10-19 - SQL 的方式查询 Git 日志
 * [gitin](https://github.com/isacikgoz/gitin) ⭐ 1,865 | 🐛 3 | 🌐 Go | 📅 2026-10-18 - commit/branch/status explorer for git
@@ -1410,10 +1410,10 @@
 
 ### 限流器
 
-* [uber-go/ratelimit](https://github.com/uber-go/ratelimit) ⭐ 4,723 | 🐛 17 | 🌐 Go | 📅 2024-05-01
-* [gobreaker](https://github.com/sony/gobreaker) ⭐ 3,708 | 🐛 27 | 🌐 Go | 📅 2026-02-07 - 熔断器
+* [uber-go/ratelimit](https://github.com/uber-go/ratelimit) ⭐ 4,724 | 🐛 17 | 🌐 Go | 📅 2024-05-01
+* [gobreaker](https://github.com/sony/gobreaker) ⭐ 3,708 | 🐛 29 | 🌐 Go | 📅 2026-02-07 - 熔断器
 * [Sentinel](https://github.com/sentinel-group/sentinel-golang) ⭐ 2,963 | 🐛 126 | 🌐 Go | 📅 2026-07-02 - 阿里巴巴开源的面向分布式服务架构的流量控制组件 Go 语言版本
-* [ratelimit](https://github.com/juju/ratelimit) ⭐ 2,880 | 🐛 7 | 🌐 Go | 📅 2023-10-05
+* [ratelimit](https://github.com/juju/ratelimit) ⭐ 2,878 | 🐛 7 | 🌐 Go | 📅 2023-10-05
 * [**Tollbooth**](https://github.com/didip/tollbooth) ⭐ 2,848 | 🐛 11 | 🌐 Go | 📅 2025-01-12 - Simple middleware to rate-limit HTTP requests
 * [ulule/limiter](https://github.com/ulule/limiter) ⭐ 2,345 | 🐛 19 | 🌐 Go | 📅 2024-12-10
 * [Circuit](https://github.com/cep21/circuit) ⭐ 815 | 🐛 7 | 🌐 Go | 📅 2026-10-16 - 熔断器
@@ -1423,9 +1423,9 @@
 
 ### 编译器
 
-* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,824 | 🐛 608 | 🌐 Go | 📅 2026-10-19 - 一个适用于微控制器、WebAssembly 和命令行工具的 Go 编译器
-* [Go+](https://github.com/goplus/gop) ⭐ 9,482 | 🐛 47 | 🌐 Go | 📅 2026-10-19 - 七牛云开源面向数据科学的语言，完全兼容Go语言
-* [llir/llvm](https://github.com/llir/llvm) ⭐ 1,281 | 🐛 18 | 🌐 Go | 📅 2024-12-06 - LLVM 编译器
+* [TinyGo](https://github.com/tinygo-org/tinygo) ⭐ 17,828 | 🐛 602 | 🌐 Go | 📅 2026-10-21 - 一个适用于微控制器、WebAssembly 和命令行工具的 Go 编译器
+* [Go+](https://github.com/goplus/gop) ⭐ 9,481 | 🐛 46 | 🌐 Go | 📅 2026-10-21 - 七牛云开源面向数据科学的语言，完全兼容Go语言
+* [llir/llvm](https://github.com/llir/llvm) ⭐ 1,283 | 🐛 18 | 🌐 Go | 📅 2024-12-06 - LLVM 编译器
 * [minigo](https://github.com/DQNEO/minigo) ⭐ 531 | 🐛 0 | 🌐 Go | 📅 2021-02-16 - A Go compiler from scratch
 * [jit-compiler](https://github.com/bspaans/jit-compiler) ⭐ 250 | 🐛 9 | 🌐 Go | 📅 2024-04-30 - `JIT` 编译器
 
@@ -1433,21 +1433,21 @@
 
 #### 语言解释器
 
-* [GopherJS](https://github.com/gopherjs/gopherjs) ⭐ 13,191 | 🐛 190 | 🌐 Go | 📅 2026-08-20 - 把 Go 代码编译成 JavaScript 代码
+* [GopherJS](https://github.com/gopherjs/gopherjs) ⭐ 13,192 | 🐛 190 | 🌐 Go | 📅 2026-08-20 - 把 Go 代码编译成 JavaScript 代码
 * [Grumpy](https://github.com/google/grumpy) ⚠️ Archived - 转换 Python 为 Go 代码，谷歌开源
-* [mvdan/sh](https://github.com/mvdan/sh) ⭐ 9,139 | 🐛 78 | 🌐 Go | 📅 2026-10-19 - Shell 解析、格式化、接口
+* [mvdan/sh](https://github.com/mvdan/sh) ⭐ 9,141 | 🐛 78 | 🌐 Go | 📅 2026-10-20 - Shell 解析、格式化、接口
 * [otto](https://github.com/robertkrimen/otto) ⭐ 8,454 | 🐛 68 | 🌐 Go | 📅 2026-10-08 - JavaScript 解释器
 * [Yaegi](https://github.com/containous/yaegi) ⭐ 8,420 | 🐛 190 | 🌐 Go | 📅 2026-02-09 - Go 语言解释器
-* [goja](https://github.com/dop251/goja) ⭐ 7,150 | 🐛 37 | 🌐 Go | 📅 2026-10-19 - ECMAScript 5.1(+) 实现
-* [GopherLua](https://github.com/yuin/gopher-lua) ⭐ 6,993 | 🐛 117 | 🌐 Go | 📅 2026-04-01 - VM and compiler for Lua in Go
-* [**participle**](https://github.com/alecthomas/participle) ⭐ 3,895 | 🐛 47 | 🌐 Go | 📅 2026-10-19 - 通用的自定义语法解析包
+* [goja](https://github.com/dop251/goja) ⭐ 7,152 | 🐛 36 | 🌐 Go | 📅 2026-10-20 - ECMAScript 5.1(+) 实现
+* [GopherLua](https://github.com/yuin/gopher-lua) ⭐ 6,992 | 🐛 117 | 🌐 Go | 📅 2026-04-01 - VM and compiler for Lua in Go
+* [**participle**](https://github.com/alecthomas/participle) ⭐ 3,895 | 🐛 47 | 🌐 Go | 📅 2026-10-21 - 通用的自定义语法解析包
 * [jvm.go](https://github.com/zxh0/jvm.go) ⭐ 3,597 | 🐛 12 | 🌐 Go | 📅 2019-12-04 - JVM
-* [v8go](https://github.com/rogchap/v8go) ⭐ 3,498 | 🐛 98 | 🌐 Go | 📅 2024-08-02 - Execute JavaScript from Go
+* [v8go](https://github.com/rogchap/v8go) ⭐ 3,498 | 🐛 99 | 🌐 Go | 📅 2024-08-02 - Execute JavaScript from Go
 * [go-lua](https://github.com/Shopify/go-lua) ⭐ 3,459 | 🐛 52 | 🌐 Go | 📅 2026-10-07 - A Lua VM in pure Go
 * [avo](https://github.com/mmcloughlin/avo) ⭐ 2,990 | 🐛 102 | 🌐 Go | 📅 2026-10-05 - x86 汇编程序构建器
 * [starlark-go](https://github.com/google/starlark-go) ⭐ 2,784 | 🐛 83 | 🌐 Go | 📅 2026-10-16 - Starlark in Go
 * [Joker](https://github.com/candid82/joker) ⭐ 1,775 | 🐛 5 | 🌐 Go | 📅 2026-10-05 - Clojure
-* [dst](https://github.com/dave/dst) ⭐ 1,444 | 🐛 13 | 🌐 Go | 📅 2026-09-10 - Go Decorated Syntax Tree
+* [dst](https://github.com/dave/dst) ⭐ 1,445 | 🐛 13 | 🌐 Go | 📅 2026-09-10 - Go Decorated Syntax Tree
 * [gpython](https://github.com/go-python/gpython) ⭐ 1,019 | 🐛 59 | 🌐 Go | 📅 2026-07-03 - Python Interpreter on Go
 * [DCLua](https://github.com/milochristiansen/lua) ⭐ 921 | 🐛 1 | 🌐 Go | 📅 2026-07-17 - Go Lua Compiler and VM
 * [wagon](https://github.com/go-interpreter/wagon) ⚠️ Archived - WebAssembly 解释器
@@ -1458,16 +1458,16 @@
 
 #### PHP
 
-* [RoadRunner](https://github.com/spiral/roadrunner) ⭐ 8,515 | 🐛 33 | 🌐 Go | 📅 2026-10-19 - 高性能PHP应用服务器，支持负载均衡及进程管理
+* [RoadRunner](https://github.com/spiral/roadrunner) ⭐ 8,517 | 🐛 43 | 🌐 Go | 📅 2026-10-19 - 高性能PHP应用服务器，支持负载均衡及进程管理
 * [goridge](https://github.com/spiral/goridge) ⭐ 1,289 | 🐛 0 | 🌐 Go | 📅 2026-10-19 - High-performance PHP-to-Golang IPC bridge
-* [z7zmey/php-parser](https://github.com/z7zmey/php-parser) ⭐ 956 | 🐛 17 | 🌐 Go | 📅 2021-04-28 - PHP AST 语法解析
+* [z7zmey/php-parser](https://github.com/z7zmey/php-parser) ⭐ 957 | 🐛 17 | 🌐 Go | 📅 2021-04-28 - PHP AST 语法解析
 * [deuill/go-php](https://github.com/deuill/go-php) ⭐ 941 | 🐛 21 | 🌐 Go | 📅 2025-01-06 - PHP bindings for Go
 * [VKCOM/php-parse](https://github.com/VKCOM/php-parser) ⭐ 84 | 🐛 5 | 🌐 Go | 📅 2023-09-23 - PHP AST 语法解析
 
 #### 自定义解释器
 
-* [V](https://github.com/vlang/v) ⭐ 38,030 | 🐛 72 | 🌐 V | 📅 2026-10-20 - Go 编写的语言
-* [Expr](https://github.com/antonmedv/expr) ⭐ 8,050 | 🐛 96 | 🌐 Go | 📅 2026-07-07 - 编译&执行字符串中的表达式
+* [V](https://github.com/vlang/v) ⭐ 38,031 | 🐛 58 | 🌐 V | 📅 2026-10-21 - Go 编写的语言
+* [Expr](https://github.com/antonmedv/expr) ⭐ 8,051 | 🐛 96 | 🌐 Go | 📅 2026-07-07 - 编译&执行字符串中的表达式
 * [elvish](https://github.com/elves/elvish) ⭐ 6,387 | 🐛 351 | 🌐 Go | 📅 2026-03-31 - 交互式 Shell 语言
 * [govaluate](https://github.com/Knetic/govaluate) ⚠️ Archived
 * [Tengo](https://github.com/d5/tengo) ⭐ 3,842 | 🐛 98 | 🌐 Go | 📅 2026-10-13 - 用 Go 编写的脚本语言
@@ -1475,7 +1475,7 @@
 * [Anko](https://github.com/mattn/anko) ⭐ 1,585 | 🐛 20 | 🌐 Go | 📅 2026-07-10
 * [QLBridge](https://github.com/araddon/qlbridge) ⭐ 867 | 🐛 36 | 🌐 Go | 📅 2023-08-29 - Go SQL Runtime Engine
 * [Gval](https://github.com/PaesslerAG/gval) ⭐ 818 | 🐛 28 | 🌐 Go | 📅 2026-09-13 - 表达式计算
-* [Flux](https://github.com/influxdata/flux) ⭐ 794 | 🐛 1 | 🌐 FLUX | 📅 2026-10-14 - InfluxDB 数据语言
+* [Flux](https://github.com/influxdata/flux) ⭐ 794 | 🐛 1 | 🌐 FLUX | 📅 2026-10-21 - InfluxDB 数据语言
 * [gocc](https://github.com/goccmack/gocc) ⭐ 664 | 🐛 26 | 🌐 Go | 📅 2026-01-13 - 解析器生成器，可以将指定的文法转换为 Go 语言的解析器程序代码，用于编译和解析特定类型的源代码
 * [Math-Engine](https://github.com/dengsgo/math-engine) ⭐ 331 | 🐛 4 | 🌐 Go | 📅 2023-08-23 - 使用 Go 实现的数学表达式解析计算引擎库，学习语法解析很适用
 * [YQL](https://github.com/caibirdme/yql) ⭐ 311 | 🐛 9 | 🌐 Go | 📅 2022-03-01 - SQL WHERE 风格的规则引擎
@@ -1498,7 +1498,7 @@
 
 ### 编辑器
 
-* [micro](https://github.com/zyedidia/micro) ⭐ 29,733 | 🐛 920 | 🌐 Go | 📅 2026-10-20 - 基于终端的编辑器
+* [micro](https://github.com/zyedidia/micro) ⭐ 29,738 | 🐛 921 | 🌐 Go | 📅 2026-10-21 - 基于终端的编辑器
 * [sourcegraph](https://github.com/sourcegraph/sourcegraph) - 代码搜索&导航
 
 ### 运行器
@@ -1509,19 +1509,19 @@
 
 ### 查询语言
 
-* [gqlgen](https://github.com/99designs/gqlgen) ⭐ 10,768 | 🐛 393 | 🌐 Go | 📅 2026-10-20 - 构建 GraphQL 服务器的包
+* [gqlgen](https://github.com/99designs/gqlgen) ⭐ 10,768 | 🐛 395 | 🌐 Go | 📅 2026-10-21 - 构建 GraphQL 服务器的包
 * [graphql](https://github.com/graphql-go/graphql) ⭐ 10,141 | 🐛 247 | 🌐 Go | 📅 2026-06-23 - Go 实现的 GraphQL
 * [graphql-go](https://github.com/graph-gophers/graphql-go) ⭐ 4,754 | 🐛 9 | 🌐 Go | 📅 2026-10-11
-* [super-graph](https://github.com/dosco/super-graph) ⭐ 3,214 | 🐛 22 | 🌐 Go | 📅 2026-10-18 - 无需编写代码即可在 Go 项目中构建复杂的 GraphQL API
+* [super-graph](https://github.com/dosco/super-graph) ⭐ 3,217 | 🐛 40 | 🌐 Go | 📅 2026-10-18 - 无需编写代码即可在 Go 项目中构建复杂的 GraphQL API
 * [Thunder](https://github.com/samsarahq/thunder) ⚠️ Archived - GraphQL 服务构建框架
 * [RQL](https://github.com/a8m/rql) ⭐ 367 | 🐛 16 | 🌐 Go | 📅 2024-07-25 - REST 资源查询语言
 * [GQLEngine](https://github.com/gqlengine/gqlengine) ⭐ 86 | 🐛 1 | 🌐 Go | 📅 2020-05-08 - 基于 graphql-go 实现
 
 ### 游戏相关
 
-* [Ebiten](https://github.com/hajimehoshi/ebiten) ⭐ 13,571 | 🐛 291 | 🌐 Go | 📅 2026-10-19 - 2D 游戏库
+* [Ebiten](https://github.com/hajimehoshi/ebiten) ⭐ 13,573 | 🐛 288 | 🌐 Go | 📅 2026-10-20 - 2D 游戏库
 * [Leaf](https://github.com/name5566/leaf) ⭐ 5,509 | 🐛 26 | 🌐 Go | 📅 2024-05-23
-* [Nano](https://github.com/lonng/nano) ⭐ 3,229 | 🐛 33 | 🌐 Go | 📅 2026-02-26 - 游戏开发框架
+* [Nano](https://github.com/lonng/nano) ⭐ 3,228 | 🐛 33 | 🌐 Go | 📅 2026-02-26 - 游戏开发框架
 * [G3N](https://github.com/g3n/engine) ⭐ 3,115 | 🐛 38 | 🌐 Go | 📅 2026-08-01 - Go 3D Game Engine
 * [CloudRetro](https://github.com/giongto35/cloud-game) ⭐ 2,482 | 🐛 6 | 🌐 Go | 📅 2026-09-05 - 游戏云服务框架
 * [einx](https://github.com/Cyinx/einx) ⭐ 432 | 🐛 1 | 🌐 Go | 📅 2021-03-28
@@ -1530,21 +1530,21 @@
 
 #### GUI
 
-* [wails](https://github.com/wailsapp/wails) ⭐ 36,610 | 🐛 333 | 🌐 Go | 📅 2026-10-20 - 使用 Go 和 Web 技术创建桌面应用程序
-* [fyne](https://github.com/fyne-io/fyne) ⭐ 28,763 | 🐛 736 | 🌐 Go | 📅 2026-10-19 - Material Design 风格的 GUI
-* [webview](https://github.com/zserge/webview) ⭐ 14,296 | 🐛 215 | 🌐 C++ | 📅 2026-10-20 - 用 Go/C/C++ 构建跨平台的桌面软件
-* [chromedp](https://github.com/chromedp/chromedp) ⭐ 13,322 | 🐛 0 | 🌐 Go | 📅 2026-10-11 - 纯 Go 语言实现的驱动浏览器的 Chrome DevTools Protocol，可用于爬虫、反爬虫、测试等场景
-* [therecipe/qt](https://github.com/therecipe/qt) ⭐ 10,804 | 🐛 371 | 🌐 Go | 📅 2024-03-04 - 基于 Qt 的跨全平台 UI 包
-* [go-app](https://github.com/maxence-charriere/go-app) ⭐ 8,971 | 🐛 52 | 🌐 Go | 📅 2026-10-20 - 一个 WebAssembly 框架，用于使用 Go，HTML 和 CSS 构建 GUI 应用
+* [wails](https://github.com/wailsapp/wails) ⭐ 36,626 | 🐛 332 | 🌐 Go | 📅 2026-10-21 - 使用 Go 和 Web 技术创建桌面应用程序
+* [fyne](https://github.com/fyne-io/fyne) ⭐ 28,762 | 🐛 740 | 🌐 Go | 📅 2026-10-19 - Material Design 风格的 GUI
+* [webview](https://github.com/zserge/webview) ⭐ 14,301 | 🐛 215 | 🌐 C++ | 📅 2026-10-20 - 用 Go/C/C++ 构建跨平台的桌面软件
+* [chromedp](https://github.com/chromedp/chromedp) ⭐ 13,325 | 🐛 0 | 🌐 Go | 📅 2026-10-11 - 纯 Go 语言实现的驱动浏览器的 Chrome DevTools Protocol，可用于爬虫、反爬虫、测试等场景
+* [therecipe/qt](https://github.com/therecipe/qt) ⭐ 10,805 | 🐛 371 | 🌐 Go | 📅 2024-03-04 - 基于 Qt 的跨全平台 UI 包
+* [go-app](https://github.com/maxence-charriere/go-app) ⭐ 8,973 | 🐛 52 | 🌐 Go | 📅 2026-10-21 - 一个 WebAssembly 框架，用于使用 Go，HTML 和 CSS 构建 GUI 应用
 * [andlabs/ui](https://github.com/andlabs/ui) ⭐ 8,353 | 🐛 127 | 🌐 Go | 📅 2022-05-19 - Platform-native GUI library for Go
-* [Lorca](https://github.com/zserge/lorca) ⭐ 8,206 | 🐛 76 | 🌐 Go | 📅 2024-08-19 - 用 Go 编写 HTML5 桌面程序，依赖 Chrome 进行 UI 渲染，但却不把 Chrome 打包到应用中
-* [Rod](https://github.com/go-rod/rod) ⭐ 7,137 | 🐛 216 | 🌐 Go | 📅 2026-08-11 - 一个为简化自动化和爬虫设计的 devtools driver，利用浏览器的 devtools 可编程接口来操控浏览器
-* [walk](https://github.com/lxn/walk) ⭐ 7,102 | 🐛 345 | 🌐 Go | 📅 2024-01-21 - Windows GUI toolkit
+* [Lorca](https://github.com/zserge/lorca) ⭐ 8,207 | 🐛 76 | 🌐 Go | 📅 2024-08-19 - 用 Go 编写 HTML5 桌面程序，依赖 Chrome 进行 UI 渲染，但却不把 Chrome 打包到应用中
+* [Rod](https://github.com/go-rod/rod) ⭐ 7,138 | 🐛 216 | 🌐 Go | 📅 2026-08-11 - 一个为简化自动化和爬虫设计的 devtools driver，利用浏览器的 devtools 可编程接口来操控浏览器
+* [walk](https://github.com/lxn/walk) ⭐ 7,103 | 🐛 345 | 🌐 Go | 📅 2024-01-21 - Windows GUI toolkit
 * [go-flutter ](https://github.com/go-flutter-desktop/go-flutter) ⭐ 5,933 | 🐛 65 | 🌐 Go | 📅 2026-10-09 - 绑定 Flutter 到桌面应用
 * [vugu](https://github.com/vugu/vugu) ⭐ 5,009 | 🐛 117 | 🌐 Go | 📅 2026-09-23 - WebAssembly UI 框架
 * [go-astilectron](https://github.com/asticode/go-astilectron) ⚠️ Archived - 基于 Electron 的跨平台开发
-* [systray](https://github.com/getlantern/systray) ⭐ 3,730 | 🐛 114 | 🌐 Go | 📅 2024-07-03 - 跨平台支持菜单栏管理
-* [giu](https://github.com/AllenDang/giu) ⭐ 2,792 | 🐛 29 | 🌐 Go | 📅 2026-10-14 - 基于 [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 76,743 | 🐛 1,222 | 🌐 C++ | 📅 2026-10-16 的跨平台 GUI 框架
+* [systray](https://github.com/getlantern/systray) ⭐ 3,729 | 🐛 114 | 🌐 Go | 📅 2024-07-03 - 跨平台支持菜单栏管理
+* [giu](https://github.com/AllenDang/giu) ⭐ 2,791 | 🐛 30 | 🌐 Go | 📅 2026-10-20 - 基于 [Dear ImGui](https://github.com/ocornut/imgui) ⭐ 76,757 | 🐛 1,223 | 🌐 C++ | 📅 2026-10-16 的跨平台 GUI 框架
 * [GoVCL](https://github.com/ying32/govcl) ⭐ 2,401 | 🐛 23 | 🌐 Go | 📅 2025-12-30 - 跨平台的 GUI 包
 * [Gio](https://github.com/gioui/gio) ⭐ 2,281 | 🐛 20 | 🌐 Go | 📅 2026-10-15 - 跨平台 UI 框架，支持移动应用
 * [go-gtk](https://github.com/mattn/go-gtk) ⭐ 2,180 | 🐛 74 | 🌐 Go | 📅 2024-06-05 - Go bindings for GTK
@@ -1561,7 +1561,7 @@
 
 #### 桌面应用
 
-* [xbar](https://github.com/matryer/xbar) ⭐ 18,078 | 🐛 188 | 🌐 Go | 📅 2024-09-10 - 基于 [Wails.app](https://github.com/wailsapp/wails) ⭐ 36,610 | 🐛 333 | 🌐 Go | 📅 2026-10-20 开发的 macOS 菜单栏管理
+* [xbar](https://github.com/matryer/xbar) ⭐ 18,078 | 🐛 188 | 🌐 Go | 📅 2024-09-10 - 基于 [Wails.app](https://github.com/wailsapp/wails) ⭐ 36,626 | 🐛 332 | 🌐 Go | 📅 2026-10-21 开发的 macOS 菜单栏管理
 * [阿里云盘小白羊版](https://github.com/liupan1890/aliyunpan) ⭐ 11,817 | 🐛 341 | 🌐 TypeScript | 📅 2022-10-24 - UI由Flutter构建
 
 ### 移动端
@@ -1570,11 +1570,11 @@
 
 ### 协程/线程
 
-* [ants](https://github.com/panjf2000/ants) ⭐ 14,521 | 🐛 0 | 🌐 Go | 📅 2026-09-19 - 协程池
-* [**conc**](https://github.com/sourcegraph/conc) ⭐ 10,433 | 🐛 33 | 🌐 Go | 📅 2026-09-01 - 更好用的结构化并发控制
-* [tunny](https://github.com/Jeffail/tunny) ⭐ 4,022 | 🐛 8 | 🌐 Go | 📅 2023-03-09
+* [ants](https://github.com/panjf2000/ants) ⭐ 14,522 | 🐛 0 | 🌐 Go | 📅 2026-09-19 - 协程池
+* [**conc**](https://github.com/sourcegraph/conc) ⭐ 10,434 | 🐛 33 | 🌐 Go | 📅 2026-09-01 - 更好用的结构化并发控制
+* [tunny](https://github.com/Jeffail/tunny) ⭐ 4,021 | 🐛 8 | 🌐 Go | 📅 2023-03-09
 * [pond](https://github.com/alitto/pond) ⭐ 2,199 | 🐛 7 | 🌐 Go | 📅 2026-10-17 - 协程池
-* [workerpool](https://github.com/gammazero/workerpool) ⭐ 1,459 | 🐛 3 | 🌐 Go | 📅 2026-10-19 - 无阻塞队列任务池
+* [workerpool](https://github.com/gammazero/workerpool) ⭐ 1,459 | 🐛 3 | 🌐 Go | 📅 2026-10-20 - 无阻塞队列任务池
 * [Machine](https://github.com/autom8ter/machine) ⭐ 361 | 🐛 1 | 🌐 Go | 📅 2023-03-01 - 受 errgroup.Group 启发的协程管理
 * [zeropool](https://github.com/colega/zeropool) ⭐ 256 | 🐛 0 | 🌐 Go | 📅 2023-05-05 - 零回收、类型安全的协程池
 * [go-workers](https://github.com/catmullet/go-workers) ⚠️ Archived - 安全地并发运行一组 worker，通过 channel 进行输入输出
@@ -1582,13 +1582,13 @@
 
 ### 任务/定时器
 
-* [cron](https://github.com/robfig/cron) ⭐ 14,194 | 🐛 174 | 🌐 Go | 📅 2024-07-08 - a cron library for go
-* [Asynq](https://github.com/hibiken/asynq) ⭐ 13,780 | 🐛 293 | 🌐 Go | 📅 2026-10-19 - 异步分布式任务队列
-* [Machinery](https://github.com/RichardKnop/machinery) ⭐ 7,971 | 🐛 248 | 🌐 Go | 📅 2025-11-15 - 通过分布式消息实现异步任务调度
-* [gocron](https://github.com/go-co-op/gocron) ⭐ 7,176 | 🐛 5 | 🌐 Go | 📅 2026-10-19 - 任务定时调度器
+* [cron](https://github.com/robfig/cron) ⭐ 14,193 | 🐛 174 | 🌐 Go | 📅 2024-07-08 - a cron library for go
+* [Asynq](https://github.com/hibiken/asynq) ⭐ 13,784 | 🐛 293 | 🌐 Go | 📅 2026-10-19 - 异步分布式任务队列
+* [Machinery](https://github.com/RichardKnop/machinery) ⭐ 7,972 | 🐛 248 | 🌐 Go | 📅 2025-11-15 - 通过分布式消息实现异步任务调度
+* [gocron](https://github.com/go-co-op/gocron) ⭐ 7,177 | 🐛 5 | 🌐 Go | 📅 2026-10-19 - 任务定时调度器
 * [RxGo](https://github.com/ReactiveX/RxGo) ⭐ 5,098 | 🐛 54 | 🌐 Go | 📅 2025-01-22 - Go 版 [ReactiveX](https://github.com/ReactiveX)，简单方便的处理异步数据流
 * [dkron](https://github.com/distribworks/dkron) ⭐ 4,740 | 🐛 45 | 🌐 Go | 📅 2026-10-19 - 分布式任务调度系统
-* [cronsun](https://github.com/shunfei/cronsun) ⭐ 2,907 | 🐛 87 | 🌐 Go | 📅 2024-06-06 - 分布式任务系统
+* [cronsun](https://github.com/shunfei/cronsun) ⭐ 2,908 | 🐛 87 | 🌐 Go | 📅 2024-06-06 - 分布式任务系统
 * [gocelery](https://github.com/gocelery/gocelery) ⭐ 2,487 | 🐛 57 | 🌐 Go | 📅 2023-09-12 - Celery 的 Go 语言实现
 * [Grit](https://github.com/climech/grit) ⭐ 1,701 | 🐛 19 | 🌐 Go | 📅 2026-10-03 - 基于 MultiTree 实现的任务管理
 * [PPGo\_Job](https://github.com/george518/PPGo_Job) ⭐ 1,534 | 🐛 51 | 🌐 Go | 📅 2024-05-22 - 定时任务管理系统
@@ -1599,49 +1599,49 @@
 
 ### 流处理
 
-* [watermill](https://github.com/ThreeDotsLabs/watermill) ⭐ 9,923 | 🐛 86 | 🌐 Go | 📅 2026-08-25
-* [Cadence](https://github.com/uber/cadence) ⭐ 9,504 | 🐛 209 | 🌐 Go | 📅 2026-10-19 ([Cadence Web UI](https://github.com/uber/cadence-web) ⭐ 436 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-19) - Uber开源的分布式工作流引擎，主要用于微服务编排和分布式事务等场景
-* [benthos](https://github.com/Jeffail/benthos) ⭐ 8,789 | 🐛 357 | 🌐 Go | 📅 2026-10-19
+* [watermill](https://github.com/ThreeDotsLabs/watermill) ⭐ 9,924 | 🐛 86 | 🌐 Go | 📅 2026-08-25
+* [Cadence](https://github.com/uber/cadence) ⭐ 9,509 | 🐛 212 | 🌐 Go | 📅 2026-10-21 ([Cadence Web UI](https://github.com/uber/cadence-web) ⭐ 436 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-19) - Uber开源的分布式工作流引擎，主要用于微服务编排和分布式事务等场景
+* [benthos](https://github.com/Jeffail/benthos) ⭐ 8,790 | 🐛 361 | 🌐 Go | 📅 2026-10-21
 * [go-streams](https://github.com/reugn/go-streams) ⭐ 2,177 | 🐛 12 | 🌐 Go | 📅 2026-01-14
 * [goflow](https://github.com/s8sg/goflow) ⭐ 1,380 | 🐛 38 | 🌐 CSS | 📅 2026-02-18
 * [gostream](https://github.com/itsubaki/gostream) ⭐ 60 | 🐛 0 | 🌐 Go | 📅 2026-07-06
 
 ### 微信
 
-* [wechat](https://github.com/silenceper/wechat) ⭐ 5,309 | 🐛 100 | 🌐 Go | 📅 2026-09-29 - WeChat SDK for Go
+* [wechat](https://github.com/silenceper/wechat) ⭐ 5,308 | 🐛 100 | 🌐 Go | 📅 2026-09-29 - WeChat SDK for Go
 * [wechat-go](https://github.com/songtianyi/wechat-go) ⭐ 1,863 | 🐛 36 | 🌐 Go | 📅 2022-07-13 - 微信 Web 版 API 的 Go 实现
 * [weapp](https://github.com/medivhzhan/weapp) ⭐ 1,504 | 🐛 29 | 🌐 Go | 📅 2025-07-04 - 微信小程序 SDK
 
 ### SDK
 
-* [gopay](https://github.com/iGoogle-ink/gopay) ⭐ 5,799 | 🐛 41 | 🌐 Go | 📅 2026-08-22 - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK
-* [alipay](https://github.com/smartwalle/alipay) ⭐ 2,121 | 🐛 32 | 🌐 Go | 📅 2026-07-26 - 支付宝SDK
+* [gopay](https://github.com/iGoogle-ink/gopay) ⭐ 5,800 | 🐛 41 | 🌐 Go | 📅 2026-08-22 - QQ、微信（WeChat）、支付宝（AliPay）的Go版本SDK
+* [alipay](https://github.com/smartwalle/alipay) ⭐ 2,123 | 🐛 32 | 🌐 Go | 📅 2026-07-26 - 支付宝SDK
 
 ### 区块链
 
-* [go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,419 | 🐛 483 | 🌐 Go | 📅 2026-10-19 - 以太坊协议的官方 Go 语言实现
-* [Hyperledger Fabric](https://github.com/hyperledger/fabric) ⭐ 16,746 | 🐛 214 | 🌐 Go | 📅 2026-10-19 - 基于区块链的超级账本
-* [btcd](https://github.com/btcsuite/btcd) ⭐ 6,713 | 🐛 374 | 🌐 Go | 📅 2026-10-14 - 比特币实现
-* [bbgo](https://github.com/c9s/bbgo) ⭐ 1,672 | 🐛 126 | 🌐 Go | 📅 2026-10-17 - 用 Go 编写的加密货币交易框架
+* [go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,406 | 🐛 481 | 🌐 Go | 📅 2026-10-21 - 以太坊协议的官方 Go 语言实现
+* [Hyperledger Fabric](https://github.com/hyperledger/fabric) ⭐ 16,746 | 🐛 214 | 🌐 Go | 📅 2026-10-20 - 基于区块链的超级账本
+* [btcd](https://github.com/btcsuite/btcd) ⭐ 6,714 | 🐛 374 | 🌐 Go | 📅 2026-10-14 - 比特币实现
+* [bbgo](https://github.com/c9s/bbgo) ⭐ 1,672 | 🐛 126 | 🌐 Go | 📅 2026-10-21 - 用 Go 编写的加密货币交易框架
 
 ### 开发辅助包
 
-* [lo](https://github.com/samber/lo) ⭐ 21,440 | 🐛 253 | 🌐 Go | 📅 2026-10-19 - 基于 1.18+ 泛型的常用函数
+* [lo](https://github.com/samber/lo) ⭐ 21,441 | 🐛 254 | 🌐 Go | 📅 2026-10-20 - 基于 1.18+ 泛型的常用函数
 * [mapstructure](https://github.com/mitchellh/mapstructure) ⚠️ Archived - 将 map 值转换到结构体中
-* [copier](https://github.com/jinzhu/copier) ⭐ 6,171 | 🐛 85 | 🌐 Go | 📅 2026-03-14 - struct 之间拷贝值
+* [copier](https://github.com/jinzhu/copier) ⭐ 6,170 | 🐛 85 | 🌐 Go | 📅 2026-03-14 - struct 之间拷贝值
 * [goleak](https://github.com/uber-go/goleak) ⭐ 5,299 | 🐛 26 | 🌐 Go | 📅 2026-09-15 - 检测 goroutine 泄漏
 * [go-funk](https://github.com/thoas/go-funk) ⭐ 4,926 | 🐛 12 | 🌐 Go | 📅 2024-07-24 - 基于反射实现的常用函数
 * [automaxprocs](https://github.com/uber-go/automaxprocs) ⭐ 4,852 | 🐛 23 | 🌐 Go | 📅 2025-11-02 - 自动设置 `GOMAXPROCS`
-* [concurrent-map](https://github.com/orcaman/concurrent-map) ⭐ 4,523 | 🐛 44 | 🌐 Go | 📅 2024-05-22 - 并发安全 `map`
+* [concurrent-map](https://github.com/orcaman/concurrent-map) ⭐ 4,522 | 🐛 44 | 🌐 Go | 📅 2024-05-22 - 并发安全 `map`
 * [cast](https://github.com/spf13/cast) ⭐ 3,981 | 🐛 92 | 🌐 Go | 📅 2026-09-09 - 数据类型转换
-* [mergo](https://github.com/imdario/mergo) ⭐ 3,108 | 🐛 24 | 🌐 Go | 📅 2026-10-12 - 合并结构体和字典数据
-* [mergo](https://github.com/imdario/mergo) ⭐ 3,108 | 🐛 24 | 🌐 Go | 📅 2026-10-12 - 合并结构体和字典
+* [mergo](https://github.com/imdario/mergo) ⭐ 3,109 | 🐛 24 | 🌐 Go | 📅 2026-10-12 - 合并结构体和字典数据
+* [mergo](https://github.com/imdario/mergo) ⭐ 3,109 | 🐛 24 | 🌐 Go | 📅 2026-10-12 - 合并结构体和字典
 * [stats](https://github.com/montanaflynn/stats) ⭐ 3,031 | 🐛 9 | 🌐 Go | 📅 2026-10-18 - 标准数字统计
 * [c2go](https://github.com/elliotchance/c2go) ⭐ 2,187 | 🐛 183 | 🌐 Go | 📅 2026-08-21 - 将 C 代码转换为 Go 代码的工具
 * [guregu/null](https://github.com/guregu/null) ⭐ 2,072 | 🐛 12 | 🌐 Go | 📅 2025-03-05 - SQL/JSON的`null`处理包，提供替代类型
 * [pie](https://github.com/elliotchance/pie) ⭐ 2,034 | 🐛 26 | 🌐 Go | 📅 2025-12-22 - slice/map 链式处理
 * [php2go](https://github.com/syyongx/php2go) ⭐ 1,639 | 🐛 3 | 🌐 Go | 📅 2024-10-09 - Go 实现的 140+ 个 PHP 函数功能包
-* [xstrings](https://github.com/huandu/xstrings) ⭐ 1,412 | 🐛 0 | 🌐 Go | 📅 2026-10-20 - 字符串相关函数
+* [xstrings](https://github.com/huandu/xstrings) ⭐ 1,411 | 🐛 0 | 🌐 Go | 📅 2026-10-20 - 字符串相关函数
 * [bytebufferpool](https://github.com/valyala/bytebufferpool) ⭐ 1,335 | 🐛 15 | 🌐 Go | 📅 2024-07-20 - byte buffers pool
 * [go-extend](https://github.com/thinkeridea/go-extend) ⭐ 1,304 | 🐛 1 | 🌐 Go | 📅 2023-07-20
 * [memviz](https://github.com/bradleyjkemp/memviz) ⭐ 1,290 | 🐛 18 | 🌐 Go | 📅 2021-04-29 - 图形化数据结构
@@ -1663,7 +1663,7 @@
 
 ### 代码生成
 
-* [**sqlc**](https://github.com/kyleconroy/sqlc) ⭐ 18,395 | 🐛 695 | 🌐 Go | 📅 2026-10-19 - 根据 SQL 语句生成 Go 代码
+* [**sqlc**](https://github.com/kyleconroy/sqlc) ⭐ 18,397 | 🐛 694 | 🌐 Go | 📅 2026-10-21 - 根据 SQL 语句生成 Go 代码
 * [xo](https://github.com/xo/xo) ⭐ 3,896 | 🐛 70 | 🌐 Go | 📅 2026-09-08 - 根据表结构或查询语句自动生成 Go 代码
 * [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) ⭐ 2,684 | 🐛 41 | 🌐 Go | 📅 2021-07-30 - 根据 JSON 生成结构体
 * [smallnest/gen](https://github.com/smallnest/gen) ⭐ 1,436 | 🐛 29 | 🌐 Go | 📅 2023-04-24 - 根据表结构生成结构体
@@ -1671,21 +1671,21 @@
 
 ### 系统开发
 
-* [Lima](https://github.com/AkihiroSuda/lima) ⭐ 22,125 | 🐛 511 | 🌐 Go | 📅 2026-10-20 - Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac")
-* [LinuxKit](https://github.com/linuxkit/linuxkit) ⭐ 8,666 | 🐛 381 | 🌐 Go | 📅 2026-10-15 - 为容器构建安全、便携、可移植操作系统的工具包
+* [Lima](https://github.com/AkihiroSuda/lima) ⭐ 22,132 | 🐛 509 | 🌐 Go | 📅 2026-10-21 - Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac")
+* [LinuxKit](https://github.com/linuxkit/linuxkit) ⭐ 8,667 | 🐛 381 | 🌐 Go | 📅 2026-10-15 - 为容器构建安全、便携、可移植操作系统的工具包
 * [go-systemd](https://github.com/coreos/go-systemd) ⭐ 2,719 | 🐛 71 | 🌐 Go | 📅 2026-07-23 - 绑定 systemd
 * [gopher-os](https://github.com/gopher-os/gopher-os) ⭐ 2,627 | 🐛 8 | 🌐 Go | 📅 2020-08-29 - 一个兼容 Linux 的 64 位 POSIX 风格系统
 * [gouring](https://github.com/ii64/gouring) ⭐ 122 | 🐛 8 | 🌐 Go | 📅 2023-04-25 - 不依赖 CGO 实现系统调用
 
 ### 未归类
 
-* [esbuild](https://github.com/evanw/esbuild) ⭐ 40,099 | 🐛 634 | 🌐 Go | 📅 2026-08-09 - JavaScript 构建打包工具
-* [webhook](https://github.com/adnanh/webhook) ⭐ 12,186 | 🐛 127 | 🌐 Go | 📅 2026-09-04 - 可执行 Shell 命令的 Web Hook 服务
-* [Robotgo](https://github.com/go-vgo/robotgo) ⭐ 10,872 | 🐛 4 | 🌐 Go | 📅 2026-10-16 - Golang 跨平台自动化系统，控制键盘鼠标位图和读取屏幕，窗口句柄以及全局事件监听
-* [fq](https://github.com/wader/fq) ⭐ 10,615 | 🐛 62 | 🌐 Go | 📅 2026-10-16 - 以 [jq](https://github.com/stedolan/jq) ⭐ 35,868 | 🐛 429 | 🌐 C | 📅 2026-10-16 语法读取二进制数据/文件
-* [lego](https://github.com/go-acme/lego) ⭐ 9,953 | 🐛 108 | 🌐 Go | 📅 2026-10-19 - Let's Encrypt client and ACME library
-* [gorush](https://github.com/appleboy/gorush) ⭐ 8,789 | 🐛 68 | 🌐 Go | 📅 2026-07-25 - APP 消息通知服务
-* [script](https://github.com/bitfield/script) ⭐ 7,046 | 🐛 15 | 🌐 Go | 📅 2026-10-07 - Making it easy to write shell-like scripts in Go
+* [esbuild](https://github.com/evanw/esbuild) ⭐ 40,100 | 🐛 634 | 🌐 Go | 📅 2026-08-09 - JavaScript 构建打包工具
+* [webhook](https://github.com/adnanh/webhook) ⭐ 12,191 | 🐛 127 | 🌐 Go | 📅 2026-09-04 - 可执行 Shell 命令的 Web Hook 服务
+* [Robotgo](https://github.com/go-vgo/robotgo) ⭐ 10,875 | 🐛 4 | 🌐 Go | 📅 2026-10-16 - Golang 跨平台自动化系统，控制键盘鼠标位图和读取屏幕，窗口句柄以及全局事件监听
+* [fq](https://github.com/wader/fq) ⭐ 10,615 | 🐛 59 | 🌐 Go | 📅 2026-10-20 - 以 [jq](https://github.com/stedolan/jq) ⭐ 35,895 | 🐛 424 | 🌐 C | 📅 2026-10-20 语法读取二进制数据/文件
+* [lego](https://github.com/go-acme/lego) ⭐ 9,953 | 🐛 106 | 🌐 Go | 📅 2026-10-20 - Let's Encrypt client and ACME library
+* [gorush](https://github.com/appleboy/gorush) ⭐ 8,791 | 🐛 68 | 🌐 Go | 📅 2026-07-25 - APP 消息通知服务
+* [script](https://github.com/bitfield/script) ⭐ 7,047 | 🐛 15 | 🌐 Go | 📅 2026-10-07 - Making it easy to write shell-like scripts in Go
 * [Timeliner](https://github.com/mholt/timeliner) ⚠️ Archived - 搜集整理个人在社交网站上的数据并索引成时间线
 * [go-i18n](https://github.com/nicksnyder/go-i18n) ⭐ 3,548 | 🐛 17 | 🌐 Go | 📅 2026-10-01 - 多语言工具包
 * [otp](https://github.com/pquerna/otp) ⭐ 2,963 | 🐛 22 | 🌐 Go | 📅 2025-08-07 - 一次性密码工具包(One Time Password utilities)
@@ -1696,8 +1696,8 @@
 * [semver](https://github.com/Masterminds/semver) ⭐ 1,441 | 🐛 49 | 🌐 Go | 📅 2026-08-14 - 另一个语义版本
 * [go-homedir](https://github.com/mitchellh/go-homedir) ⚠️ Archived
 * [misspell](https://github.com/client9/misspell) ⚠️ Archived - 常拼写错误的英语单词
-* [clipboard](https://github.com/atotto/clipboard) ⭐ 1,380 | 🐛 36 | 🌐 Go | 📅 2026-10-02 - 剪切板
-* [webhookd](https://github.com/ncarlier/webhookd) ⭐ 1,103 | 🐛 10 | 🌐 Go | 📅 2026-06-20 - 为 Shell 脚本提供 Web Hook 服务
+* [clipboard](https://github.com/atotto/clipboard) ⭐ 1,381 | 🐛 36 | 🌐 Go | 📅 2026-10-02 - 剪切板
+* [webhookd](https://github.com/ncarlier/webhookd) ⭐ 1,103 | 🐛 9 | 🌐 Go | 📅 2026-06-20 - 为 Shell 脚本提供 Web Hook 服务
 * [go-winio](https://github.com/microsoft/go-winio) ⭐ 1,084 | 🐛 97 | 🌐 Go | 📅 2026-10-14 - 为 Win32 IO 操作提供接口支持
 * [sysadmin-utils](https://github.com/skx/sysadmin-util) ⚠️ Archived
 * [clipboard](https://github.com/golang-design/clipboard) ⭐ 865 | 🐛 0 | 🌐 Go | 📅 2026-09-26 - 剪切板
@@ -1721,9 +1721,9 @@
 
 ## 工具
 
-* [Visual Studio Code](https://github.com/microsoft/vscode) ⭐ 194,037 | 🐛 21,988 | 🌐 TypeScript | 📅 2026-10-20
-* [gvm](https://github.com/moovweb/gvm) ⭐ 11,695 | 🐛 246 | 🌐 Shell | 📅 2024-08-08 - Go 版本管理
-* [syndbg/goenv](https://github.com/syndbg/goenv) ⭐ 2,550 | 🐛 9 | 🌐 Shell | 📅 2026-10-09 - Go 版本管理
+* [Visual Studio Code](https://github.com/microsoft/vscode) ⭐ 194,167 | 🐛 21,998 | 🌐 TypeScript | 📅 2026-10-21
+* [gvm](https://github.com/moovweb/gvm) ⭐ 11,696 | 🐛 246 | 🌐 Shell | 📅 2024-08-08 - Go 版本管理
+* [syndbg/goenv](https://github.com/syndbg/goenv) ⭐ 2,549 | 🐛 9 | 🌐 Shell | 📅 2026-10-20 - Go 版本管理
 * [wfarr/goenv](https://github.com/wfarr/goenv) ⭐ 110 | 🐛 10 | 🌐 Shell | 📅 2016-06-22 - Go 版本管理
 * [GoLand](https://www.jetbrains.com/go/) - IDE 软件
 
@@ -1739,4 +1739,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
